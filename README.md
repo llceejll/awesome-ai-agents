@@ -1134,8 +1134,8 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
-## [Databerry](https://www.chaindesk.ai/)
-(Pivoted to Chaindesk) No-code chatbot building
+## [Databerry](https://www.askli.co/)
+(Pivoted to Chaindesk, now Askli) No-code chatbot building
 
 <details>
 
