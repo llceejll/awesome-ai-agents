@@ -1096,7 +1096,7 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
-## [Databerry](https://www.databerry.ai/)
+## [Databerry](https://www.chaindesk.ai/)
 (Pivoted to Chaindesk) No-code chatbot building
 
 <details>
@@ -3103,8 +3103,8 @@ Build-your-own, Productivity
 </details>
 
 
-## [Airkit.ai](https://www.airkit.ai)
-Platform for building, testing, deploying Agents
+## [Airkit.ai](https://www.salesforce.com/agentforce/)
+Platform for building, testing, deploying Agents, acquired by Salesforce
 
 <details>
 
@@ -3118,7 +3118,7 @@ Build-your-own
 - 1 click deployment. Embed anywhere with our Web SDK. 
 
 ### Links
-- [Profile of the company](https://www.airkit.ai)
+- [Profile of the company](https://www.salesforce.com/agentforce/)
 - [Twitter](https://twitter.com/AirkitAI)
 
 </details>
@@ -3151,8 +3151,8 @@ Coding, General purpose
 </details>
 
 
-## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
-AI agent designed for business intelligence
+## [Aomni](https://duet.so/)
+(Renamed to Duet) AI agent designed for business intelligence
 
 <details>
 
@@ -3675,8 +3675,8 @@ Faster WordPress Development with domain-specific AI modes, tools, and features.
   
 </details>
 
-## [Codium AI](https://www.codium.ai/)
-Coding multipurpose AI assistant for developers
+## [Codium AI](https://www.qodo.ai/)
+(Now Qodo) Coding multipurpose AI assistant for developers
 
 <details>
 
@@ -4060,8 +4060,8 @@ With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI dev
 - [Author](https://twitter.com/0xAlbert_S3)
 </details>
 
-## [Fixie](https://www.fixie.ai/)
-Platform for creating LLM-powered AI apps
+## [Fixie](https://www.ultravox.ai/)
+(Pivoted to Ultravox) Platform for creating LLM-powered AI apps
 
 <details>
 
@@ -4077,15 +4077,14 @@ Build-your-own
 
 ### Links
 - [GitHub](https://github.com/fixie-ai)
-- [Fixie Developer Portal](https://docs.fixie.ai/)
-- [AI.JSX](https://docs.ai-jsx.com/)
+- [AI.JSX](https://github.com/fixie-ai/ai-jsx)
 - [Twitter](https://twitter.com/fixieai)
 - [Discord](https://discord.com/invite/MsKAeKF8kU)
 
 </details>
 
-## [Floode](https://floodehq.com/)
-Executive agent automating communication busywork
+## [Floode](https://thelobby.ai/)
+(Renamed to Lobby) Executive agent automating communication busywork
 
 <details>
 
@@ -4104,6 +4103,7 @@ Productivity
   - Summarize, extract tasks and information
 
 ### Links
+- [Web](https://thelobby.ai/)
 - Authors: [Sarah Allali](https://twitter.com/SarahAllali7) and [Nicolas Cabrignac](https://twitter.com/Nicowcbg)
 - [Twitter](https://twitter.com/floodehq)
 
@@ -5432,8 +5432,8 @@ Science, Productivity, Business intelligence
 
 </details>
 
-## [Zapier Central](https://zapier.com/central)
-Work hand in hand with AI bots
+## [Zapier Central](https://zapier.com/agents)
+(Now Zapier Agents) Work hand in hand with AI bots
 
 <details>
 
@@ -5453,7 +5453,7 @@ Build-your-own, Productivity, General purpose
 
 ### Links
 
-- [Web](https://zapier.com/central)
+- [Web](https://zapier.com/agents)
   
 </details>
 
