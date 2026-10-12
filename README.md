@@ -241,7 +241,6 @@ General purpose, Build your own, Multi-agent
 ### Links
 - Paper: [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
 - [Twitter](https://twitter.com/Agentverse71134)
-- [Discord](https://discord.gg/gDAXfjMw)
 - [Hugging Face](https://huggingface.co/spaces/AgentVerse/agentVerse)
 
 </details>
@@ -264,7 +263,7 @@ Coding
 
 ### Links
 - [GitHub](https://github.com/codestoryai/aide)
-- [Discord](https://discord.com/invite/DNnh6tC9VA)
+- [Discord](https://discord.com/invite/mtgrhXM5Xf)
 - [X ](https://twitter.com/codestoryai)
 - [Linkedin](https://www.linkedin.com/company/codestory-ai/)
 
@@ -289,7 +288,7 @@ Coding, GitHub
 ### Links  
 - [Website](https://aider.chat/)
 - Author: [Paul Gauthier](https://github.com/paul-gauthier) (Github)
-- [Discord Invite](https://discord.com/invite/Tv2uQnR88V)
+- [Discord Invite](https://discord.com/invite/Y7X7bhMQFV)
 
 </details>
 
@@ -800,7 +799,6 @@ Coding, Debugging
 	
 ### Links
 - [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=blinky.blinky)
-- [Discord](https://discord.gg/d3AUNHDb)
 - [GitHub](https://github.com/seahyinghang8/blinky)
 </details>
 
@@ -1164,7 +1162,6 @@ Build-your-own
 	- Auto generates a ChatGPT Plugin for each datastore
 
 ### Links
-- [Discord](https://discord.com/invite/FSWKj49ckX)
 - [GitHub](https://github.com/gmpetrov/databerry)
 
 </details>
@@ -1393,7 +1390,6 @@ General purpose, Research, Multi-agent
 
 ### Links
 - [GitHub](https://github.com/agentcoinorg/evo.ninja/)
-- [Discord](https://discord.com/invite/r3rwh69cCa)
 
 </details>
 
@@ -1584,7 +1580,6 @@ GPT Engineer is an AI agent that generates an entire codebase based on a prompt.
 ### Links
 - [Web](https://gptengineer.app)
 - [GitHub](https://github.com/AntonOsika/gpt-engineer)
-- [Discord](https://discord.com/invite/8tcDQ89Ej2)
 - Author: [Anton Osika](https://twitter.com/antonosika)
 - [Twitter review by @Attack](https://twitter.com/Attack/status/1671165869064609792)
 
@@ -1658,7 +1653,7 @@ GPT Researcher is a GPT-based autonomous agent that does online comprehensive re
 
 ### Links
 - [Website](https://tavily.com/)
-- [Discord](https://discord.com/invite/2pFkc83fRq)
+- [Discord](https://discord.com/invite/QgZXvJAccX)
 - Author: [Assaf Elovic](https://twitter.com/assaf_elovic)
 
 
@@ -1783,7 +1778,6 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 ### Links
 
 - [Youtube](https://www.youtube.com/watch?v=hAJ8ectypas&list=PLR8AMvFecu1hyMHFzaehbfFcMcECMafVs)
-- [Discord](https://discord.gg/jtrMKxzZZQ)
 - [Author's Twitter](https://twitter.com/kreneskyp)
 
 </details>
@@ -2110,7 +2104,6 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 ### Links  
 - [Youtube](https://www.youtube.com/watch?v=lODjaWclwpY)
 - Author: [Bio Bootloader](https://twitter.com/bio_bootloader) (Twitter)
-- [Discord Invite](https://discord.com/invite/zbvd9qx9Pb)
 
 </details>
 
@@ -2137,7 +2130,7 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 
 ### Links  
 - [GitHub](https://github.com/FoundationAgents/MetaGPT)
-- [Discord](https://discord.com/invite/4WdszVjv)
+- [Discord](https://discord.com/invite/ZRHeExS6xv)
 - [Twitter](https://twitter.com/DeepWisdom2019)
 - [Paper - MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
 
@@ -2746,7 +2739,6 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 ### Links
 - [GitHub](https://github.com/sweepai)
-- [Discord](https://discord.com/invite/sweep-ai)
 - [Interview: Sweep founders share learnings from building an AI coding assistant](https://e2b.dev/blog/sweep-founders-share-learnings-from-building-an-ai-coding-assistant?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 - [Tricks for prompting Sweep](https://sweep-ai.notion.site/Tricks-for-prompting-Sweep-3124d090f42e42a6a53618eaa88cdbf1)
 
@@ -2848,7 +2840,6 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 ### Links
 - [Web](https://vanna.ai/)
 - [GitHub](https://github.com/vanna-ai/vanna)
-- [Discord](https://discord.com/invite/qUZYKHremx)
 - [LinkedIn](https://www.linkedin.com/company/vanna-ai/)
 - [Docs](https://vanna.ai/docs/)
 
@@ -3078,7 +3069,6 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 
 ### Links
 - [GitHub Repository](https://github.com/genlayerlabs/yeagerai-agent/?utm_source=awesome-ai-agents)
-- [Discord](https://discord.com/invite/wKds24jdAX/?utm_source=awesome-ai-agents)
 - [License: MIT](https://github.com/genlayerlabs/yeagerai-agent/blob/main/LICENSE/?utm_source=awesome-ai-agents)
 
 </details>
@@ -4041,7 +4031,6 @@ Build-your-own
 - [GitHub](https://github.com/fixie-ai)
 - [AI.JSX](https://github.com/fixie-ai/ai-jsx)
 - [Twitter](https://twitter.com/fixieai)
-- [Discord](https://discord.com/invite/MsKAeKF8kU)
 
 </details>
 
@@ -4161,7 +4150,6 @@ Coding
 - [Web](https://www.graphlit.com/)
 - [GitHub](https://github.com/graphlit)
 - [X ](https://twitter.com/graphlit)
-- [Discord](https://discord.com/invite/WjxCHhV8Cz)
 - Founder's LInkedin: [Kirk Marple](https://www.linkedin.com/in/kirkmarple/)
 - Founder's X: [Kirk Marple](https://twitter.com/kirkmarple)
 - [Documentation](https://docs.graphlit.dev/)
@@ -4657,7 +4645,6 @@ Coding, research
 
 ### Links
 - [Web](https://www.phind.com/)
-- [Discord](https://discord.com/invite/S25yW8TebZ)
 - [X (Twitter)](https://twitter.com/phindsearch)
 - CEO's Twitter: [Michael Royzen](https://twitter.com/MichaelRoyzen)
 
@@ -4725,7 +4712,6 @@ Build-your-own
 ### Links
 - [Documentation](https://docs.proficientai.com)
 - [GitHub](https://github.com/proficientai/js)
-- [Discord](https://discord.gg/DVbwTM8erb)
 </details>
 
 ## [Q, ChatGPT for Slack](https://q-bot.suchica.com/)
@@ -4876,7 +4862,6 @@ Coding
 - [YCombinator](https://www.ycombinator.com/companies/second)
 - [Twitter](https://twitter.com/SecondDevHQ)
 - [Linkedin](https://www.linkedin.com/company/secondhq/)
-- [Discord](https://discord.com/invite/ZhYUEjsW3Z)
 - Founder: [Eric Rowell](https://twitter.com/ericdrowell)
 
 </details>
