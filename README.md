@@ -1,16 +1,5 @@
 <!--
 TBD:
-- Add to visual:
-
-- Devon
-- UFO
-- GPT Swarm
-- Eidolon
-- NexusGPT
-- Brain Soup
-- L2MAC
-
-
 Add to readme list:
 - Semantix AI Agents - add when they have english version (checked Oct 2026: the product docs are still Portuguese only)
 	-->
