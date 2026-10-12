@@ -5467,11 +5467,11 @@ Build-your-own, Productivity, General purpose
 Superagent uses E2B as a [code execution tool](https://x.com/pelaseyed/status/1709592941226831916?s=20). To try Superagent with E2B, create a Code interpreter API and then select it for your agent to use.
 </details>
 
-### :eight_pointed_black_star: [OpenAI's Assistants](https://docs.e2b.dev/llm-platforms/openai/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
+### :eight_pointed_black_star: [OpenAI Agents SDK](https://docs.e2b.dev/agents/openai-agents-sdk?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 <details>
 
-You can define actions for your AI assistant and E2B will automatically execute them inside a sandbox. This allows you to create powerful AI assistants with custom tools completely predefined by you.
-To [try the OpenAI Assistants with E2B](https://docs.e2b.dev/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents), you can follow our guide in [Python](https://docs.e2b.dev/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents#python) or [JavaScript](https://docs.e2b.dev/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents#java-script). 
+The OpenAI Agents SDK can run agents inside E2B sandboxes. Install the SDK with the E2B extra (`pip install openai-agents[e2b]`), create an `E2BSandboxClient` session and run a `SandboxAgent` in it: the agent can run commands, read and write files, and inspect the workspace.
+To [try the OpenAI Agents SDK with E2B](https://docs.e2b.dev/agents/openai-agents-sdk?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents), follow the guide in the E2B docs.
 
 </details>
 
