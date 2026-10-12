@@ -634,7 +634,6 @@ General purpose
 ### Links
 - [Tweet](https://twitter.com/yoheinakajima/status/1666313838868992001)
 - [GitHub](https://github.com/yoheinakajima/babydeeragi)
-- [Replit](https://replit.com/@YoheiNakajima/BabyDeerAGI)
 - Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
 </details>
@@ -659,7 +658,6 @@ General purpose
 ### Links
 - [Tweet](https://twitter.com/yoheinakajima/status/1678443482866933760)
 - [GitHub](https://github.com/yoheinakajima/babyagi/blob/babyelfagi/classic/BabyElfAGI/main.py)
-- [Replit](https://replit.com/@YoheiNakajima/BabyElfAGI)
 - Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
 </details>
@@ -1068,7 +1066,7 @@ Coding
 ### Links
 - [Website](https://continue.dev/)
 - [GitHub](https://github.com/continuedev/continue)
-- [Documentation](https://continue.dev/docs/intro)
+- [Documentation](https://docs.continue.dev/)
 - [Twitter](https://twitter.com/continuedev)
 
 </details>
@@ -2026,7 +2024,7 @@ Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Int
 
 
 ## [MemGPT](https://github.com/letta-ai/letta)
-Memory management system, providing context to LLM
+(Now Letta) Memory management system, providing context to LLM
 
 <details>
 
@@ -2042,7 +2040,7 @@ Memory management, Data analysis
 
 ### Links  
 - [Paper](https://arxiv.org/abs/2310.08560)
-- [Documentation](https://memgpt.readthedocs.io/)
+- [Documentation](https://docs.letta.com/)
 - [Discord](https://discord.gg/9GEQrxmVyE)
 - [Hugging Face](https://huggingface.co/MemGPT)
 
@@ -2631,7 +2629,7 @@ Coding, general purpose
 ### Links
 - [GitHub](https://github.com/SWE-agent/SWE-agent)
 - [Web](https://swe-agent.com/)
-- [Demo](https://swe-agent.com/demo)
+- [Documentation](https://swe-agent.com/latest/)
 - [Discord](https://discord.com/invite/AVEFbBn2rH)
 
 </details>
@@ -2682,7 +2680,6 @@ General purpose, Productivity
 
 ### Links
 - [GitHub](https://github.com/TaxyAI/browser-extension)
-- [Waitlist](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform)
 
 </details>
 
@@ -2900,7 +2897,7 @@ There are four key principles that we followed when developing WrenAI:
 - [Web](https://www.getwren.ai/)
 - [GitHub](https://github.com/Canner/WrenAI)
 - [X (Twitter)](https://x.com/getwrenai)
-- [Docs](https://docs.getwren.ai/overview/introduction)
+- [Docs](https://docs.getwren.ai/oss/overview/introduction)
 - [Blog](https://blog.getwren.ai/)
 
 </details>
@@ -3616,7 +3613,7 @@ Productivity, Marketig, Sales, Finance, General purpose, Business intelligence
 
 </details>
 
-## [Code Autopilot](https://www.codeautopilot.com/)
+## [Code Autopilot](https://codeautopilot.com/)
 AI Assistant for your project
 
 <details>
@@ -3628,8 +3625,7 @@ Coding, Multi-agent, GitHub
 - AI Assistant for your GitHub issues and pull requests. Create entire features and fix bugs on complex GitHub projects at a distance of a text description.
 
 ### Links
-- [Web](https://www.codeautopilot.com/)
-- [Docs](https://docs.codeautopilot.com/)
+- [Web](https://codeautopilot.com/)
 - [X](https://twitter.com/code_autopilot)
 - [Gustavo Silva - co-founder of Code Autopilot](https://twitter.com/Gsandec)
 - [Fábio Zé Domingues - co-founder of Code Autopilot](https://twitter.com/fjrdomingues)
@@ -4061,7 +4057,6 @@ With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI dev
 
 ### Links
 - [Twitter](https://twitter.com/finetuner_ai)
-- [Step-by-step guide](https://fine-tuner.ai/resources?res=1682544317646x963647349155168300)
 - [Author](https://twitter.com/0xAlbert_S3)
 </details>
 
@@ -4229,7 +4224,7 @@ Coding
 - [Discord](https://discord.com/invite/WjxCHhV8Cz)
 - Founder's LInkedin: [Kirk Marple](https://www.linkedin.com/in/kirkmarple/)
 - Founder's X: [Kirk Marple](https://twitter.com/kirkmarple)
-- [Documentation](https://docs.graphlit.dev/getting-started/readme)
+- [Documentation](https://docs.graphlit.dev/)
 
 </details>
 
@@ -4889,7 +4884,7 @@ Data analysis, Productivity, Research, Marketig, Sales, Finance
 ### Links
 - [Web](https://powerdrill.ai/)
 - [Twitter](https://x.com/powerdrillai)
-- [Documentation](https://docs.powerdrill.ai/introduction)
+- [Documentation](https://docs.powerdrill.ai/get-started/introduction)
 
 </details>
 
@@ -4968,7 +4963,6 @@ General purpose, Personal assistant, Business intelligence, Productivity
 
 ### Links
 - [Web](https://q-bot.suchica.com/)
-- [GitHub](https://github.com/hiroshinishio)
 - [LinkedIn](https://www.linkedin.com/company/suchica/)
 - [X](https://twitter.com/QBotGPT)
 - [YouTube](https://www.youtube.com/@q-aibot-2182/videos)
@@ -5091,7 +5085,6 @@ Coding
 - Perform major version upgrades on any number of applications, of any size
 - Upgrade frameworks such as Next.js 12 to 13, libraries such as MUI 4 to 5, or languages such as Python 2 to 3
 - Target users: enterprise codebases
-- [Roadmap](https://second.canny.io/)
 
 ### Links
 - [YCombinator](https://www.ycombinator.com/companies/second)
@@ -5309,7 +5302,6 @@ Coding
 
 ### Links
 - [Web](https://usetusk.ai/)
-- [GitHub](https://github.com/apps/use-tusk)
 - [X ](https://twitter.com/usetusk)
 - [LinkedIn](https://www.linkedin.com/company/usetusk/about/)
 - [Founder's X](https://twitter.com/sohilkshirsagar)
