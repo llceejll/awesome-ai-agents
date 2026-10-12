@@ -902,7 +902,7 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
-## [ChatArena](https://www.chatarena.org/)
+## [ChatArena](https://github.com/Farama-Foundation/chatarena)
 A chat tool for multi agent interaction
 
 <details>
@@ -920,7 +920,6 @@ ChatArena provides:
 - User-friendly interfaces with both Web UI and commandline interfaces.
 
 ### Links
-- [Web](https://www.chatarena.org/)
 - [GitHub](https://github.com/Farama-Foundation/chatarena)
 - [X](https://twitter.com/_chatarena)
 - [Slack channel](https://chatarena.slack.com/join/shared_invite/zt-1t5fpbiep-CbKucEHdJ5YeDLEpKWxDOg#/shared-invite/email)
@@ -1096,9 +1095,8 @@ Build-your-own, SDK for agents, Multi-agent
 ### Links
 - [GitHub](https://github.com/crewAIInc/crewAI)
 - [Founder's X](https://twitter.com/joaomdmoura)
-- [Blog post: How to use Crew AI](https://crewai.net/posts/how-to-use-crew-ai)
-- [Crew AI Wiki with examples and guides](https://github.com/crewAIInc/crewAI/wiki)
-- [Docs](https://github.com/crewAIInc/crewAI/wiki)
+- [Examples](https://github.com/crewAIInc/crewAI-examples)
+- [Docs](https://docs.crewai.com/)
 - [Discord](https://discord.com/invite/X4JWnZnxPb)
 
 </details>
