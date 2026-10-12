@@ -255,27 +255,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
-## [AI Legion](https://github.com/eumemic/ai-legion)
-Multi-agent TS platform, similar to AutoGPT
+## [Aide by Codestory](https://codestory.ai/)
+AI code interpreter, AI-powered mod of VSCode
 
 <details>
 
-![Image](https://res.cloudinary.com/apideck/image/upload/w_1500,f_auto/v1681330426/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/ai-legion/screenshots/Screenshot_2023-04-12_at_22.13.24_d9kdoj.png)
+![image](https://avatars.githubusercontent.com/u/135339264?s=200&v=4)
 
 ### Category
-Multi-agent, Build-your-own
-
+Coding
 
 ### Description
-- An LLM-powered autonomous agent platform
-- A framework for autonomous agents who can work together to accomplish tasks
-- Interaction with agents done via console direct messages
+- Still in early stage, new features coming soon
+- Now available for JS/TS
+- Can the codebase, identify the root cause, make the fix and auto-generate tests to evaluate whether the bug was resolved
+
 
 ### Links
-- Author: [eumemic](https://github.com/eumemic)
-- [Website](https://gpt3demo.com/apps/ai-legion)
-- [GitHub](https://github.com/eumemic/ai-legion)
-- [Twitter](https://twitter.com/dysmemic)
+- [Web](https://codestory.ai/)
+- [Docs](https://docs.codestory.ai/)
+- [Discord](https://discord.com/invite/DNnh6tC9VA)
+- [X ](https://twitter.com/codestoryai)
+- [Linkedin](https://www.linkedin.com/company/codestory-ai/)
+
 </details>
 
 ## [Aider](https://github.com/paul-gauthier/aider)
@@ -299,6 +301,29 @@ Coding, GitHub
 - Author: [Paul Gauthier](https://github.com/paul-gauthier) (Github)
 - [Discord Invite](https://discord.com/invite/Tv2uQnR88V)
 
+</details>
+
+## [AI Legion](https://github.com/eumemic/ai-legion)
+Multi-agent TS platform, similar to AutoGPT
+
+<details>
+
+![Image](https://res.cloudinary.com/apideck/image/upload/w_1500,f_auto/v1681330426/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/ai-legion/screenshots/Screenshot_2023-04-12_at_22.13.24_d9kdoj.png)
+
+### Category
+Multi-agent, Build-your-own
+
+
+### Description
+- An LLM-powered autonomous agent platform
+- A framework for autonomous agents who can work together to accomplish tasks
+- Interaction with agents done via console direct messages
+
+### Links
+- Author: [eumemic](https://github.com/eumemic)
+- [Website](https://gpt3demo.com/apps/ai-legion)
+- [GitHub](https://github.com/eumemic/ai-legion)
+- [Twitter](https://twitter.com/dysmemic)
 </details>
 
 ## [AIlice](https://github.com/myshell-ai/AIlice)
@@ -425,28 +450,6 @@ Coding
 
 </details>
 
-## [AutoPR](https://github.com/irgolic/AutoPR)
-AI-generated pull requests agent that fixes issues
-
-<details>
-
-![Image](https://github.com/irgolic/AutoPR/raw/main/website/static/img/AutoPR_Mark_color.png)
-
-### Category
-Coding, GitHub
-
-### Description
-- Triggered by adding a label containing AutoPR to an issue, AutoPR will:
-	- Plan a fix
-	- Write the code
-	- Push a branch
-	- Open a pull request
-
-### Links
-- [Discord](https://discord.com/invite/ykk7Znt3K6)
-
-</details>
-
 ## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
 Agent that answers HR-related queries using tools
 
@@ -472,6 +475,28 @@ HR, Business intelligence, Productivity
 - Author: [Stephen Bonifacio](https://twitter.com/Stepanogil)
 - [YouTube demo](https://www.youtube.com/watch?v=id7XRcEIBvg&ab_channel=StephenBonifacio)
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
+</details>
+
+## [AutoPR](https://github.com/irgolic/AutoPR)
+AI-generated pull requests agent that fixes issues
+
+<details>
+
+![Image](https://github.com/irgolic/AutoPR/raw/main/website/static/img/AutoPR_Mark_color.png)
+
+### Category
+Coding, GitHub
+
+### Description
+- Triggered by adding a label containing AutoPR to an issue, AutoPR will:
+	- Plan a fix
+	- Write the code
+	- Push a branch
+	- Open a pull request
+
+### Links
+- [Discord](https://discord.com/invite/ykk7Znt3K6)
+
 </details>
 
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
@@ -567,6 +592,30 @@ General purpose
 
 </details>
 
+## [BabyCommandAGI](https://github.com/saten-private/BabyCommandAGI)
+Test what happens when you combine CLI and LLM
+<details>
+
+![Image](https://github.com/saten-private/BabyCommandAGI/raw/main/docs/Architecture.png)
+
+### Category
+General purpose, Coding
+
+### Description
+- gent designed to test what happens when you combine CLI and LLM, which are more traditional interfaces than GUI (created by @saten-private)
+- An AI agent based on @yoheinakajima's [BabyAGI](https://github.com/yoheinakajima/babyagi) which executes shell commands
+- Automatic Programming, Successfully created an app automatically just by providing feedback. The procedure can be found [here](https://twitter.com/saten_work/status/1674855573412810753).
+- Automatic Environment Setup, Successfully installed a Flutter environment on Linux in a container, created the Flutter app, and launched it. The procedure can be found [here](https://twitter.com/saten_work/status/1667126272072491009).
+- Aside from setting up the environment, it seems to be able to handle a bit of general tasks such as [Generating text, like poems, code, scripts, musical pieces, email, and letters, translating languages](https://anyaitools.com/babycommandagi/?utm_source=SocialAutoPoster&utm_medium=Social&utm_campaign=Twitter)
+- There is a risk of breaking the environment. Please run in a virtual environment such as Docker.
+- GPT-4 or higher is recommended
+
+### Links
+- [Founder's Twitter](https://twitter.com/saten_work)
+- [Twitter thread describing the system](https://twitter.com/saten_work/status/1654571194111393793)
+
+</details>
+
 ## [BabyDeerAGI](https://twitter.com/yoheinakajima/status/1666313838868992001)
 Mod of BabyAGI with only ~350 lines of code
 
@@ -619,31 +668,6 @@ General purpose
 - [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyElfAGI/main.py)
 - [Replit](https://replit.com/@YoheiNakajima/BabyElfAGI)
 - Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
-
-</details>
-
-
-## [BabyCommandAGI](https://github.com/saten-private/BabyCommandAGI)
-Test what happens when you combine CLI and LLM
-<details>
-
-![Image](https://github.com/saten-private/BabyCommandAGI/raw/main/docs/Architecture.png)
-
-### Category
-General purpose, Coding
-
-### Description
-- gent designed to test what happens when you combine CLI and LLM, which are more traditional interfaces than GUI (created by @saten-private)
-- An AI agent based on @yoheinakajima's [BabyAGI](https://github.com/yoheinakajima/babyagi) which executes shell commands
-- Automatic Programming, Successfully created an app automatically just by providing feedback. The procedure can be found [here](https://twitter.com/saten_work/status/1674855573412810753).
-- Automatic Environment Setup, Successfully installed a Flutter environment on Linux in a container, created the Flutter app, and launched it. The procedure can be found [here](https://twitter.com/saten_work/status/1667126272072491009).
-- Aside from setting up the environment, it seems to be able to handle a bit of general tasks such as [Generating text, like poems, code, scripts, musical pieces, email, and letters, translating languages](https://anyaitools.com/babycommandagi/?utm_source=SocialAutoPoster&utm_medium=Social&utm_campaign=Twitter)
-- There is a risk of breaking the environment. Please run in a virtual environment such as Docker.
-- GPT-4 or higher is recommended
-
-### Links
-- [Founder's Twitter](https://twitter.com/saten_work)
-- [Twitter thread describing the system](https://twitter.com/saten_work/status/1654571194111393793)
 
 </details>
 
@@ -1088,42 +1112,6 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
-## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
-AI-driven research from data to human-verifiable research papers
-<details>
-
-<br>
-<img src="https://github.com/Technion-Kishony-lab/data-to-paper/assets/65530510/e33bcb52-5f4e-4fd0-8be9-ebd64607c449" width="400" align="center">
-<br>
-	
-### Category
-Science, Research, Multi-agent
-
-### Description
-[*data-to-paper*](https://arxiv.org/abs/2404.17605) is a framework for systematically navigating the power of AI to perform complete end-to-end 
-scientific research, starting from raw data and concluding with comprehensive, transparent, and human-verifiable 
-scientific papers.
-
-Towards this goal, *data-to-paper* systematically guides interacting 
-LLM and rule-based agents through the conventional scientific path, from annotated data, through creating 
-research hypotheses, conducting literature search, writing and debugging data analysis code, 
-interpreting the results, and ultimately the step-by-step writing of a complete research paper.
-
-The *data-to-paper* framework is created as a research project to understand the 
-capacities and limitations of LLM-driven scientific research, and to develop ways of harnessing LLM to accelerate 
-research while maintaining, and even enhancing, key scientific values, such as transparency, traceability and verifiability, 
-and while allowing scientist to oversee and direct the process 
-[see also: [living guidelines](https://www.nature.com/articles/d41586-023-03266-1)].
-
-
-### Links
-- [GitHub](https://github.com/Technion-Kishony-lab/data-to-paper)
-- [arXiv preprint](https://arxiv.org/abs/2404.17605)
-- [Demo video](https://www.youtube.com/watch?v=Nt_460MmM8k)
-
-</details>
-
-
 ## [Databerry](https://www.databerry.ai/)
 (Pivoted to Chaindesk) No-code chatbot building
 
@@ -1157,6 +1145,41 @@ Build-your-own
 - [Documentation](https://docs.chaindesk.ai/introduction)
 - [Discord](https://discord.com/invite/FSWKj49ckX)
 - [GitHub](https://github.com/gmpetrov/databerry)
+
+</details>
+
+## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
+AI-driven research from data to human-verifiable research papers
+<details>
+
+<br>
+<img src="https://github.com/Technion-Kishony-lab/data-to-paper/assets/65530510/e33bcb52-5f4e-4fd0-8be9-ebd64607c449" width="400" align="center">
+<br>
+	
+### Category
+Science, Research, Multi-agent
+
+### Description
+[*data-to-paper*](https://arxiv.org/abs/2404.17605) is a framework for systematically navigating the power of AI to perform complete end-to-end 
+scientific research, starting from raw data and concluding with comprehensive, transparent, and human-verifiable 
+scientific papers.
+
+Towards this goal, *data-to-paper* systematically guides interacting 
+LLM and rule-based agents through the conventional scientific path, from annotated data, through creating 
+research hypotheses, conducting literature search, writing and debugging data analysis code, 
+interpreting the results, and ultimately the step-by-step writing of a complete research paper.
+
+The *data-to-paper* framework is created as a research project to understand the 
+capacities and limitations of LLM-driven scientific research, and to develop ways of harnessing LLM to accelerate 
+research while maintaining, and even enhancing, key scientific values, such as transparency, traceability and verifiability, 
+and while allowing scientist to oversee and direct the process 
+[see also: [living guidelines](https://www.nature.com/articles/d41586-023-03266-1)].
+
+
+### Links
+- [GitHub](https://github.com/Technion-Kishony-lab/data-to-paper)
+- [arXiv preprint](https://arxiv.org/abs/2404.17605)
+- [Demo video](https://www.youtube.com/watch?v=Nt_460MmM8k)
 
 </details>
 
@@ -1652,6 +1675,27 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Instrukt](https://github.com/blob42/Instrukt)
+Terminal env for interacting with with AI agents
+
+<details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+### Category
+Coding, Build-your-own
+
+### Description
+- Enables users to create and instruct modular AI agents, generate document indexes for question-answering, and attach tools to agents for enhanced functionalities.
+- Facilitates coding assistance and conversational capabilities through predefined agents, along with the option to design custom agents, all within a keyboard and mouse-friendly terminal interface.
+- Provides secure execution environments for agents through Docker containers, allowing for safe and private operations, along with an integrated developer console for debugging and introspection.
+
+
+### Links
+- [GitHub](https://github.com/blob42/Instrukt)
+
+</details>
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
@@ -1706,6 +1750,34 @@ JARVIS is a system to connect LLMs with the ML community.
 ### Links
 
 - [Paper](https://arxiv.org/abs/2303.17580)
+
+</details>
+
+## [L2MAC](https://github.com/samholt/l2mac)
+Agent framework able to produce large complex codebases and entire books
+
+<details>
+
+ ![image](https://raw.githubusercontent.com/samholt/L2MAC/master/docs/public/l2mac-icon-white.png)
+
+### Category
+Multi-agent, Coding, Build your own
+
+### Description
+L2MAC is a multi-agent generation framework that, a single input prompt can generate an extensive unbounded output, such as an entire codebase or an entire book.
+- L2MAC can create near unbounded outputs that align exactly with the user input prompt over very long generation tasks
+- It achieves strong empirical performance of state-of-the-art generation for large codebase tasks and is in the top 3 for the HumanEval coding global benchmark. As L2MAC can detect invalid code and failing unit tests when generating code and automatically error corrects them.
+- Internally persists a complete file-store memory that enables LLM agents to read files and write to files, creating a large output over many iterations
+- It can be instructed to follow an exact prompt program
+- As it generates the output one part at a time, it enables an LLM with a fixed context token limit to be bypassed
+- The paper, peer-reviewed and recently accepted and published at ICLR 2024, introduces L2MAC.
+
+
+### Links  
+- [GitHub](https://github.com/samholt/l2mac)
+- [Discord](https://discord.gg/z27CxnwdhY)
+- [Twitter](https://twitter.com/samianholt)
+- [Paper - L2MAC: Large Language Model Automatic Computer for Extensive Code Generation](https://arxiv.org/abs/2310.02003)
 
 </details>
 
@@ -1893,58 +1965,6 @@ Loop GPT is a re-implementation of the popular Auto-GPT project as a proper pyth
 -->
 </details>
 
-## [L2MAC](https://github.com/samholt/l2mac)
-Agent framework able to produce large complex codebases and entire books
-
-<details>
-
- ![image](https://raw.githubusercontent.com/samholt/L2MAC/master/docs/public/l2mac-icon-white.png)
-
-### Category
-Multi-agent, Coding, Build your own
-
-### Description
-L2MAC is a multi-agent generation framework that, a single input prompt can generate an extensive unbounded output, such as an entire codebase or an entire book.
-- L2MAC can create near unbounded outputs that align exactly with the user input prompt over very long generation tasks
-- It achieves strong empirical performance of state-of-the-art generation for large codebase tasks and is in the top 3 for the HumanEval coding global benchmark. As L2MAC can detect invalid code and failing unit tests when generating code and automatically error corrects them.
-- Internally persists a complete file-store memory that enables LLM agents to read files and write to files, creating a large output over many iterations
-- It can be instructed to follow an exact prompt program
-- As it generates the output one part at a time, it enables an LLM with a fixed context token limit to be bypassed
-- The paper, peer-reviewed and recently accepted and published at ICLR 2024, introduces L2MAC.
-
-
-### Links  
-- [GitHub](https://github.com/samholt/l2mac)
-- [Discord](https://discord.gg/z27CxnwdhY)
-- [Twitter](https://twitter.com/samianholt)
-- [Paper - L2MAC: Large Language Model Automatic Computer for Extensive Code Generation](https://arxiv.org/abs/2310.02003)
-
-</details>
-
-
-## [Maige](https://maige.app)
-Natural-language workflows for your GitHub repo.
-
-<details>
-
- ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrQ3hXkHi0qTI-XThXwx7wA33LcAZZzLp5af6UjY0Vg&s)
-
-### Category
-Coding, Productivity, Debugging, Multi-agent
-	
-### Description
-- Maige is a codebase agent that runs when new issues and pull requests come up. Its core features are labelling, assigning, and answering questions.
-- Maige can search the entire codebase, spin up a sandbox to run scripts, and even write basic code.
-
-### Links  
-- [Web](https://maige.app)
-- [GitHub](https://github.com/RubricLab/maige)
-- [Video - testing Maige](https://www.youtube.com/watch?v=YN-y-iweZTc&ab_channel=TerezaTizkova)
-- [Interview - founder about building Maige](https://e2b.dev/blog/building-open-source-codebase-copilot-with-code-execution-layer?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
-- [X (Twitter)](https://twitter.com/rubriclabs)
-- [Founder's X - Ted Spare](https://twitter.com/tedspare)
-</details>
-
 ## [Magick](https://www.magickml.com/)
 AIDE for creating, deploying, monetizing agents
 
@@ -1971,6 +1991,29 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 - [Founder's LinkedIn - Jesse Alton](https://www.linkedin.com/in/mrmetaverse/)
 - [Founder's LinkedIn - Michael Sharpe](https://www.linkedin.com/in/michaelpsharpe/)
 
+</details>
+
+## [Maige](https://maige.app)
+Natural-language workflows for your GitHub repo.
+
+<details>
+
+ ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrQ3hXkHi0qTI-XThXwx7wA33LcAZZzLp5af6UjY0Vg&s)
+
+### Category
+Coding, Productivity, Debugging, Multi-agent
+	
+### Description
+- Maige is a codebase agent that runs when new issues and pull requests come up. Its core features are labelling, assigning, and answering questions.
+- Maige can search the entire codebase, spin up a sandbox to run scripts, and even write basic code.
+
+### Links  
+- [Web](https://maige.app)
+- [GitHub](https://github.com/RubricLab/maige)
+- [Video - testing Maige](https://www.youtube.com/watch?v=YN-y-iweZTc&ab_channel=TerezaTizkova)
+- [Interview - founder about building Maige](https://e2b.dev/blog/building-open-source-codebase-copilot-with-code-execution-layer?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
+- [X (Twitter)](https://twitter.com/rubriclabs)
+- [Founder's X - Ted Spare](https://twitter.com/tedspare)
 </details>
 
 ## [MemFree](https://github.com/memfreeme/memfree)
@@ -3013,6 +3056,30 @@ General purpose
 
 </details>
 
+## [AgentScale](https://agentscale.ai/)
+Your assistant, email writer, calendar scheduler
+
+<details>
+
+![image](https://assets-global.website-files.com/64e879914c784ca827df6d6d/6594ec15997b8276945f35a6_logo_side_white_cropped-p-500.png)
+
+### Category
+General purpose, Productivity
+
+### Description
+AgentScale is your very own personal assistant, email writer, calendar scheduler, and internet surfer
+- AgentScale is your very own AI personal assistant
+
+
+### Links
+- [Web](https://agentscale.ai/)
+- [X ](https://twitter.com/agentscale)
+- [LInkedin](https://www.linkedin.com/company/agentscale-ai/about/)
+- Founder's web: [Jet New](https://jetnew.io/)
+
+</details>
+
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
@@ -3040,55 +3107,6 @@ Data analysis, Science, Monitoring, General purpose, Business intelligence, Supp
 - [YouTube](https://www.youtube.com/c/agentsdotinc)
 - [Facebook](https://www.facebook.com/agentsdotinc)
 - [GitHub](https://github.com/agentsinc)
-
-</details>
-
-## [AgentScale](https://agentscale.ai/)
-Your assistant, email writer, calendar scheduler
-
-<details>
-
-![image](https://assets-global.website-files.com/64e879914c784ca827df6d6d/6594ec15997b8276945f35a6_logo_side_white_cropped-p-500.png)
-
-### Category
-General purpose, Productivity
-
-### Description
-AgentScale is your very own personal assistant, email writer, calendar scheduler, and internet surfer
-- AgentScale is your very own AI personal assistant
-
-
-### Links
-- [Web](https://agentscale.ai/)
-- [X ](https://twitter.com/agentscale)
-- [LInkedin](https://www.linkedin.com/company/agentscale-ai/about/)
-- Founder's web: [Jet New](https://jetnew.io/)
-
-</details>
-
-
-## [Aide by Codestory](https://codestory.ai/)
-AI code interpreter, AI-powered mod of VSCode
-
-<details>
-
-![image](https://avatars.githubusercontent.com/u/135339264?s=200&v=4)
-
-### Category
-Coding
-
-### Description
-- Still in early stage, new features coming soon
-- Now available for JS/TS
-- Can the codebase, identify the root cause, make the fix and auto-generate tests to evaluate whether the bug was resolved
-
-
-### Links
-- [Web](https://codestory.ai/)
-- [Docs](https://docs.codestory.ai/)
-- [Discord](https://discord.com/invite/DNnh6tC9VA)
-- [X ](https://twitter.com/codestoryai)
-- [Linkedin](https://www.linkedin.com/company/codestory-ai/)
 
 </details>
 
@@ -3347,6 +3365,28 @@ Coding, Data analysis, Research, Build-your-own (agent-builing frameworks and pl
 
 </details>
 
+## [B2 AI](https://www.b2.work/)
+Autocomplete AI assistant for work
+
+<details>
+
+![image](https://static.vecteezy.com/system/resources/previews/024/246/469/non_2x/advanced-ai-assistant-icon-in-illustration-vector.jpg)
+
+### Category
+Personal assistant, Business intelligence, Productivity, Data analysis
+
+### Description
+- B2 is an autonomous AI assistant to help you get things done
+- Share useful workflows with your team members or schedule AI-powered recurring workflows.
+- Granular data-controls so your company's data doesn't end up in the wrong hands. Fully configurable role-based access.
+
+### Links
+- [Web](https://www.b2.work/)
+- [Founder's X - Ethan](https://twitter.com/amazng_wanderer)
+
+
+</details>
+
 ## [Bardeen](https://www.bardeen.ai/)
 AI Agent for automating repetitive tasks
 
@@ -3523,28 +3563,6 @@ A tool for creating a fully-functioning, ready-to-launch website in 20 seconds
 
 ### Links
 - [Web](https://butternut.ai/)
-
-
-</details>
-
-## [B2 AI](https://www.b2.work/)
-Autocomplete AI assistant for work
-
-<details>
-
-![image](https://static.vecteezy.com/system/resources/previews/024/246/469/non_2x/advanced-ai-assistant-icon-in-illustration-vector.jpg)
-
-### Category
-Personal assistant, Business intelligence, Productivity, Data analysis
-
-### Description
-- B2 is an autonomous AI assistant to help you get things done
-- Share useful workflows with your team members or schedule AI-powered recurring workflows.
-- Granular data-controls so your company's data doesn't end up in the wrong hands. Fully configurable role-based access.
-
-### Links
-- [Web](https://www.b2.work/)
-- [Founder's X - Ethan](https://twitter.com/amazng_wanderer)
 
 
 </details>
@@ -3726,6 +3744,25 @@ Coding
 
 </details>
 
+## [Cognosys](https://cognosys.ai)
+Web-based version of AutoGPT or BabyAGI
+
+<details>
+
+![image](https://pbs.twimg.com/profile_banners/1646414136811855873/1704327520/1500x500)
+
+### Category
+General purpose, Research
+
+### Description
+- Friendly UI for building AI agents
+
+### Links
+- Author: [Sully Omarr](https://twitter.com/SullyOmarr)
+- [Interview: About deployment, evaluation, and testing of agents with Sully Omar, the CEO of Cognosys AI](https://e2b.dev/blog/about-deployment-evaluation-and-testing-of-agents-with-sully-omar-the-ceo-of-cognosys-ai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
+
+</details>
+
 ## [Commit](https://commit.dev)
 Career Copilot and AI Agent for SW Developers
 
@@ -3744,26 +3781,6 @@ Coding
 ### Links
 - CEO: [Greg Gunn](https://www.linkedin.com/in/gunnr)
 - CTO: [Beier Cai](https://www.linkedin.com/in/beiercai)
-
-</details>
-
-
-## [Cognosys](https://cognosys.ai)
-Web-based version of AutoGPT or BabyAGI
-
-<details>
-
-![image](https://pbs.twimg.com/profile_banners/1646414136811855873/1704327520/1500x500)
-
-### Category
-General purpose, Research
-
-### Description
-- Friendly UI for building AI agents
-
-### Links
-- Author: [Sully Omarr](https://twitter.com/SullyOmarr)
-- [Interview: About deployment, evaluation, and testing of agents with Sully Omar, the CEO of Cognosys AI](https://e2b.dev/blog/about-deployment-evaluation-and-testing-of-agents-with-sully-omar-the-ceo-of-cognosys-ai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 
 </details>
 
@@ -4418,27 +4435,6 @@ Coding, Multi-agent, GitHub
 
 </details>
 
-## [Instrukt](https://github.com/blob42/Instrukt)
-Terminal env for interacting with with AI agents
-
-<details>
-
-![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
-
-### Category
-Coding, Build-your-own
-
-### Description
-- Enables users to create and instruct modular AI agents, generate document indexes for question-answering, and attach tools to agents for enhanced functionalities.
-- Facilitates coding assistance and conversational capabilities through predefined agents, along with the option to design custom agents, all within a keyboard and mouse-friendly terminal interface.
-- Provides secure execution environments for agents through Docker containers, allowing for safe and private operations, along with an integrated developer console for debugging and introspection.
-
-
-### Links
-- [GitHub](https://github.com/blob42/Instrukt)
-
-</details>
-
 ## [Invicta](https://invictai.io/)
 Build your first team of Autonomous AI Agents
 
@@ -4491,6 +4487,30 @@ Data analysis
 
 </details>
 
+## [Juno](https://heyjuno.co/)
+AI-led user interviews for rich human insights
+
+<details>
+
+![image](https://framerusercontent.com/images/PobjUKj7qACciStbW7PAArGYXc.png?scale-down-to=512)
+
+### Category
+Data analysis, Research, Business intelligence, web UI
+
+### Description
+- Meet Juno! An AI-moderated research platform that conducts research and collects human insights. It’s unsupervised, multilingual and autonomous. Trained by veteran researchers, Juno empowers everyone to conduct in-depth qualitative research, without prior experience.
+- LLMs/model providers supported
+  - OpenAI
+
+### Links
+
+- [Web](https://heyjuno.co/)
+- [X](https://twitter.com/heyjunoco)
+- [LinkedIn](https://www.linkedin.com/company/heyjunoco/)
+- [Privacy overview](https://twitter.com/heyjunoco)
+
+</details>
+
 ## [Kadoa](https://www.kadoa.com/)
 Web Scraping on Autopilot with AI
 
@@ -4515,30 +4535,6 @@ Coding, Data analysis
 ### Links
 - [Playground](https://www.kadoa.com/playground)
 - Author: [Adrian Krebs](https://twitter.com/krebs_adrian)
-
-</details>
-
-## [Juno](https://heyjuno.co/)
-AI-led user interviews for rich human insights
-
-<details>
-
-![image](https://framerusercontent.com/images/PobjUKj7qACciStbW7PAArGYXc.png?scale-down-to=512)
-
-### Category
-Data analysis, Research, Business intelligence, web UI
-
-### Description
-- Meet Juno! An AI-moderated research platform that conducts research and collects human insights. It’s unsupervised, multilingual and autonomous. Trained by veteran researchers, Juno empowers everyone to conduct in-depth qualitative research, without prior experience.
-- LLMs/model providers supported
-  - OpenAI
-
-### Links
-
-- [Web](https://heyjuno.co/)
-- [X](https://twitter.com/heyjunoco)
-- [LinkedIn](https://www.linkedin.com/company/heyjunoco/)
-- [Privacy overview](https://twitter.com/heyjunoco)
 
 </details>
 
@@ -5298,6 +5294,28 @@ Build-your-own, General purpose, Productivity
 </details>
 
 
+## [Test Driver](https://testdriver.ai/)
+AI Agent for QA in GitHub
+
+<details>
+
+![image](https://framerusercontent.com/images/in0q3dhCrmymGzApkC4KBzdpcE.png?scale-down-to=512)
+
+### Category
+Coding, Productivity, Debugging, Testing
+
+### Description
+- "No more writing automated tests or waiting on manual testing.
+- Instruct @testdriverai to test any PR with natural language.
+- TestDriver will perform a test on your PR and send back video and log recording of what occurred."
+
+### Links
+- [Web](https://testdriver.ai/)
+- [X (Twitter)](https://twitter.com/sunglassesface)
+- [LinkedIn](https://www.linkedin.com/in/adam-eldefrawy-8623a815a/)
+    
+</details>
+
 ## [ThinkChain AI](https://www.thinkchain.ai/)
 Financial AI agent platform
 
@@ -5320,28 +5338,6 @@ Finance, Data analysis
 - [Web](https://www.thinkchain.ai/)
 - Founder: [Tony Lewis](https://twitter.com/_tony_lewis)
 
-</details>
-
-## [Test Driver](https://testdriver.ai/)
-AI Agent for QA in GitHub
-
-<details>
-
-![image](https://framerusercontent.com/images/in0q3dhCrmymGzApkC4KBzdpcE.png?scale-down-to=512)
-
-### Category
-Coding, Productivity, Debugging, Testing
-
-### Description
-- "No more writing automated tests or waiting on manual testing.
-- Instruct @testdriverai to test any PR with natural language.
-- TestDriver will perform a test on your PR and send back video and log recording of what occurred."
-
-### Links
-- [Web](https://testdriver.ai/)
-- [X (Twitter)](https://twitter.com/sunglassesface)
-- [LinkedIn](https://www.linkedin.com/in/adam-eldefrawy-8623a815a/)
-    
 </details>
 
 ## [Tusk](https://usetusk.ai/)
@@ -5371,28 +5367,6 @@ Coding
   
 </details>
 
-## [Vortic](https://www.vortic.ai/)
-AI agent helping Insurance Sales and Claims
-
-<details>
-
-![image](https://media.licdn.com/dms/image/D560BAQEG1EZ0w5b_pw/company-logo_200_200/0/1710090819045/vortic_ai_logo?e=2147483647&v=beta&t=cNHAuR0hBAAO_LAhV9iNj0Ha3s8gkQkl1esp3i1RGD4)
-
-### Category
-Productivity, Build-your-own (agent-builing frameworks and platforms), Sales, General purpose, Multi-agent, Supports open-source models
-
-### Description
-- Vortic wants to make it easy for the enterprises to embed the agents with the real purpose business outcomes.
-- Vortic aims to provide the real time value realisation with the pre built agents embedding with their ecosystem providing customised toolkits.
-
-### Links
-- [Web](https://www.vortic.ai/)
-- [Co-founder's LinkedIn 1](https://www.linkedin.com/in/harshnagalla/)
-- [Co-founder's LinkedIn 2](https://www.linkedin.com/in/divyajot-singh-06b78559/)
-
-</details>
-
-
 ## [v0 by Vercel](https://v0.dev/)
 Get React code based on Shadcn UI & Tailwind CSS
 
@@ -5414,6 +5388,27 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 ### Links
 - [Web](https://v0.dev/)
 - [X post](https://x.com/rauchg/status/1702353417375826303?s=20)
+
+</details>
+
+## [Vortic](https://www.vortic.ai/)
+AI agent helping Insurance Sales and Claims
+
+<details>
+
+![image](https://media.licdn.com/dms/image/D560BAQEG1EZ0w5b_pw/company-logo_200_200/0/1710090819045/vortic_ai_logo?e=2147483647&v=beta&t=cNHAuR0hBAAO_LAhV9iNj0Ha3s8gkQkl1esp3i1RGD4)
+
+### Category
+Productivity, Build-your-own (agent-builing frameworks and platforms), Sales, General purpose, Multi-agent, Supports open-source models
+
+### Description
+- Vortic wants to make it easy for the enterprises to embed the agents with the real purpose business outcomes.
+- Vortic aims to provide the real time value realisation with the pre built agents embedding with their ecosystem providing customised toolkits.
+
+### Links
+- [Web](https://www.vortic.ai/)
+- [Co-founder's LinkedIn 1](https://www.linkedin.com/in/harshnagalla/)
+- [Co-founder's LinkedIn 2](https://www.linkedin.com/in/divyajot-singh-06b78559/)
 
 </details>
 
