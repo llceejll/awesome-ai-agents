@@ -3991,6 +3991,9 @@ With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI dev
 
 
 ### Links
+- [Web](https://fine-tuner.ai/)
+- [Synthflow](https://synthflow.ai/)
+
 </details>
 
 ## [Fixie](https://www.ultravox.ai/)
