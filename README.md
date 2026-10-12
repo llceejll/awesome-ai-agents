@@ -1907,41 +1907,6 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 </details>
 
 
-## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
-Re-implementation of AutoGPT as a Python package
-
- <details>
-
- ![image](https://github.com/farizrahman4u/loopgpt/raw/main/docs/assets/imgs/loopgpt_demo_pic.png?raw=true)
-
-### Category
-General purpose
-
-### Description
-Loop GPT is a re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind
-- Languages: Python
-- Default model: GPT-3.5-turbo (also possible with GPT-4)
-- Modular Auto-GPT Framework
-- Plug N Play" API - Extensible and modular "Pythonic" framework, not just a command line tool
-- Features
-	- "Easy to add new features, integrations and custom agent capabilities, all from python code, no nasty config files!"
-	- "Minimal prompt overhead - Every token counts. We are continuously working on getting the best results with the least possible number of tokens."
-	- "Human in the Loop - Ability to "course correct" agents who go astray via human feedback."
-	- "Full state serialization - can save the complete state of an agent, including memory and the states of its tools to a file or python object. No external databases or vector stores required (but they are still supported)!"
-
-### Links
-- [GitHub](https://github.com/farizrahman4u/loopgpt)
-
-<!--
-### Features
-- "Easy to add new features, integrations and custom agent capabilities, all from python code, no nasty config files!"
-- "Minimal prompt overhead - Every token counts. We are continuously working on getting the best results with the least possible number of tokens."
-- "Human in the Loop - Ability to "course correct" agents who go astray via human feedback."
-- "Full state serialization - can save the complete state of an agent, including memory and the states of its tools to a file or python object. No external databases or vector stores required (but they are still supported)!"
-
--->
-</details>
-
 ## [Magick](https://www.magickml.com/)
 AIDE for creating, deploying, monetizing agents
 
@@ -3123,34 +3088,6 @@ Build-your-own
 
 </details>
 
-## [Airplane Autopilot](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents/)
-Autopilot AI assistant of the Airplane company
-
-<details>
-
-![image](https://www.airplane.dev/autopilot/hero/autopilot-logo.png)
-
-### Category
-Coding, General purpose
-
-### Description
-
-- A developer-centric approach to building internal UIs and workflows
-- Turning APIs, SQL queries, and scripts into apps for the entire team
-- Features
-	- Airplane lets you turn SQL queries, JavaScript/Python code, HTTP requests, etc into tasks
-	- Allows to run tasks through a no-code dashboard
-	- Tasks for customer support, on-call runbooks, and scheduled tasks
-
-### Links
-- [Profile of the company](https://www.airplane.dev/?utm_source=awesome-ai-agents)
-- [Documentation](https://docs.airplane.dev/?utm_source=awesome-ai-agents)
-- [Twitter](https://twitter.com/AirplaneDev/?utm_source=awesome-ai-agents)
-- [They're building an AI assistant here](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents)
-
-</details>
-
-
 ## [Aomni](https://duet.so/)
 (Renamed to Duet) AI agent designed for business intelligence
 
@@ -3311,49 +3248,6 @@ Data analysis, Business intelligence
 
 </details>
 
-## [Avanzai](https://avanz.ai/)
-AI agents for portfolio risk and asset allocation
-
-<details>
-
-![image](https://framerusercontent.com/images/abZ2DpGylwpNlOcvhmiTEHLvU.png?scale-down-to=512)
-
-### Category
-Coding, Data analysis, Research, Build-your-own (agent-builing frameworks and platforms), Finance, Multi-agent
-
-### Description
--  Avanzai helps users build autonomous AI agents that scrape news, fetch real time data and write Python code that helps them calculate risk exposures of their portfolio.
--  Users can then deploy these agents to work around the clock, saving users time from doing this themselves.
-
-### Links
-- [Web](https://avanz.ai/)
-- [Founder's X (Twitter)](https://x.com/gmanmalena_)
-- [LinkedIn](https://www.linkedin.com/company/avanzai/)
-
-</details>
-
-## [B2 AI](https://www.b2.work/)
-Autocomplete AI assistant for work
-
-<details>
-
-![image](https://static.vecteezy.com/system/resources/previews/024/246/469/non_2x/advanced-ai-assistant-icon-in-illustration-vector.jpg)
-
-### Category
-Personal assistant, Business intelligence, Productivity, Data analysis
-
-### Description
-- B2 is an autonomous AI assistant to help you get things done
-- Share useful workflows with your team members or schedule AI-powered recurring workflows.
-- Granular data-controls so your company's data doesn't end up in the wrong hands. Fully configurable role-based access.
-
-### Links
-- [Web](https://www.b2.work/)
-- [Founder's X - Ethan](https://twitter.com/amazng_wanderer)
-
-
-</details>
-
 ## [Bardeen](https://www.bardeen.ai/)
 AI Agent for automating repetitive tasks
 
@@ -3430,29 +3324,6 @@ Written about Blackbox:
 
 </details>
 
-
-## [Blobr](https://www.blobr.io/)
-AI business assistant connected to all your tools
-
-<details>
-
-![image](https://assets-global.website-files.com/5f1ace21b47b368069989680/65cdd7ab62643c6baa204181_logo-blobr-white.svg)
-
-### Category
-Data analysis, Productivity, Marketig, Sales, Business intelligence
-
-### Description
-- Blobr is an AI assistant making sense of your business data stored in all your siloed SaaS. Reveal insights, understand variations and customer patterns without technical effort.
-- Blobr helps Sales Ops, Marketing Ops and growth people to make better decisions.
-- Blobr adds an intelligence layer connected to all your SaaS (Hubspot, Google Analytics, Stripe, etc.).
-
-
-### Links
-- [Web](https://www.blobr.io/)
-- [X (Twitter)](https://twitter.com/Blobr_io)
-- [Founder's LinkedIn](https://www.linkedin.com/in/alexandre-airvault-aabaa758/)
-
-</details>
 
 ## [BrainSoup](https://www.nurgo-software.com/products/brainsoup)
 Build an AI team that works for you, on your PC
@@ -3570,30 +3441,6 @@ Data analysis, Content creation, Productivity, Research, Marketig, Sales, Busine
 
 </details>
 
-## [Claros AI Shopper](https://www.claros.so/)
-AI shopper that finds products for your taste
-<details>
-
-![image](https://www.claros.so/logo-circle.png)
-
-### Category
-Personal assistant
-
-### Description
-Claros is an AI personal shopper that finds you interesting products, and learns your taste over time
-- AI Shopping Assistants for Ecom + Everyone
-- Claros is an AI personal shopper that finds you cool and interesting products. It can also learn your taste over time to give you the best results possible
-
-
-### Links
-- [Web](https://www.claros.so/)
-- [X](https://twitter.com/so_claros)
-- [LinkedIn](https://www.linkedin.com/company/clarosai/)
-- [Founder's X - Anish](https://twitter.com/thiteanish)
-- - [Founder's X - Ammar Safdari](https://twitter.com/asapdar)
-
-</details>
-
 ## [Claygent](https://www.clay.com/learn/claygent)
 Agent that scrapes and summarize data from the web
 
@@ -3703,25 +3550,6 @@ Coding
 - [Discord](https://discord.com/invite/SgSxuQ65GF)
 - [GitHub](https://github.com/Codium-ai)
 
-
-</details>
-
-## [Cognosys](https://cognosys.ai)
-Web-based version of AutoGPT or BabyAGI
-
-<details>
-
-![image](https://pbs.twimg.com/profile_banners/1646414136811855873/1704327520/1500x500)
-
-### Category
-General purpose, Research
-
-### Description
-- Friendly UI for building AI agents
-
-### Links
-- Author: [Sully Omarr](https://twitter.com/SullyOmarr)
-- [Interview: About deployment, evaluation, and testing of agents with Sully Omar, the CEO of Cognosys AI](https://e2b.dev/blog/about-deployment-evaluation-and-testing-of-agents-with-sully-omar-the-ceo-of-cognosys-ai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 
 </details>
 
@@ -3973,23 +3801,6 @@ Coding, GitHub, GitLab
 
 </details>
 
-## [encode](https://encode.software)
-Fully autonomous AI SW engineer in early stage
-
-<details>
-
-![image](https://encode.software/_next/image?url=%2Fslack2.png&w=1920&q=75)
-
-### Category
-Coding
-
-### Description
-- in alpha
-- encode works with you and your team to get work done
-- demo: https://encode.software/demo
-</details>
-
-
 ## [Factory](https://factory.com/)
 Coding Droids for building software end-to-end
 
@@ -4006,29 +3817,6 @@ Coding
 
 ### Links
 - [CEO](https://twitter.com/matangrinberg)
-
-</details>
-
-## [Fine](https://www.fine.dev/)
-Build Software with AI Agents
-
-<details>
-
-![image](https://assets-global.website-files.com/6290be8d112ee934eeb6aaf2/64e2150d1d1c34380ec59254_logo%20white%20with%20name.png)
-
-### Category
-Coding, Multi-agent, Build-your-own
-
-### Description
-- Deploy, manage, and run AI agents that serve as your virtual teammates.
-- Built for teams, with organizational memory and collaboration in mind.
-- Privacy oriented, we don't store your code, everything runs locally.
-- Multiagent platform: Build your own custom agents.
-
-### Links
-- [Twitter](https://twitter.com/thisisfinedev)
-- [Discord](https://discord.gg/nxW8sA5yqe)
-- [YouTube](https://www.youtube.com/@thisisfinedev)
 
 </details>
 
@@ -4183,28 +3971,6 @@ Coding
 - [Web](https://www.gitwit.dev/)
 
 </details>
-
-## [GoCharlie](https://gocharlie.ai/)
-Multimodal content creation autonomous agent 
-<details>
-
-![image](https://gocharlie.ai/wp-content/uploads/2023/08/gocharlie_logo_ai_2x-230x49@2x.png)
-
-### Category
-Content creation, General purpose
-
-### Description
-GoCharlie is a multimodal content creation autonomous agent.
-
-### Links
-- [X ](https://twitter.com/GocharlieAI)
-- [Linkedin](https://www.linkedin.com/company/gocharlieai/)
-- Founders' X accounts:
- 	- [Kostas Hatalis](https://twitter.com/kostashatalis)
-  	- [Brennan M. Woodruff](https://twitter.com/BrennanWoodruff)
-
-</details>
-
 
 ## [Graphlit](https://www.graphlit.com/)
 API-first data platform for building apps with AI
@@ -4368,54 +4134,6 @@ Productivity, Daily life, Build-your-own (agent-builing frameworks and platforms
 
 </details>
 
-## [Input](https://useinput.com/)
-AI-powered teammate that can collaborate on code
-<details>
-
-![image](https://useinput.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlightLogo.196eccc1.png&w=640&q=75)
-
-### Category
-Coding, Multi-agent, GitHub
-
-### Description
-- AI assistant (or team of assistants) for coding
-- Allows to invite team members to collaborate with you and AI
-- Agents do the work, and push it to GitHub autonomously
-
-### Links
-- [Web](https://useinput.com/)
-- [X](https://twitter.com/useinputai)
-
-</details>
-
-## [Invicta](https://invictai.io/)
-Build your first team of Autonomous AI Agents
-
-<details>
-
-![image](https://invictai.io/_next/image?url=%2Fimages%2Finvicta-text-black.svg&w=3840&q=75)
-
-### Category
-Build-your-own (agent-builing frameworks and platforms), Multi-agent
-
-### Description
-- Your AI autopilot, not just a co-pilot.
-- In-sync Knowledge Base: Notion, Google Drive, URLs, all file types and more
-- Self-improving: They get better with each interaction and collaboration.
-- LLM Agnostic. Use the best LLMs from OpenAI, Google, Mistral, and Anthropic, etc.
-- Deploy agents where your team is: Zendesk, Slack, Discord, etc.
-- Cooperative AI Teams: your agents can collaborate with each other as a team to complete complex workflows
-
-
-### Links
-- [Web](https://invictai.io/)
-- [GitHub](https://github.com/Invicta-AI)
-- [X (Twitter)](https://twitter.com/InvictaAI)
-- [LinkedIn](https://www.linkedin.com/company/invicta-ai/)
-
-</details>
-
-
 ## [Julius](https://julius.ai/)
 AI data processing, analysis, and visualization
 
@@ -4552,28 +4270,6 @@ Coding, Productivity, Debugging
 - [Abhishek Saikia - cofounder at Kusho](https://www.linkedin.com/in/abhishek1315/)
   
 </details>
-
-## [Kwal](https://www.kwal.ai/)
-Voice Agents for Recruiting
-
-<details>
-
-![image](https://static.wixstatic.com/media/d84692_0e36f4d5a7974924a68d537a0c8184f9~mv2.png/v1/fill/w_302,h_166,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d84692_0e36f4d5a7974924a68d537a0c8184f9~mv2.png)
-
-### Category
-Productivity
-
-### Description
-- 
-
-### Links
-
-- [Web](https://www.kwal.ai/)
-- [X (Twitter)](https://x.com/Kwal_AI)
-- [LinkedIn](https://www.linkedin.com/company/kwal/about/)
-  
-</details>
-
 
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
@@ -4720,79 +4416,6 @@ By creator of GitHub Copilot, in waitlist stage
 </details>
 
 
-## [MultiOn](https://multion.ai/)
-Book a flight or order a burger with MultiOn
-<details>
-
-![image](https://pbs.twimg.com/profile_images/1735699647744864256/jrKJWM78_400x400.jpg)
-
-### Category
-Productivity, General purpose
-
-### Description
-- The agent runs and controls the local Google Chrome, which allows it to interact with the world/services/web apps, just like people interact with the world/services/web apps using Google Chrome
-- The agent itself probably also runs locally and currently, it needs the local Google Chrome to function
-- Our understanding from the demo video is that they use local code and a custom plugin in ChatGPT to control a web browser (e.g., Google Chrome). This setup enables MultiOn to perform tasks like ordering plane tickets as if a human were interacting with the browser directly
-- Use cases
-	- A lot of cool real use cases, e.g.,
-	-Sending an email fully autonomously
-	-Posting a tweet
-	-Sending a tweet reply to a specific person with a specific message
-	-Sending a Facebook message to a friend
-	-Searching for vacation rentals and check pricing for an upcoming trip
-	-Searching for a wedding venue and starting the wedding planning process
-	-Scheduling a car wash
-- After introducing the GPT function calling, MultiOn can call itself recursively to spawn more sub-agents
-- Instead of calling multiple functions or APIs you just need one Universal Function that can interact with all services and have it call itself to accomplish more complex tasks in parallel
-
-### Links
-- [Twitter](https://twitter.com/MultiON_AI)
-- Author: [Div Garg](https://twitter.com/DivGarg9)
-</details>
-
-## [Mutable AI](https://mutable.ai/)
-AI-Accelerated Software Development
-
-<details>
-
-![image](https://mutable.ai/Reverse-noMargin1000w-p-500.acf1588e.png)
-
-### Category
-Coding
-
-### Description
-- Features
-	- AI Autocomplete
-	- Production Quality Code with One Click
-	- Prompt driven development
-	- Test Generation (coming soon)
-
-### Links
-- [Discord](https://discord.com/invite/zAwadbmuVk)
-- [Twitter](https://twitter.com/mutableai)
-- [GitHub](https://github.com/mutableai/)
-
-</details>
-
-
-## [Naut](https://www.naut.ai/)
-Build your own agents. In early stage
-<details>
-
-![image](https://pbs.twimg.com/profile_images/1643093020097609730/XmHqIOhJ_400x400.jpg)
-
-### Category
-Build-your-own, Multi-agent
-
-### Description
-"Build your team of AI agents that work for you.  Early access now live. Join waitlist."
-
-
-### Links
-- [Twitter](https://twitter.com/naut_ai)
-</details>
-
-
 ## [NexusGPT](https://gpt.nexus/)
 Build AI agents in minutes, without coding
 <details>
@@ -4908,38 +4531,6 @@ Build-your-own
 - [Documentation](https://docs.proficientai.com)
 - [GitHub](https://github.com/proficientai/js)
 - [Discord](https://discord.gg/DVbwTM8erb)
-</details>
-
-## [Promptly](https://www.trypromptly.com/)
-Generative AI for Your Enterprise
-
-<details>
-
-![image](https://assets-global.website-files.com/64627565e0cbc380d04ed8ae/6488f9eb9992aa1dc3bc1a63_logo.svg)
-
-### Category
-Build-your-own, no-code, web UI
-
-### Description
-- Build tailor-made generative AI agents, applications and chatbots that cater to your users' unique needs.
-- Seamlessly integrate your own data and GPT-powered models without any coding experience.
-- Promptly supports all major model providers, like OpenAI, Cohere, Stability AI, Hugging Face, and more. Easily use these models to build powerful apps.
-- Promptly provides embeddable widgets that you can easily integrate into your website. Use these widgets to build conversational AI applications or to add a chatbot to your website.
-- Import your own data and connect it to LLM models to supercharge your generative AI applications and chatbots. Promptly supports a wide variety of data sources, including Web URLs, Sitemaps, PDFs, Audio, PPTs, Google Drive, Notion imports etc
-- LLMs/model providers supported
-  - OpenAI
-  - Cohere
-  - Stability AI
-  - Hugging Face
-
-### Links
-- [Web](https://www.trypromptly.com/)
-- [X](https://twitter.com/trypromptly)
-- [GitHub](https://github.com/trypromptly)
-- [Discord](https://discord.com/invite/3JsEzSXspJ)
-- [LinkedIn](https://www.linkedin.com/company/trypromptly/)
-- [YouTube](https://www.youtube.com/@trypromptly)
-
 </details>
 
 ## [Q, ChatGPT for Slack](https://q-bot.suchica.com/)
@@ -5160,56 +4751,6 @@ General purpose
 
 </details>
 
-## [Superluminal](https://superluminal.dev)
-AI copilot to your product's data dashboard
-
-<details>
-
-![image](https://superluminal.dev/176fae26858de1966f98.svg)
-
-### Category
-Coding, Data analysis
-
-### Description
-- Get set up in minutes with the Superluminal React component, or use the API directly for custom solutions.
-- Writes Python code to answer questions and perform tasks, similar to ChatGPT + CodeInterpreter.
-- Fully managed compute infrastructure for the secure execution of generated code.
-- Customize the look and feel to fit your product.
-- Full support for graphs, pivots and filters in addition to textual answers.
-- Enable your customers to extract more value from the data already on their dashboard with meaningful answers to high-level questions.
-
-
-### Links
-- [Twitter](https://twitter.com/getluminal/)
-- [Linkedin](https://www.linkedin.com/company/74930600/)
-
-</details>
-
-## [TalktoData](https://talktodata.ai/)
-Data discovery, cleaing, analysis & visualization
-
-<details>
-
-![image](https://talktodata.ai/hubfs/logo-transparant-04-1.svg)
-
-### Category
-Coding, Data analysis
-
-### Description
-- AI Data Analyst that works with your CSV, Excel, Goolge Sheets and SQL Databases
-- AI Agent for all the data analytics needs
-- Allows users to generate beautiful visualizations, followup question and refine requirements
-- "ChatGPT for Data Analysis"
-- A Data Analyst the never sleeps and always available(A chat away)
-
-
-### Links
-- [Web](https://talktodata.ai/)
-- [Twitter](https://twitter.com/TalktoData)
-- [Linkedin](https://www.linkedin.com/company/talktodata/)
-- Team Twitter profiles: [Vinod Varma](https://twitter.com/vinodvarma24)
-</details>
-
 ## [Taskade](https://www.taskade.com/)
 Create, train, and run custom AI agents
 
@@ -5330,52 +4871,6 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 ### Links
 - [Web](https://v0.app/)
 - [X post](https://x.com/rauchg/status/1702353417375826303?s=20)
-
-</details>
-
-## [Vortic](https://www.vortic.ai/)
-AI agent helping Insurance Sales and Claims
-
-<details>
-
-![image](https://media.licdn.com/dms/image/D560BAQEG1EZ0w5b_pw/company-logo_200_200/0/1710090819045/vortic_ai_logo?e=2147483647&v=beta&t=cNHAuR0hBAAO_LAhV9iNj0Ha3s8gkQkl1esp3i1RGD4)
-
-### Category
-Productivity, Build-your-own (agent-builing frameworks and platforms), Sales, General purpose, Multi-agent, Supports open-source models
-
-### Description
-- Vortic wants to make it easy for the enterprises to embed the agents with the real purpose business outcomes.
-- Vortic aims to provide the real time value realisation with the pre built agents embedding with their ecosystem providing customised toolkits.
-
-### Links
-- [Web](https://www.vortic.ai/)
-- [Co-founder's LinkedIn 1](https://www.linkedin.com/in/harshnagalla/)
-- [Co-founder's LinkedIn 2](https://www.linkedin.com/in/divyajot-singh-06b78559/)
-
-</details>
-
-## [Wispy](https://wispy.technicalmagic.ai/)
-Summarize content, compose content, create quizzes
-
-<details>
-
-![image](https://wispy.technicalmagic.ai/assets/icon-white.svg)
-
-### Category
-Research, content creation
-
-### Description
-Wispy is a web-browsing AI assistant that can summarize content, compose content, explain things or create quizzes for topics you are learning
-- Wispy is stil in Beta version
-- With Wispy, you can effortlessly transform web content to perfectly suit your unique needs, all without leaving the comfort of your browser
-- Chat-based AI like Llama and GPT-4 are not the only ways to incorporate AI into your life
-- With Wispy, go beyond chatbots with a browser-native AI companion that makes your browsing more delightful, productive, and streamlined!
-
-
-### Links
-- [Web](https://wispy.technicalmagic.ai/)
-- [Chrome extension](https://chrome.google.com/webstore/detail/wispy-your-personalized-a/nbljfchpacfegmmmajcneihieeglpofc)
-
 
 </details>
 
