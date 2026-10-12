@@ -119,8 +119,6 @@ LLM-agnostic platform for agent building & testing
 
 <details>
 
-![Image](https://pbs.twimg.com/profile_images/1667167265060528129/l8S9vtP2_400x400.jpg)
-
 ### Category
 General purpose, Build your own, Multi-agent
 
@@ -238,7 +236,7 @@ General purpose, Build your own, Multi-agent
 Platform for task-solving & simulation agents
 <details>
 
-![Image](https://pbs.twimg.com/card_img/1744672970822615040/m870GGf1?format=jpg&name=medium)
+![Image](https://avatars.githubusercontent.com/u/89920203?s=200&v=4)
 
 ### Category
 General purpose, Build your own, Multi-agent
@@ -330,7 +328,7 @@ Multi-agent, Build-your-own
 Create agents-calling tree to execute your tasks
 <details>
 
-![Image](https://github.com/myshell-ai/AIlice/raw/master/AIlice.png)
+![Image](https://raw.githubusercontent.com/myshell-ai/AIlice/master/ailice/app/static/AIlice.png)
 
 ### Category
 General purpose, Personal assistant, Productivity
@@ -349,7 +347,7 @@ General purpose, Personal assistant, Productivity
 Multi-agent framework with diversity of agents
 <details>
 
-![Image](https://github.com/microsoft/autogen/raw/main/website/static/img/autogen_agentchat.png)
+![Image](https://raw.githubusercontent.com/microsoft/autogen/main/python/docs/src/_static/images/logo/logo.svg)
 
 ### Category
 General purpose, Build your own, Multi-agent
@@ -375,7 +373,7 @@ Experimental attempt to make GPT4 fully autonomous
 
 <details>
 
-![Image](https://news.agpt.co/wp-content/uploads/2023/04/Logo_-_Auto_GPT-B-800x363.png)
+![Image](https://avatars.githubusercontent.com/u/130738209?s=200&v=4)
 
 ### Category
 General purpose
@@ -481,8 +479,6 @@ HR, Business intelligence, Productivity
 AI-generated pull requests agent that fixes issues
 
 <details>
-
-![Image](https://github.com/irgolic/AutoPR/raw/main/website/static/img/AutoPR_Mark_color.png)
 
 ### Category
 Coding, GitHub
@@ -595,8 +591,6 @@ General purpose
 ## [BabyCommandAGI](https://github.com/saten-private/BabyCommandAGI)
 Test what happens when you combine CLI and LLM
 <details>
-
-![Image](https://github.com/saten-private/BabyCommandAGI/raw/main/docs/Architecture.png)
 
 ### Category
 General purpose, Coding
@@ -712,7 +706,7 @@ Data exploration and analysis for non-programmers
 
 <details>
 
-![Image](https://pbs.twimg.com/card_img/1745187734602313730/f-W5kbIU?format=jpg&name=medium)
+![Image](https://raw.githubusercontent.com/pgalko/BambooAI/main/docs/images/logo.png)
 
 ### Category
 Data analysis
@@ -740,8 +734,6 @@ Data analysis
 Early-stage project for wide range of tasks
 
 <details>
-
-![Image](https://camo.githubusercontent.com/72231056f7393fa18ee2baa5cedf2688d1fc15478bb6131936e222e5d23ccbb6/68747470733a2f2f6572696b6c702e636f6d2f6d6173636f742e706e67)
 
 ### Category
 General purpose, Productivity
@@ -783,7 +775,7 @@ AI code search, works for Rust and Typescript
 
 <details>
 
-![Image](https://bloop.ai/_next/static/media/logo_white.b3bdedc0.svg)
+![Image](https://avatars.githubusercontent.com/u/75376775?s=200&v=4)
 
 ### Category
 Coding
@@ -810,7 +802,7 @@ Code interpreter with CLI & RESTful/WebSocket API
 
 <details>
 
-![Image](https://bondai.dev/assets/images/bondai-logo-9bec7e27b93b804d375221ff8fb6d336.png)
+![Image](https://raw.githubusercontent.com/krohling/bondai/main/website/static/img/logo.svg)
 
 ### Category
 Coding
@@ -886,7 +878,7 @@ Architecture for “Mind” Exploration of agents
 
 <details>
 
-![Image](https://raw.githubusercontent.com/camel-ai/camel/master/misc/logo.png)
+![Image](https://raw.githubusercontent.com/camel-ai/camel/master/docs/images/banner.png)
 
 ### Category
 General purpose
@@ -940,7 +932,7 @@ Communicative agents for software development
 
 <details>
 
-![Image](https://github.com/OpenBMB/ChatDev/raw/main/misc/logo1.png)
+![Image](https://raw.githubusercontent.com/OpenBMB/ChatDev/main/frontend/public/media/logo.png)
 
 ### Category
 Coding, Multi-agent
@@ -1045,7 +1037,7 @@ Agent that writes code and answers your questions
 
 <details>
 
-![Image](https://sourcegraph.com/.assets/img/sourcegraph-mark.svg?v2)
+![Image](https://avatars.githubusercontent.com/u/3979584?s=200&v=4)
 
 ### Category
 Coding
@@ -1064,7 +1056,7 @@ Open-source autopilot for software development
 
 <details>
 
-![Image](https://continue.dev/docs/assets/images/continue-cover-logo-aa135cc83fe8a14af480d1633ed74eb5.png)
+![Image](https://raw.githubusercontent.com/continuedev/continue/main/docs/images/logo.png)
 
 ### Category
 Coding
@@ -1089,7 +1081,7 @@ Coding
 Framework for orchestrating role-playing agents
 <details>
 
-![Image](https://github.com/crewAIInc/crewAI/raw/main/docs/crewai_logo.png)
+![Image](https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/images/crewai_logo.png)
 
 ### Category
 Build-your-own, SDK for agents, Multi-agent
@@ -1116,7 +1108,7 @@ Build-your-own, SDK for agents, Multi-agent
 
 <details>
 
-![Image](https://www.chaindesk.ai/_next/image?url=%2Fapp-logo-icon.png&w=256&q=75)
+![Image](https://www.chaindesk.ai/images/logo.png)
 
 ### Category
 Build-your-own
@@ -1360,7 +1352,7 @@ AI agent that adapts its persona to achive tasks
 
 <details>
 
-![Image](https://camo.githubusercontent.com/3333c49067bddef0b208e36e22cf6ec8066f5be1da1dc327532427a395ed8069/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f4279576a4c4b41686e2e706e67)
+![Image](https://raw.githubusercontent.com/agentcoinorg/evo.ninja/dev/apps/browser/public/logo512.png)
 
 ### Category
 General purpose, Research, Multi-agent
@@ -1403,7 +1395,7 @@ Low code Agent builder
 
 <details>
 
-![Image](https://flowiseai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-color-high.e60de2f8.png&w=384&q=75)
+![Image](https://raw.githubusercontent.com/FlowiseAI/Flowise/main/packages/ui/public/logo512.png)
 
 ### Category
 Build-your-own (agent-builing frameworks and platforms)
@@ -1470,8 +1462,6 @@ Inspired by AutoGPT and BabyAGI, with nice UI
 
 <details>
 
-![Image](https://toolpulse.ai/wp-content/uploads/2023/11/godmode-ai.jpg)
-
 ### Category
 General purpose
 
@@ -1497,7 +1487,7 @@ The ultimate AI agent integration for Discord
 
 <details>
 
-![image](https://camo.githubusercontent.com/c02e68bf20c853637e8cfb02c9406bd2b3b20637ea4ed95b7d68819e94a01dfe/68747470733a2f2f692e696d6775722e636f6d2f425a644f52544c2e706e67)
+![image](https://i.imgur.com/BZdORTL.png)
 
 ### Category
 Content creation, Productivity, General purpose, Discord
@@ -1506,7 +1496,7 @@ Content creation, Productivity, General purpose, Discord
 - GPT Discord is a robust, all-in-one GPT interface for Discord.
 - GPT Discord supports everything from multi-modality image understanding, code interpretation, advanced data analysis, Q&A on your own documents, internet-connected chat with Wolfram Alpha and Google access, AI-moderation, image generation with DALL-E, and much more!
 - Featuring code execution and environment manipulation by E2B
-- ![image](https://camo.githubusercontent.com/6806eb5cd7f4a14e693bc732a304f18c5413a493c92b4b73202ec3205017b9c8/68747470733a2f2f692e696d6775722e636f6d2f547366677455322e706e67)
+- ![image](https://i.imgur.com/TsfgtU2.png)
 - LLMs/model providers supported:
   - OpenAI models
 
@@ -1603,8 +1593,6 @@ Agent that researches entire internet on any topic
 
 <details>
 
-![Image](https://camo.githubusercontent.com/b3ab3e2b5612657816d64e174672498cd50027b75aa0a795833aee2ddab585b2/68747470733a2f2f636f7772697465722d696d616765732e73332e616d617a6f6e6177732e636f6d2f6172636869746563747572652e706e67)
-
 ### Category
 Research, Science
 
@@ -1653,7 +1641,7 @@ Language Agents as Optimizable Graphs
 
 <details>
 
-![image](https://gptswarm.org/images/gptswarm.png)
+![image](https://raw.githubusercontent.com/metauto-ai/GPTSwarm/main/swarm/utils/assets/logo.png)
 
 ### Category
 Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-agent
@@ -2020,7 +2008,7 @@ Open Source Hybrid AI Search Engine
 
 <details>
 
- ![image](https://raw.githubusercontent.com/memfreeme/memfree/main/frontend/public/og.png)
+ ![image](https://raw.githubusercontent.com/memfreeme/memfree/main/frontend/public/logo.png)
 
 ### Category
 Open Source, AI Search, Build your own
@@ -2281,7 +2269,7 @@ R&D agents platform
 
 <details>
 
- ![image](https://github.com/agiresearch/OpenAGI/raw/main/images/illustration.png)
+ ![image](https://avatars.githubusercontent.com/u/130198651?s=200&v=4)
 
 ### Category
 General purpose
@@ -2307,7 +2295,7 @@ OpenDevin: Code Less, Make More
 
 <details>
 
-![Image](https://github.com/OpenHands/OpenHands/raw/main/logo.png)
+![Image](https://avatars.githubusercontent.com/u/225919603?s=200&v=4)
 ### Category
 Coding, general purpose
 
@@ -2327,7 +2315,7 @@ Code interpreter that lets LLMs execute code
 
 <details>
 
- ![image](https://openinterpreter.com/assets/ncu_thumbnail.jpg)
+ ![image](https://www.openinterpreter.com/open-interpreter-social.jpg)
 
 ### Category
 Coding
@@ -2350,7 +2338,7 @@ Development toolkit for prompt management & more
 
 <details>
 
- ![image](https://www.pezzo.ai/_next/static/media/Logo.b7e3878b.svg)
+ ![image](https://raw.githubusercontent.com/pezzolabs/pezzo/main/.github/assets/banner.png)
 
 ### Category
 Coding
@@ -2425,8 +2413,6 @@ Productivity, General purpose
 Open-source React.js Autonomous LLM Agent
 <details>
 
-![image](https://reactagent.io/logo-dark.png)
-
 ### Category
 Coding
 
@@ -2481,7 +2467,7 @@ Your own junior AI developer, deployed via E2B UI
 
 <details>
 
-![image](https://smol.ai/logo.png)
+![image](https://smol.ai/apple-touch-icon.png)
 
 ### Category
 Coding
@@ -2764,7 +2750,7 @@ Python-based AI SQL agent trained on your schema
 
 <details>
 
-![image](https://vanna.ai/img/vanna.svg)
+![image](https://avatars.githubusercontent.com/u/132533812?s=200&v=4)
 ### Category
 Coding, Debugging, Code migration, Data analysis
 
@@ -2818,7 +2804,7 @@ Write & deploy smart contracts to EVM blockchains
 
 <details>
 
-![image](https://pbs.twimg.com/profile_images/1701486001120567296/u84M3Ruo_400x400.jpg)
+![image](https://raw.githubusercontent.com/markeljan/web3gpt/main/public/assets/logo.svg)
 
 ### Category
 Blockchain, Coding, Generating apps, Smart contract
@@ -2879,7 +2865,7 @@ GPT agent framework for invoking APIs
 
 <details>
 
-![image](https://pbs.twimg.com/card_img/1744902310336118784/AVnD3MC-?format=jpg&name=medium)
+![image](https://avatars.githubusercontent.com/u/130754859?s=200&v=4)
 
 ### Category
 Coding
@@ -3017,7 +3003,7 @@ Secure, People-Centric Autonomous AI Agents
 
 <details>
 
-![image](https://ability.ai/assets/images/image01.svg?v=e0c18927)
+![image](https://www.ability.ai/og-image.png)
 
 ### Category
 General purpose, Productivity, Business intelligence
@@ -3035,8 +3021,6 @@ General purpose, Productivity, Business intelligence
 ML research and product lab building intelligence
 
 <details>
-
-![image](https://media.licdn.com/dms/image/C4E0BAQHoZ-QBmwsa0g/company-logo_200_200/0/1677107534930/adeptailabs_logo?e=1713398400&v=beta&t=ykMLRWaek147bz9BpCaLCuYFrVorWWT3iaDsrWQa6Do)
 
 ### Category
 General purpose
@@ -3114,7 +3098,7 @@ No-code platform for building AI agents
 
 <details>
 
-![image](https://yt3.googleusercontent.com/TkDmYBaXRvIegqkJoujtXpIlK9X5dMAjiDldAlqSHAUaekbvbYXlOaZq1DsV8neqBUZqlWAc5w=s900-c-k-c0x00ffffff-no-rj)
+![image](https://ailaflow.com/social/ailaflow.png)
 
 ### Category
 Build-your-own, Productivity
@@ -3135,8 +3119,6 @@ Build-your-own, Productivity
 Platform for building, testing, deploying Agents
 
 <details>
-
-![image](https://airkit.ai/_gatsby/image/4d7db4337bbde82f2bf7ffb0e5046c81/a46b36f8203bc3f33cb41b43956d7bd2/IMG_1847.avif?u=https%3A%2F%2Flive-airkit-ai.pantheonsite.io%2Fapp%2Fuploads%2F2023%2F11%2FIMG_1847.png&a=w%3D480%26h%3D174%26fm%3Davif%26q%3D100&cd=c7e6c2e0828656c0553ba410f22d3684)
 
 ### Category
 Build-your-own
@@ -3186,8 +3168,6 @@ AI agent designed for business intelligence
 
 <details>
 
-![image](https://www.aomni.com/icons/aomni-logo-black.svg)
-
 ### Category
 Business intelligence
 
@@ -3231,7 +3211,7 @@ Agents for sales, e-mails, book keeping & more
 
 <details>
 
-![image](https://pbs.twimg.com/profile_images/1723059970609225728/WxC0wUQ-_400x400.png)
+![image](https://avatars.githubusercontent.com/u/147038438?s=200&v=4)
 
 ### Category
 Multi-agent, Build-your-own
@@ -3391,7 +3371,7 @@ AI Agent for automating repetitive tasks
 
 <details>
 
-![image](https://media.licdn.com/dms/image/v2/D560BAQEzSXhSE2SQDg/company-logo_200_200/company-logo_200_200/0/1716353067827/bardeen_logo?e=1735776000&v=beta&t=ME3uHoIaMtWAPGQAyBiVFjA4U799mmBj5pjCTjrj5eM)
+![image](https://cdn.prod.website-files.com/67a4e756231fbcd6386ec06a/691114ccec0d8e60edae6ee4_Meta%20Image%20-%20Home.png)
 
 ### Category
 Productivity, Sales
@@ -3432,7 +3412,7 @@ Software That Builds Software
 
 <details>
 
-![image](https://www.blackbox.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBlackbox-Logo-4x.85cc4976.png&w=384&q=75)
+![image](https://www.blackbox.ai/apple-icon.png)
 
 ### Category
 - General purpose, coding, data analysis
@@ -3546,7 +3526,7 @@ Build fully-functioning, ready-to-launch website
 
 <details>
 
-![image](https://butternut.ai/_next/image?url=%2Fimages%2Flogo%2Flogo-text.png&w=384&q=75)
+![image](https://butternut.ai/static/butternut-logo.png)
 
 ### Category
 Web design, Design, Coding, Marketing
@@ -3571,7 +3551,7 @@ AI-powered Business, Work, Study Assistant
 
 <details>
 
-![image](https://chathelp.ai/wp-content/uploads/chathelp_black.png)
+![image](https://chathelp.ai/wp-content/uploads/chathelp_icon_orange.png)
 
 ### Category
 Data analysis, Content creation, Productivity, Research, Marketig, Sales, Business intelligence
@@ -3650,8 +3630,6 @@ AI Assistant for your project
 
 <details>
 
-![image](https://www.codeautopilot.com/_next/static/media/logo_purple.fa331d81.png)
-
 ### Category
 Coding, Multi-agent, GitHub
 
@@ -3695,8 +3673,6 @@ Codegen is an agent that allows automatically solve tickets, write tests and lev
 AI Agent for WordPress websites
 <details>
 
-![image](https://codewp.ai/wp-content/uploads/2023/09/New-Icon.png)
-
 ### Category
 Coding
 
@@ -3717,7 +3693,7 @@ Coding multipurpose AI assistant for developers
 
 <details>
 
-![image](https://www.codium.ai/wp-content/uploads/2023/01/codium-logo.svg)
+![image](https://www.qodo.ai/wp-content/uploads/2025/03/qodo-fav-300x300.png)
 
 ### Category
 Coding
@@ -3767,8 +3743,6 @@ Career Copilot and AI Agent for SW Developers
 
 <details>
 
-![image](https://commit.dev/wp-content/uploads/2021/05/commit-logo.svg)
-
 ### Category
 Coding
 
@@ -3787,8 +3761,6 @@ Coding
 AI Agents for Software Testing
 
 <details>
-
-![image](https://contextqa.com/wp-content/themes/contextQA/assets/images/cqa-logo-with-text.svg)
 
 ### Category
 Coding
@@ -3829,7 +3801,7 @@ Interact with any UI, website or API
 
 <details>
 
-![image](https://pbs.twimg.com/profile_images/1704063452271058944/sZEVZIqG_400x400.png)
+![image](https://cdn.prod.website-files.com/651c24600f899185e9924930/664f24d2926f240d01335b81_cykel%20-%20share%20v2.png)
 
 ### Category
 General purpose, Productivity
@@ -3968,7 +3940,7 @@ Team of AI SW development companions (Ducklings)
 
 <details>
 
-![image](https://duckie.ai/images/duckie_logo.png)
+![image](https://duckie.ai/og-image.png)
 ### Category
 Coding, Multi-agent
 
@@ -3993,7 +3965,7 @@ Ducklings chat with users to define their goals, come up with engineering design
 
 <details>
 
-![image](https://app.ellipsis.dev/images/ellipsis_github_logo_white_bg.png&w=640&q=75)
+![image](https://app.ellipsis.dev/images/ellipsis_github_logo_white_bg.png)
 
 ### Category
 Coding, GitHub, GitLab
@@ -4036,7 +4008,7 @@ Coding Droids for building software end-to-end
 
 <details>
 
-![image](https://assets-global.website-files.com/644b0c1743a3f6abb4f7f149/659c69f2d6e5ba953d5aed58_t%20(1)-p-500.png)
+![image](https://factory.com/og-v3.png)-p-500.png)
 
 ### Category
 Coding
@@ -4107,7 +4079,7 @@ Platform for creating LLM-powered AI apps
 
 <details>
 
-![image](https://pbs.twimg.com/profile_images/1715406291349143552/-wRzF29t_400x400.png)
+![image](https://avatars.githubusercontent.com/u/104391453?s=200&v=4)
 
 ### Category
 Build-your-own
@@ -4131,7 +4103,7 @@ Executive agent automating communication busywork
 
 <details>
 
-![image](https://pbs.twimg.com/profile_images/1670794260579270658/sLUFAGGs_400x400.png)
+![image](https://thelobby.ai/cover.png)
 
 ### Category
 Productivity
@@ -4156,7 +4128,7 @@ AI-powered software developer
 
 <details>
 
-![image](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/439603i2263F871BE5D381D/image-size/original?v=v2&px=-1)
+![image](https://images.ctfassets.net/8aevphvgewt8/4KxWJH8PVVXdqBLs1V3UJ8/8926c7d150a8b8f3bf33c1c8a133724b/github-copilot-social-img.png)
 
 ### Category
 Coding, GitHub
@@ -4179,7 +4151,7 @@ AI for every step of SW development lifecycle
 
 <details>
 
-![image](https://about.gitlab.com/nuxt-images/solutions/ai/duo-logo.svg)
+![image](https://about.gitlab.com/images/ico/favicon-192x192.png)
 
 ### Category
 Coding
@@ -4252,8 +4224,6 @@ GoCharlie is a multimodal content creation autonomous agent.
 API-first data platform for building apps with AI
 
 <details>
-
-![image](https://pbs.twimg.com/profile_banners/1651090820773335040/1687935300/1500x500)
 
 ### Category
 Coding
@@ -4352,7 +4322,7 @@ AI tools for doing amazing things with data
 
 <details>
 
-![image](https://images.ctfassets.net/mmgv7yhaaeds/4UFip8DgC0pJEOXeNppEQS/d97b0b1916c9b298f2480c1c28460015/social-sharing-magic.png)
+![image](https://cdn.sanity.io/images/e92memrj/production/77caa582277033f9e031f68e447e2036a132ea22-1200x630.png)
 
 ### Category
 Coding, Data analysis
@@ -4374,7 +4344,7 @@ Keep you on top of your calendar, tasks and info
 
 <details>
 
-![image](https://heymoon.ai/assets/images/image04.png?v=a3b31dce)
+![image](https://heymoon.ai/apple-touch-icon.png)
 
 ### Category
 Productivity
@@ -4392,8 +4362,6 @@ Productivity
 AI personal assistant that automates browser task
 
 <details>
-
-![image](https://www.imean.ai/icon.svg)
 
 ### Category
 Productivity, Daily life, Build-your-own (agent-builing frameworks and platforms)
@@ -4466,8 +4434,6 @@ Build-your-own (agent-builing frameworks and platforms), Multi-agent
 AI data processing, analysis, and visualization
 
 <details>
-
-![image](https://pbs.twimg.com/profile_images/1704414144798261248/PN4b_sxH_400x400.jpg)
 
 ### Category
 Data analysis
@@ -4571,7 +4537,7 @@ AI agent for API testing
 
 <details>
 
-![image](https://media.licdn.com/dms/image/D560BAQFE0UatBCw0_w/company-logo_200_200/0/1702642519517/kusho_logo?e=1714003200&v=beta&t=mihS31C5JOQPva4d17sJvNj_QOS1TS9slFp4VAH16u8)
+![image](https://framerusercontent.com/images/8lDLa9aNx93X7RMYrevDgw2254.png)
 
 ### Category
 Coding, Productivity, Debugging
@@ -4653,7 +4619,7 @@ Productivity
 Platform for creating AI workflows and apps
 <details>
 
-![image](https://media.licdn.com/dms/image/D4D0BAQE_KlQYa63Cbg/company-logo_200_200/0/1701917707502/lutra_ai_logo?e=1713398400&v=beta&t=-c8RMYvjM4j06XsJVx1DUJAJ336S80bWO4CSD_IHQao)
+![image](https://storage.googleapis.com/lutra-2407-public/da93a4088a7639235cda920d82502f5701ff5d2301554db58bcecd021bca282e.png)
 
 ### Category
 General purpose, Business intelligence, Productivity, Content creation
@@ -4731,7 +4697,7 @@ Automate technical business workflows
 
 <details>
 
-![image](https://bookface-images.s3.amazonaws.com/logos/5e452772f87fd93353d19538fd8f1c9f3ab9b6eb.png)
+![image](https://manaflow.com/apple-icon.png)
 
 ### Category
 Productivity, Coding, Workflow automation
@@ -4845,8 +4811,6 @@ Build-your-own, Multi-agent
 Build AI agents in minutes, without coding
 <details>
 
-![image](https://pbs.twimg.com/profile_images/1784129822320467968/n_9UYcHR_400x400.jpg)
-
 ### Category
 Technical challenges of building AI products, Business/marketing challenges of building AI products
 
@@ -4902,8 +4866,6 @@ Personal programming and research AI assistant
 
 <details>
 
-![image](https://www.phind.com/images/phind_v2.svg)
-
 ### Category
 Coding, research
 
@@ -4923,7 +4885,7 @@ AI agent that completes your data job 10x faster
 
 <details>
 
-![image](https://media.licdn.com/dms/image/D4E0BAQGwWRCWd6izLg/company-logo_200_200/0/1686636701294?e=1726099200&v=beta&t=oFa1Z8ulQzNuasFcQBdrzZD8L1RJ_vjPhbbl4KXkN7g)
+![image](https://powerdrill.ai/images/powerdrill-bloom-og.webp)
 
 ### Category
 Data analysis, Productivity, Research, Marketig, Sales, Finance
@@ -4999,7 +4961,7 @@ AI workforce on Slack for under-resourced SMEs
 
 <details>
 
-![image](https://q-bot.suchica.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDALLE_2023-01-10_QRobot.86c0521b.png&w=256&q=75)
+![image](https://q-bot.suchica.com/images/ogp/index.png)
 
 ### Category
 General purpose, Personal assistant, Business intelligence, Productivity
@@ -5029,7 +4991,7 @@ Marketplace for autonomous AI workers with no-code
 
 <details>
 
-![image](https://www.aitoolsclub.com/content/images/2023/07/Screenshot-2023-07-26-184451.png)
+![image](assets/questflow-logo.png)
 
 ### Category
 Build-your-own
@@ -5052,7 +5014,7 @@ Build-your-own
 A Multi ai agents builder platform
 <details>
 
-![image](https://pbs.twimg.com/profile_images/1700140660702257152/xTLqugBI_400x400.jpg)
+![image](https://rebyte.ai/og-image.png)
 
 ### Category
 General purpose, Generating apps, Build-your-own
@@ -5075,7 +5037,7 @@ Build your AI Workforce
 
 <details>
 
-![image](https://mintlify.s3-us-west-1.amazonaws.com/relevanceai/images/logo/dark.png)
+![image](https://cdn.relevanceai.com/images/og-image.webp)
 
 ### Category
 Content creation, Productivity, Research, Build-your-own (agent-builing frameworks and platforms), Marketig, Sales, General purpose, Multi-agent, Supports open-source models
@@ -5199,8 +5161,6 @@ Productivity, Research, Ecommerce
 AutoGPT agents with plugins
 <details>
 
-![image](https://spell.so/_next/static/media/logo.32731dee.svg)
-
 ### Category
 General purpose
 
@@ -5320,7 +5280,7 @@ Financial AI agent platform
 
 <details>
 
-![image](https://media.licdn.com/dms/image/D4E0BAQGc0T7tqN-IZQ/company-logo_200_200/0/1688338143903?e=2147483647&v=beta&t=bwM2YckiHgvHaMtmYQjB6XGUT5FNtUbvFNHJvepsGu4)
+![image](https://thinkchain.ai/logo-no-background.png)
 
 ### Category
 Finance, Data analysis
@@ -5344,7 +5304,7 @@ AI engineer that pushes and tests code
 
 <details>
 
-![image](https://usetusk.ai/tusk-logo.eed7968a.png)
+![image](https://cdn.prod.website-files.com/673be64804f5ed85a91b883f/6765f6c7923b9a41ac7f5966_t-logo-square-256-256-webclip.png)
 
 ### Category
 Coding
@@ -5441,8 +5401,6 @@ Build better language model apps, fast.
 
 <details>
 
-![image](https://media.licdn.com/dms/image/D4D0BAQFwJFfvXQ7j4A/company-logo_200_200/0/1693909474889/wordware_logo?e=1714003200&v=beta&t=65DGJQN1bRfjKhVmkWwH393y1_1L7ej8qd6yGYtmdpM)
-
 ### Category
 Build-your-own, Supports open-source models
 
@@ -5496,7 +5454,7 @@ Work hand in hand with AI bots
 
 <details>
 
-![image](https://bot-templates-dbuh9gyx1.vercel.zapier-deployment.com/_next/static/media/logo-color.9fac53e4.svg)
+![image](https://framerusercontent.com/assets/OzNN2YoK2toM2G9lpVrXSBZbnA.png)
 
 ### Category
 Build-your-own, Productivity, General purpose
