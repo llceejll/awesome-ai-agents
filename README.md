@@ -1742,7 +1742,11 @@ into simplifying the developer experience; it does not use `Langchain`.
 - Specialized agents available: `DocChatAgent`, `SQLChatAgent`, `TableChatAgent` (for tabular data, e.g. csv/dataframes).
 - `DocChatAgent` handles text, PDF, Docx files/URLS, and has state-of-the art techniques 
    for retrieval combining lexical and semantic search.
-- Documentation: https://langroid.github.io/langroid/
+
+### Links
+- [GitHub](https://github.com/langroid/langroid)
+- [Documentation](https://langroid.github.io/langroid/)
+
 </details>
 
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
@@ -1875,6 +1879,9 @@ Loop GPT is a re-implementation of the popular Auto-GPT project as a proper pyth
 	- "Minimal prompt overhead - Every token counts. We are continuously working on getting the best results with the least possible number of tokens."
 	- "Human in the Loop - Ability to "course correct" agents who go astray via human feedback."
 	- "Full state serialization - can save the complete state of an agent, including memory and the states of its tools to a file or python object. No external databases or vector stores required (but they are still supported)!"
+
+### Links
+- [GitHub](https://github.com/farizrahman4u/loopgpt)
 
 <!--
 ### Features
@@ -2381,7 +2388,7 @@ Open-source React.js Autonomous LLM Agent
 ### Category
 Coding
 
-## Description
+### Description
 - An experimental autonomous agent
 - Model: GPT-4
 - Purpose: Gnerate and compose React components from user stories
@@ -2401,7 +2408,7 @@ Coding
 	- Built with Atomic Design Principles
 - It is still experimental but very interesting results, It is completely open-sourced, looking for contributors!
 
-## Links
+### Links
 - [GitHub](https://github.com/eylonmiz/react-agent)
 - [Documentation](https://docs.reactagent.io/)
 - Authors: [Eylon Miz and](https://twitter.com/EylonMiz) and [Lee Twito](https://twitter.com/LeeTwito)
@@ -2482,7 +2489,7 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 
 </details>
 
-## [Superagent](https://www.superagent.sh/)</details>
+## [Superagent](https://www.superagent.sh/)
 Tool that allows creating agents without coding
 
 <details>
@@ -4060,6 +4067,7 @@ Coding, Multi-agent, Build-your-own
 ### Category
 Build-your-own, General purpose
 
+### Description
 - With Fine-Tuner, you can build sophisticated, tailored AI agents at scale without any need for technical skills or coding. Just bring your data and ideas, and we'll provide the toolset you need to transform them into powerful AI solutions, capable of handling vast amounts of data and users. Take advantage of our scalable platform to meet your growing needs with ease and efficiency
 - Connecting Your Chatbot to Your App
 
@@ -4196,6 +4204,9 @@ Coding
 	- A Chrome extension written in JavaScript
 	- An AngularJS using npm.
 	- Custom stack
+
+### Links
+- [Web](https://www.gitwit.dev/)
 
 </details>
 
@@ -4472,7 +4483,7 @@ Data analysis
 - An intelligent data analyst tool that interprets, analyzes, and visualizes complex data in an intuitive, user-friendly manner
 - "Jupyter Notebooks on steroids"
 
-### Description
+### Links
 - [Docs](https://julius.ai/docs/chat-start-guide)
 - [Use cases](https://julius.ai/use_cases)
 - [Twitter](https://twitter.com/JuliusAI_)
