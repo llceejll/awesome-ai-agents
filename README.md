@@ -4383,7 +4383,6 @@ Productivity, Build-your-own, Business intelligence
 - [X](https://twitter.com/Kompas_AI)
 - [GitHub](https://github.com/KompasAI)
 - [LinkedIn](https://www.linkedin.com/company/kompas-ai/)
-- [Medium](https://medium.com/@Kompas.ai)
 - [Docs](https://docs.kompas.ai/docs/kompas-ai-intro/service-introduction)
 
 </details>
