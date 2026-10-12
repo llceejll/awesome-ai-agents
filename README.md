@@ -637,7 +637,7 @@ General purpose, Coding
 - An AI agent based on @yoheinakajima's [BabyAGI](https://github.com/yoheinakajima/babyagi) which executes shell commands
 - Automatic Programming, Successfully created an app automatically just by providing feedback. The procedure can be found [here](https://twitter.com/saten_work/status/1674855573412810753).
 - Automatic Environment Setup, Successfully installed a Flutter environment on Linux in a container, created the Flutter app, and launched it. The procedure can be found [here](https://twitter.com/saten_work/status/1667126272072491009).
-- Aside from setting up the environment, it seems to be able to handle a bit of general tasks such as [Generating text, like poems, code, scripts, musical pieces, email, and letters, translating languages](https://anyaitools.com/babycommandagi/?utm_source=SocialAutoPoster&utm_medium=Social&utm_campaign=Twitter)
+- Aside from setting up the environment, it seems to be able to handle a bit of general tasks such as Generating text, like poems, code, scripts, musical pieces, email, and letters, translating languages
 - There is a risk of breaking the environment. Please run in a virtual environment such as Docker.
 - GPT-4 or higher is recommended
 
@@ -1164,7 +1164,6 @@ Build-your-own
 	- Auto generates a ChatGPT Plugin for each datastore
 
 ### Links
-- [Documentation](https://docs.chaindesk.ai/introduction)
 - [Discord](https://discord.com/invite/FSWKj49ckX)
 - [GitHub](https://github.com/gmpetrov/databerry)
 
@@ -3463,7 +3462,6 @@ By building BLACKBOX.AI, our goal is to:
 
 ### Links
 - [Web](https://www.blackbox.ai/)
-- [Blackbox AI Code Interpreter](https://www.runcode.ai/)
 - [Blackbox AI Code Interpreter in terminal](https://pypi.org/project/blackboxai/)
 - [X (Twitter)](https://x.com/aiblckbx?lang=cs)
 - [Facebook](https://www.facebook.com/blckbxai/)
@@ -3836,7 +3834,7 @@ Coding, Developer tools
 
 </details>
 
-## [Diagram](https://diagram.com/)
+## [Diagram](https://www.figma.com/ai/)
 AI design tools for everyone, acquired by Figma
 
 <details>
@@ -3855,7 +3853,7 @@ Design, Content creation
 - Possible to get all the latest AI design advancements + future spells in one convenient plugin
 
 ### Links
-- [Web](https://diagram.com/)
+- [Web](https://www.figma.com/ai/)
 
 </details>
 
