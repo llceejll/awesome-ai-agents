@@ -253,7 +253,7 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
-## [Aide by Codestory](https://codestory.ai/)
+## [Aide by Codestory](https://github.com/codestoryai/aide)
 AI code interpreter, AI-powered mod of VSCode
 
 <details>
@@ -270,8 +270,7 @@ Coding
 
 
 ### Links
-- [Web](https://codestory.ai/)
-- [Docs](https://docs.codestory.ai/)
+- [GitHub](https://github.com/codestoryai/aide)
 - [Discord](https://discord.com/invite/DNnh6tC9VA)
 - [X ](https://twitter.com/codestoryai)
 - [Linkedin](https://www.linkedin.com/company/codestory-ai/)
@@ -770,7 +769,7 @@ Coding, Debugging
 </details>
 
 
-## [Bloop](https://bloop.ai/)
+## [Bloop](https://github.com/BloopAI/bloop)
 AI code search, works for Rust and Typescript
 
 <details>
@@ -792,12 +791,11 @@ Coding
 
 ### Links
 - [GitHub](https://github.com/BloopAI/bloop)
-- ["Getting started" guide](https://bloop.ai/docs/getting-started)
 - [Bloop apps](https://github.com/BloopAI/bloop/releases)
 
 </details>
 
-## [BondAI](https://bondai.dev/)
+## [BondAI](https://github.com/krohling/bondai)
 Code interpreter with CLI & RESTful/WebSocket API
 
 <details>
@@ -823,7 +821,6 @@ Coding
 - To start the RESTful/WebSocket API just run `bondai --server`
 
 ### Links
-- [BondAI Homepage/Documentation](https://bondai.dev)
 - [Github Repository](https://github.com/krohling/bondai)
 - [Docker Image](https://hub.docker.com/r/krohling/bondai)
 
@@ -1192,7 +1189,6 @@ Build-your-own, General purpose
 
 ### Links
 - [Github](https://github.com/melih-unsal/DemoGPT)
-- [Website](https://www.demogpt.io/)
 - [Twitter](https://twitter.com/demo_gpt)
 - [Streamlit App](https://demogpt.streamlit.app/)
 - [Hugging Face Space](https://huggingface.co/spaces/melihunsal/demogpt)
@@ -1345,7 +1341,7 @@ Coding
 
 </details>
 
-## [evo.ninja](https://evo.ninja/)
+## [evo.ninja](https://github.com/agentcoinorg/evo.ninja)
 AI agent that adapts its persona to achive tasks
 
 <details>
@@ -1361,7 +1357,6 @@ General purpose, Research, Multi-agent
 - Each iteration of evo's execution loop it will select and adopt the persona that fits the task at hand best.
 
 ### Links
-- [Web](https://evo.ninja/)
 - [GitHub](https://github.com/agentcoinorg/evo.ninja/)
 - [Discord](https://discord.com/invite/r3rwh69cCa)
 
@@ -1634,7 +1629,7 @@ Research, Science
 
 </details>
 
-## [GPTSwarm](https://gptswarm.org/)
+## [GPTSwarm](https://github.com/metauto-ai/GPTSwarm)
 Language Agents as Optimizable Graphs
 
 <details>
@@ -1652,7 +1647,6 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 
 ### Links
-- [Web](https://gptswarm.org/)
 - [GitHub](https://github.com/metauto-ai/GPTSwarm)
 - [Founder's X (Twitter)](https://twitter.com/MingchenZhuge)
 
@@ -2069,7 +2063,6 @@ Mentat is the AI tool that assists you with any coding task, right from your com
 Unlike Copilot, Mentat coordinates edits across multiple locations and files. And unlike ChatGPT, Mentat already has the context of your project - no copy and pasting required!
 
 ### Links  
-- [Website](https://www.mentat.codes/)
 - [Youtube](https://www.youtube.com/watch?v=lODjaWclwpY)
 - Author: [Bio Bootloader](https://twitter.com/bio_bootloader) (Twitter)
 - [Discord Invite](https://discord.com/invite/zbvd9qx9Pb)
@@ -2331,7 +2324,7 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
-## [Pezzo](https://www.pezzo.ai/)
+## [Pezzo](https://github.com/pezzolabs/pezzo)
 Development toolkit for prompt management & more
 
 <details>
@@ -2353,7 +2346,7 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 	- Simplified Integration: Reduce code overhead by 90% by consuming your AI prompts using the Pezzo Client, regardless of the model provider.
 
 ### Links
-- [Documentation](https://docs.pezzo.ai/docs/intro.html)
+- [Documentation](https://docs.pezzo.ai/introduction/what-is-pezzo)
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
@@ -2407,7 +2400,7 @@ Productivity, General purpose
 </details>
 
 
-## [React Agent](https://reactagent.io/)
+## [React Agent](https://github.com/eylonmiz/react-agent)
 Open-source React.js Autonomous LLM Agent
 <details>
 
@@ -2441,7 +2434,7 @@ Coding
 
 </details>
 
-## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
+## [Self-operating computer](https://github.com/OthersideAI/self-operating-computer)
 Let multimodal models operate a computer
 
 <details>
@@ -2455,7 +2448,6 @@ Productivity, Research
 - Using the same inputs and outputs as a human operator, the model views the screen and decides on a series of mouse and keyboard actions to reach an objective.
 
 ### Links
-- [Web](https://www.hyperwriteai.com/self-operating-computer)
 - [GitHub](https://github.com/OthersideAI/self-operating-computer)
 
 </details>
@@ -2574,6 +2566,7 @@ SuperAGI is an open-source autonomous AI framework to enable development and dep
 
 
 ### Links
+- [GitHub](https://github.com/TransformerOptimus/SuperAGI)
 - [YouTube](https://www.youtube.com/@_superagi)
 - [Discord](https://discord.com/invite/dXbRe5BHJC)
 - [Subreddit](https://www.reddit.com/r/Super_AGI/)
@@ -2644,8 +2637,8 @@ Coding, general purpose
 </details>
 
 
-## [Sweep](https://sweep.dev/)
-Github assistant that fixes issues & writes code
+## [Sweep](https://github.com/sweepai/sweep)
+(Now a JetBrains plugin) Github assistant that fixes issues & writes code
 
 <details>
 
