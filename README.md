@@ -3763,12 +3763,12 @@ Coding
 
 
 
-## [Cursor](https://www.cursor.so/)
+## [Cursor](https://cursor.com/)
 AI-powered Code Editor with VSCode-like UI
 
 <details>
 
-![image](https://cursor.sh/brand/logo.svg)
+![image](https://cursor.com/brand/logo.svg)
 
 ### Category
 Coding
@@ -3777,7 +3777,7 @@ Coding
 Cursor is the AI-first Code Editor. Build software faster in an editor designed for pair-programming with AI.
 
 ### Links
-- [Website](https://www.cursor.so/)
+- [Website](https://cursor.com/)
 - [GitHub (Issue Only)](https://github.com/cursor/cursor)
 - [Discord](https://discord.com/invite/PJEgRywgRy)
 
@@ -3807,7 +3807,7 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
   
 </details>
 
-## [Devin](https://www.cognition-labs.com/introducing-devin)
+## [Devin](https://cognition.com/blog/introducing-devin)
 The first AI software engineer
 
 <details>
@@ -3826,7 +3826,7 @@ Devin is in early phase now, but according to demo, it has the following capabil
 
 
 ### Links
-- [Blog post](https://www.cognition-labs.com/introducing-devin)
+- [Blog post](https://cognition.com/blog/introducing-devin)
 - [X (Twitter)](https://twitter.com/cognition_labs)
   
 </details>
@@ -3968,7 +3968,7 @@ Coding, GitHub, GitLab
 	- Answering questions
 
 ### Links
-- [Docs](https://docs.ellipsis.dev)
+- [Docs](https://www.ellipsis.dev/docs)
 - [Installation](https://www.ellipsis.dev/)
 
 </details>
@@ -3990,7 +3990,7 @@ Coding
 </details>
 
 
-## [Factory](https://www.factory.ai/)
+## [Factory](https://factory.com/)
 Coding Droids for building software end-to-end
 
 <details>
@@ -4109,7 +4109,7 @@ Productivity
 
 </details>
 
-## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
+## [GitHub Copilot X](https://github.com/features/copilot)
 AI-powered software developer
 
 <details>
@@ -4678,7 +4678,7 @@ Coding, Productivity, Generating apps, Design, Content creation
 
 </details>
 
-## [Manaflow](https://manaflow.ai/)
+## [Manaflow](https://manaflow.com/)
 Automate technical business workflows
 
 <details>
@@ -4693,7 +4693,7 @@ Productivity, Coding, Workflow automation
 - Using English, you can train Manaflow agents to interface with multiple third-party apps concurrently, host custom-built APIs, conduct customer interviews, build persistent data dashboards, run custom ML models, and execute actions for your business.
 
 ### Links
-- [Web](https://manaflow.ai/)
+- [Web](https://manaflow.com/)
 - [X (Twitter)](https://x.com/manaflowai)
 - [LinkedIn](https://www.linkedin.com/company/manaflow-ai/)
 - [YCombinator](https://www.ycombinator.com/companies/manaflow)
@@ -5309,7 +5309,7 @@ Coding
   
 </details>
 
-## [v0 by Vercel](https://v0.dev/)
+## [v0 by Vercel](https://v0.app/)
 Get React code based on Shadcn UI & Tailwind CSS
 
 <details>
@@ -5328,7 +5328,7 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 
 
 ### Links
-- [Web](https://v0.dev/)
+- [Web](https://v0.app/)
 - [X post](https://x.com/rauchg/status/1702353417375826303?s=20)
 
 </details>
