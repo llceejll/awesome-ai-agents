@@ -264,7 +264,6 @@ Coding
 ### Links
 - [GitHub](https://github.com/codestoryai/aide)
 - [Discord](https://discord.com/invite/mtgrhXM5Xf)
-- [X ](https://twitter.com/codestoryai)
 - [Linkedin](https://www.linkedin.com/company/codestory-ai/)
 
 </details>
@@ -2103,7 +2102,7 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 
 ### Links  
 - [Youtube](https://www.youtube.com/watch?v=lODjaWclwpY)
-- Author: [Bio Bootloader](https://twitter.com/bio_bootloader) (Twitter)
+- Author: Bio Bootloader
 
 </details>
 
@@ -2131,7 +2130,6 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 ### Links  
 - [GitHub](https://github.com/FoundationAgents/MetaGPT)
 - [Discord](https://discord.com/invite/ZRHeExS6xv)
-- [Twitter](https://twitter.com/DeepWisdom2019)
 - [Paper - MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
 
 </details>
@@ -2209,7 +2207,7 @@ General purpose
 
 ### Links
 - [Demo](https://www.loom.com/share/b6bec93065794eb8a47e2109697afa39)
-- Authors: [Max Rumpf](https://twitter.com/md_rumpf) and [Significant Gravitas](https://twitter.com/SigGravitas)
+- Authors: Max Rumpf and [Significant Gravitas](https://twitter.com/SigGravitas)
 
 </details>
 
@@ -2565,7 +2563,6 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 ### Links
 - [GitHub](https://github.com/stackwiseai/stackwise)
 - [X](https://twitter.com/stackwiseai)
-- [Founder's X - Wayne](https://twitter.com/merwanehamadi)
 - [Founder's X - Silen Naihin](https://twitter.com/silennai)
 
 </details>
@@ -3150,7 +3147,6 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 
 ### Links
 - [Web](https://agentscale.ai/)
-- [X ](https://twitter.com/agentscale)
 - [LInkedin](https://www.linkedin.com/company/agentscale-ai/about/)
 - Founder's web: [Jet New](https://jetnew.io/)
 
@@ -3453,7 +3449,6 @@ By building BLACKBOX.AI, our goal is to:
 ### Links
 - [Web](https://www.blackbox.ai/)
 - [Blackbox AI Code Interpreter in terminal](https://pypi.org/project/blackboxai/)
-- [X (Twitter)](https://x.com/aiblckbx?lang=cs)
 - [Facebook](https://www.facebook.com/blckbxai/)
 - [Chrome extension](https://chromewebstore.google.com/detail/mcgbeeipkmelnpldkobichboakdfaeon)
 
@@ -3515,7 +3510,6 @@ Coding
 
 ### Links
 - Authors: [Calin Drimbau](https://twitter.com/calindrimbau) and [Victor Paraschiv](https://twitter.com/vicpara)
-- [Twitter](https://twitter.com/getbroadn)
 
 </details>
 
@@ -3686,7 +3680,7 @@ Coding
 ### Links
 - [Twitter](https://twitter.com/CodiumAI)
 - [LinkedIn](https://www.linkedin.com/company/codiumai)
-- [YouTube](https://www.youtube.com/@Codium-AI)
+- [YouTube](https://www.youtube.com/@QodoAI)
 - [Discord](https://discord.com/invite/SgSxuQ65GF)
 - [GitHub](https://github.com/Codium-ai)
 
@@ -4008,8 +4002,6 @@ With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI dev
 
 
 ### Links
-- [Twitter](https://twitter.com/finetuner_ai)
-- [Author](https://twitter.com/0xAlbert_S3)
 </details>
 
 ## [Fixie](https://www.ultravox.ai/)
@@ -4056,7 +4048,6 @@ Productivity
 ### Links
 - [Web](https://thelobby.ai/)
 - Authors: [Sarah Allali](https://twitter.com/SarahAllali7) and [Nicolas Cabrignac](https://twitter.com/Nicowcbg)
-- [Twitter](https://twitter.com/floodehq)
 
 </details>
 
@@ -4197,7 +4188,6 @@ Productivity, data analysis, general purpose, marketing, legal, sales, HR, finan
 
 ### Links
 - [Web](https://www.gumloop.com/)
-- [X (Twitter)](https://x.com/gumloop_ai)
 - [LinkedIn](https://www.linkedin.com/company/gumloop/)
 - [Discord](https://discord.com/invite/xtbrafmzC7)
 - [Documentation](https://docs.gumloop.com/getting-started/introduction)
@@ -4313,7 +4303,7 @@ Data analysis
 ### Links
 - [Docs](https://julius.ai/docs/chat-start-guide)
 - [Use cases](https://julius.ai/use_cases)
-- [Twitter](https://twitter.com/JuliusAI_)
+- [Twitter](https://twitter.com/JuliusAI)
 - Team Twitter profiles: [Matt Brockman](https://twitter.com/badphilosopher), [rahul](https://twitter.com/0interestrates)
 
 </details>
@@ -4739,7 +4729,6 @@ General purpose, Personal assistant, Business intelligence, Productivity
 - [X](https://twitter.com/QBotGPT)
 - [YouTube](https://www.youtube.com/@q-aibot-2182/videos)
 - [Founder's LinkedIn](https://www.linkedin.com/in/hiroshi-nishio-084595216/)
-- [Founder's X](https://twitter.com/hnishio0105)
 </details>
 
 
