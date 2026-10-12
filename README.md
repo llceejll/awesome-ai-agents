@@ -2,10 +2,7 @@
 TBD:
 - Add to visual:
 
-- LLM Stack
-- Promptly
 - Devon
-- vortic ai
 - UFO
 - GPT Swarm
 - Eidolon
@@ -15,11 +12,7 @@ TBD:
 
 
 Add to readme list:
-- Codeium
-- tinybio
-- Semantix AI Agents - add when they have english version
-- NoteWizard - only if it's AI agent - TBD test
-- Postbot (TBD - check more)
+- Semantix AI Agents - add when they have english version (checked Oct 2026: the product docs are still Portuguese only)
 	-->
 
 <h1 align="center">
@@ -5212,27 +5205,4 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 <a href="https://twitter.com/e2b" target="_blank">
 	<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
 </a>
--->
-
-
-
-<!-- More agents to add in the future
-
-- GPTeam https://twitter.com/itstimconnors/status/1672278464362336256
-- https://github.com/101dotxyz/GPTeam
-
-- Neurite https://github.com/satellitecomponent/Neurite
-
-- AutoGPT.js https://github.com/zabirauf/AutoGPT.js
-
-- Street Fighter https://github.com/linyiLYi/street-fighter-ai
-
-- GPT RPG https://github.com/dzoba/gptrpg
-
-- Autopilot https://github.com/fjrdomingues/autopilot
-
-- WinGPT - AI assistant for Windows https://news.ycombinator.com/item?id=36472854
-
-
-
 -->
