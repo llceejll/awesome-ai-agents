@@ -411,6 +411,28 @@ General purpose
 
 
 
+## [AutoGPT.js](https://github.com/zabirauf/AutoGPT.js)
+Auto-GPT running in the browser
+
+<details>
+
+![image](https://raw.githubusercontent.com/zabirauf/AutoGPT.js/main/docs/website-snapshot.png)
+
+### Category
+General purpose, Coding
+
+### Description
+- Open-source project that brings AutoGPT to the browser, which it says offers greater accessibility and privacy
+- Can create and read files on the local computer using the Web File System Access APIs, and can generate code
+- Can create and run other GPT agents, and has short-term memory
+- Searches with DuckDuckGo and visits URLs statelessly; page fetches are currently proxied through a server
+- MIT license
+
+### Links
+- [GitHub](https://github.com/zabirauf/AutoGPT.js)
+
+</details>
+
 ## [Automata](https://github.com/emrgnt-cmplxty/automata)
 Generate code based on your project context
 
@@ -472,6 +494,29 @@ HR, Business intelligence, Productivity
 - Author: [Stephen Bonifacio](https://twitter.com/Stepanogil)
 - [YouTube demo](https://www.youtube.com/watch?v=id7XRcEIBvg&ab_channel=StephenBonifacio)
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
+</details>
+
+## [Autopilot](https://github.com/fjrdomingues/autopilot)
+AI tool that reads a codebase and implements requested tasks
+
+<details>
+
+![image](https://raw.githubusercontent.com/fjrdomingues/autopilot/main/public/demo.gif)
+
+### Category
+Coding, Developer tools
+
+### Description
+- Uses GPT to read a codebase, create context and solve the tasks you request
+- Generates and keeps up to date a database of metadata about the codebase files, uses it to decide which files a task needs, and tries to implement the task in each relevant file
+- Makes parallel calls to agents where possible, shows what was updated with a full process log, and has an interactive mode with retry, continue and abort options
+- Runs from the command line with Node.js 18 or above and an OpenAI API key
+- The GitHub app on the Code Autopilot website uses this project, according to the README
+
+### Links
+- [GitHub](https://github.com/fjrdomingues/autopilot)
+- [Discord](https://discord.gg/r72ykfvyx7)
+
 </details>
 
 ## [AutoPR](https://github.com/irgolic/AutoPR)
@@ -1499,6 +1544,30 @@ Content creation, Productivity, General purpose, Discord
   
 </details>
 
+## [GPTeam](https://github.com/101dotxyz/GPTeam)
+Multi-agent simulation where GPT-4 agents collaborate on goals
+
+<details>
+
+![image](https://raw.githubusercontent.com/101dotxyz/GPTeam/main/assets/gpteam.png)
+
+### Category
+Multi-agent, Research
+
+### Description
+- GPTeam uses GPT-4 to create multiple agents that collaborate to achieve predefined goals, to explore how GPT models can improve multi-agent productivity and communication
+- Each agent has its own memory and uses communication as a tool; the memory and reflection implementation is inspired by a research paper on generative agents
+- Agents move around a simulated world and perform tasks in different locations, speaking to each other and working in parallel
+- The world is configured in `config.json`, with an optional Discord integration; it can run on gpt-3.5-turbo (`--turbo`), Anthropic Claude (`--claude`) or through the Window extension (`--window`)
+- MIT license
+
+### Links
+- [GitHub](https://github.com/101dotxyz/GPTeam)
+- [Blog](https://www.langchain.com/blog/gpteam-a-multi-agent-simulation)
+- [Demo](https://www.youtube.com/watch?v=cIxhI1d6NsM)
+
+</details>
+
 ## [GPT Engineer](https://gptengineer.app/)
 Generates entire codebase based on a prompt
 
@@ -1600,6 +1669,27 @@ GPT Researcher is a GPT-based autonomous agent that does online comprehensive re
 - [Discord](https://discord.com/invite/2pFkc83fRq)
 - Author: [Assaf Elovic](https://twitter.com/assaf_elovic)
 
+
+</details>
+
+## [GPTRPG](https://github.com/dzoba/gptrpg)
+GPT-based agent living in an RPG-like environment
+
+<details>
+
+![image](https://raw.githubusercontent.com/dzoba/gptrpg/main/map.png)
+
+### Category
+Games
+
+### Description
+- Proof of concept with a simple RPG-like environment for an LLM-enabled agent and a simple agent, connected to the OpenAI API, that lives in it
+- The agent receives its possible actions, the state of its surroundings and its internal state (currently only sleepiness), and decides what to do using the OpenAI API; it currently runs on gpt-3.5-turbo
+- The environment is a React project built with the Tiled map editor and rendered with Phaser and the Grid Engine plugin; the agent talks to the front end over a websocket
+- Planned features include multi-agent support, agent memory, goals and an inventory
+
+### Links
+- [GitHub](https://github.com/dzoba/gptrpg)
 
 </details>
 
@@ -2162,6 +2252,31 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [Neurite](https://github.com/satellitecomponent/Neurite)
+Fractal mind-mapping workspace with connectable AI agent nodes
+
+<details>
+
+![image](https://img.youtube.com/vi/1BiUblUAd7s/mqdefault.jpg)
+
+### Category
+Productivity, Multi-agent, Memory management, Supports open-source models
+
+### Description
+- Open-source mind-mapping workspace on a navigable fractal canvas; nodes can hold text, images, video, audio, web pages, PDFs, code and AI agents
+- Connected AI nodes message each other in graph-based multi-agent conversations, and local and cloud models can be used together
+- Local providers are Ollama, transformers.js and custom endpoints; cloud providers are OpenAI, Groq and Anthropic
+- Plugins include vector-embedding long-term memory, web search, Wolfram Alpha and Wikipedia results shown as nodes, and Python execution in the browser with Pyodide
+- Synchronizes the mind map with Markdown (Zettelkasten) notes; a Neurite Desktop release is available for Windows, Linux and macOS
+- MIT license
+
+### Links
+- [GitHub](https://github.com/satellitecomponent/Neurite)
+- [Demo](https://www.youtube.com/watch?v=1BiUblUAd7s)
+- [Discord](https://discord.gg/NymeSwK9TH)
+
+</details>
+
 ## [NLSOM](https://github.com/metauto-ai/Mindstorm)
 Natural Language-Based Societies of Mind
 <details>
@@ -2467,6 +2582,27 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 - [X](https://twitter.com/stackwiseai)
 - [Founder's X - Wayne](https://twitter.com/merwanehamadi)
 - [Founder's X - Silen Naihin](https://twitter.com/silennai)
+
+</details>
+
+## [Street Fighter AI](https://github.com/linyiLYi/street-fighter-ai)
+Deep reinforcement learning agent for Street Fighter II
+
+<details>
+
+### Category
+Games
+
+### Description
+- AI agent trained with deep reinforcement learning to beat the final boss of "Street Fighter II: Special Champion Edition" (the project is named SFighterAI)
+- Decides from the RGB pixel values of the game screen only
+- Reaches a 100% win rate in the first round of the final level from the provided save state; the README notes that overfitting occurs
+- Built with OpenAI Gym Retro and Stable-Baselines3; includes model weights from several training stages and the training and test scripts
+- The game ROM is not included and must be obtained separately
+- Apache-2.0 license
+
+### Links
+- [GitHub](https://github.com/linyiLYi/street-fighter-ai)
 
 </details>
 
@@ -2811,6 +2947,29 @@ A-  multi-agent simulation library, with a goal to simulate and optimize systems
 - [Underlying paper - Generative Agents](https://arxiv.org/abs/2304.03442)
 - A paper simulating interactions between tens of agents
 - Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
+</details>
+
+## [WinGPT](https://www.dialup.net/wingpt/)
+AI assistant for Windows 3.1 using the OpenAI API
+
+<details>
+
+![image](https://www.dialup.net/wingpt/wingpt_images/wingpt128.png)
+
+### Category
+General purpose, Personal assistant
+
+### Description
+- AI assistant for Windows 3.1 that talks to the OpenAI API; written in C with the standard Windows API and compiled with Open Watcom v2
+- Connects to the OpenAI API directly over TLS 1.3 using a modified WolfSSL port, so no proxy on a modern machine is needed; the author states that this TLS implementation is not secure
+- Works on 16-bit and 32-bit versions of Windows after 3.1 with a Winsock implementation and an OpenAI API key; it does not work on 64-bit Windows but does work on Wine
+- To save memory it does not send the text of previous turns, so the bot cannot use earlier conversation context
+- Licensed under GPL v2, with binaries and source available from the project page
+
+### Links
+- [Web](https://www.dialup.net/wingpt/)
+- [Hacker News](https://news.ycombinator.com/item?id=36472854)
+
 </details>
 
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
@@ -3660,6 +3819,30 @@ Devin is in early phase now, but according to demo, it has the following capabil
 </details>
 
 
+## [Devin Desktop](https://devin.ai/desktop)
+AI IDE formerly Windsurf (Codeium), acquired by Cognition
+
+<details>
+
+![image](https://devin.ai/icon.png)
+
+### Category
+Coding, Developer tools
+
+### Description
+- Devin Desktop is the new name for Windsurf, announced on June 2, 2026; Windsurf was formerly Codeium, and Cognition announced its acquisition of Windsurf in July 2025
+- IDE with an Agent Command Center for managing local and cloud agents from a single Kanban view
+- Devin Local, the successor to the Cascade agent, runs on the user's machine; work can also be delegated to Devin in the cloud
+- Supports Agent Client Protocol (ACP) agents, including Codex, Claude Agent and OpenCode
+- Editor, extensions, keybindings, LSPs and workflows are backwards-compatible with Windsurf and VS Code
+
+### Links
+- [Web](https://devin.ai/desktop)
+- [Docs](https://docs.devin.ai/desktop/getting-started)
+- [Announcement](https://devin.ai/blog/windsurf-is-now-devin-desktop)
+
+</details>
+
 ## [Diagram](https://diagram.com/)
 AI design tools for everyone, acquired by Figma
 
@@ -4486,6 +4669,29 @@ Coding, research
 - [Discord](https://discord.com/invite/S25yW8TebZ)
 - [X (Twitter)](https://twitter.com/phindsearch)
 - CEO's Twitter: [Michael Royzen](https://twitter.com/MichaelRoyzen)
+
+</details>
+
+## [Postman Agent Mode](https://www.postman.com/product/agent-mode/)
+AI agent built into Postman for automating API workflows
+
+<details>
+
+![image](https://voyager.postman.com/logo/postman-logo-icon-orange.svg)
+
+### Category
+Developer tools, Debugging, Coding
+
+### Description
+- AI automation built into the Postman app, driven by natural language
+- Can create and manage requests, flows and mock servers, debug errors, and write and update tests across collections, workspaces, environments, monitors and Spec Hub
+- Uses your collections, specs, environments and history as context; skills run repeatable multi-step workflows, and you can choose the model and configure MCP servers
+- Agent Mode on Cloud runs longer engineering tasks, such as updating code repositories and running tests, in an isolated sandbox with an audit trail for every run
+- Postbot, Postman's earlier AI assistant, now redirects to Agent Mode on the product and docs pages
+
+### Links
+- [Web](https://www.postman.com/product/agent-mode/)
+- [Docs](https://learning.postman.com/docs/use/agent-mode/overview/)
 
 </details>
 
