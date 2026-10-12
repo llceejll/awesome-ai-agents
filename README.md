@@ -4712,8 +4712,6 @@ Data analysis, Productivity, Research, Marketig, Sales, Finance
 Interaction APIs and SDKs for building AI agents
 <details>
 
-![image](https://www.phind.com/images/phind_v2.svg)
-
 ### Category
 Build-your-own
 
