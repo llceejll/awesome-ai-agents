@@ -1046,25 +1046,6 @@ Coding
 
 </details>
 
-## [Cody by Sourcegraph](https://docs.sourcegraph.com/cody)
-Agent that writes code and answers your questions
-
-<details>
-
-![Image](https://avatars.githubusercontent.com/u/3979584?s=200&v=4)
-
-### Category
-Coding
-
-### Description
-An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
-
-### Links
-- [GitHub](https://github.com/sourcegraph/cody-public-snapshot)
-- Author: [@sourcegraph](https://twitter.com/sourcegraph) (Twitter)
-
-</details>
-
 ## [Continue](https://continue.dev/)
 Open-source autopilot for software development
 
@@ -3669,6 +3650,28 @@ Coding
 - [Discord](https://discord.com/invite/SgSxuQ65GF)
 - [GitHub](https://github.com/Codium-ai)
 
+
+</details>
+
+## [Cody by Sourcegraph](https://sourcegraph.com/docs/cody)
+(Enterprise only since July 2025) Agent that writes code and answers your questions
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/3979584?s=200&v=4)
+
+### Category
+Coding
+
+### Description
+An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
+- Cody Free and Cody Pro were discontinued, and Enterprise Starter stopped including Cody, on July 23, 2025; Cody is now offered with Sourcegraph Enterprise only
+- The source code moved to a private repository; the public GitHub repository is an archived snapshot taken just before the move
+
+### Links
+- [Announcement: changes to Cody plans](https://sourcegraph.com/blog/changes-to-cody-free-pro-and-enterprise-starter-plans)
+- [GitHub (archived public snapshot)](https://github.com/sourcegraph/cody-public-snapshot)
+- Author: [@sourcegraph](https://twitter.com/sourcegraph) (Twitter)
 
 </details>
 
