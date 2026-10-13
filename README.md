@@ -3682,25 +3682,6 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 
 </details>
 
-## [Commit](https://commit.dev)
-Career Copilot and AI Agent for SW Developers
-
-<details>
-
-### Category
-Coding
-
-### Description
-- Comprehensive job search
-- Accurate job recommendations based on your skills, experience, and preferences
-- AI-powered auto-applications
-
-### Links
-- CEO: [Greg Gunn](https://www.linkedin.com/in/gunnr)
-- CTO: [Beier Cai](https://www.linkedin.com/in/beiercai)
-
-</details>
-
 ## [ContextQA](https://contextqa.com/)
 AI Agents for Software Testing
 
@@ -4121,27 +4102,6 @@ Coding
 
 </details>
 
-## [Graphlit](https://www.graphlit.com/)
-API-first data platform for building apps with AI
-
-<details>
-
-### Category
-Coding
-
-### Description
-- Built on a serverless, cloud-native platform, Graphlit simplifies complex data workflows, including data ingestion, knowledge extraction, semantic search, alerting and application integrations.
-
-### Links
-- [Web](https://www.graphlit.com/)
-- [GitHub](https://github.com/graphlit)
-- [X ](https://twitter.com/graphlit)
-- Founder's LInkedin: [Kirk Marple](https://www.linkedin.com/in/kirkmarple/)
-- Founder's X: [Kirk Marple](https://twitter.com/kirkmarple)
-- [Documentation](https://docs.graphlit.dev/)
-
-</details>
-
 ## [Grit](https://www.grit.io/)
 Automating code migrations and dependency upgrades
 
@@ -4235,25 +4195,6 @@ Coding, Data analysis
 ### Links
 - [Docs: AI in Hex](https://learn.hex.tech/docs/getting-started/ai-overview)
 - [Launch post](https://hex.tech/blog/magic-private-beta/)
-
-</details>
-
-## [Heymoon.ai](https://heymoon.ai/)
-Keep you on top of your calendar, tasks and info
-
-<details>
-
-![image](https://heymoon.ai/apple-touch-icon.png)
-
-### Category
-Productivity
-
-### Description
-- Personal assistant for life: to keep you on top of your calendar, tasks and information
-- Currently in a beta version
-
-### Links
-- [Web](https://heymoon.ai/)
 
 </details>
 
@@ -4856,25 +4797,6 @@ Productivity, Research, Ecommerce
   
 </details>
 
-## [Spell](https://spell.so/)
-AutoGPT agents with plugins
-<details>
-
-### Category
-General purpose
-
-### Description
-- "Delegate your tasks to autonomous AI agents. Transform your daily work with revolutionary and intuitive AI tools powered by GPT4"
-- Access APIs like Zapier, Wolfram, etc.
-- Open links
-- Manipulate files
-- Search web
-
-### Links
-- [Author's Twitter](https://twitter.com/rafal_makes)
-
-</details>
-
 ## [Taskade](https://www.taskade.com/)
 Create, train, and run custom AI agents
 
@@ -4946,32 +4868,6 @@ Finance, Data analysis
 - [Web](https://www.thinkchain.ai/)
 - Founder: [Tony Lewis](https://twitter.com/_tony_lewis)
 
-</details>
-
-## [Tusk](https://usetusk.ai/)
-AI engineer that pushes and tests code
-
-<details>
-
-![image](https://cdn.prod.website-files.com/673be64804f5ed85a91b883f/6765f6c7923b9a41ac7f5966_t-logo-square-256-256-webclip.png)
-
-### Category
-Coding
-
-### Description
-- Tusk is an AI engineer that helps product managers ship simple front-end changes fast, letting their software engineers focus on more important work
-- Assign a product ticket to Tusk, and let our AI write, push, and test the code for you
-- Use-cases: Coding, debugging, code migration etc.
-- Tusk is a [Y-combinator company](https://www.ycombinator.com/companies/tusk)
-
-
-### Links
-- [Web](https://usetusk.ai/)
-- [X ](https://twitter.com/usetusk)
-- [LinkedIn](https://www.linkedin.com/company/usetusk/about/)
-- [Founder's X](https://twitter.com/sohilkshirsagar)
-- [Founder's X 2](https://twitter.com/Marcel7an)
-  
 </details>
 
 ## [v0 by Vercel](https://v0.app/)
