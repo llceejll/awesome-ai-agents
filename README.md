@@ -319,7 +319,8 @@ General purpose, Personal assistant, Productivity
 </details>
 
 ## [AutoGen](https://github.com/microsoft/autogen)
-Multi-agent framework with diversity of agents
+(Maintenance mode; succeeded by Microsoft Agent Framework) Multi-agent framework with diversity of agents
+
 <details>
 
 ![Image](https://raw.githubusercontent.com/microsoft/autogen/main/python/docs/src/_static/images/logo/logo.svg)
@@ -328,6 +329,7 @@ Multi-agent framework with diversity of agents
 General purpose, Build your own, Multi-agent
 
 ### Description
+- AutoGen is in maintenance mode: it will not receive new features and is community managed, and its README recommends Microsoft Agent Framework, described as its enterprise-ready successor, for new projects
 - A framework for developing LLM (Large Language Model) applications with multiple conversational agents.
 - These agents can collaborate to solve tasks and can interact seamlessly with humans.
 - It simplifies complex LLM workflows, enhancing automation and optimization.
@@ -336,6 +338,8 @@ General purpose, Build your own, Multi-agent
 - It supports advanced usage patterns, including error handling, multi-config inference, and context programming.
 
 ### Links
+- [Microsoft Agent Framework (successor)](https://github.com/microsoft/agent-framework)
+- [Migration guide: AutoGen to Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/migration-guide/from-autogen/)
 - Paper: [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/pdf/2308.08155.pdf)
 - [Discord](https://discord.gg/pAbnFJrkgZ)
 - [Twitter thread describing the system](https://twitter.com/pyautogen)
@@ -515,8 +519,9 @@ Coding, GitHub
 
 </details>
 
-## [BabyAGI](https://github.com/yoheinakajima/babyagi)
-A simple framework for managing tasks using AI
+## [BabyAGI](https://github.com/yoheinakajima/babyagi_archive)
+(Original version archived in 2024) A simple framework for managing tasks using AI
+
 <details>
 
 ![Image](https://user-images.githubusercontent.com/21254008/235015461-543a897f-70cc-4b63-941a-2ae3c9172b11.png)
@@ -525,6 +530,7 @@ A simple framework for managing tasks using AI
 General purpose
 
 ### Description
+- The original BabyAGI described here was archived in September 2024 as yoheinakajima/babyagi_archive; the babyagi repository now hosts a newer experimental framework of the same name for a self-building autonomous agent
 - A pared-down version of the original [Task-Driven Autonomous Agent](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20)
 - Creates tasks based on the result of previous tasks and a predefined objective.
 - The script then uses OpenAI's NLP capabilities to create new tasks based on the objective
@@ -535,6 +541,8 @@ General purpose
 
 
 ### Links
+- [GitHub (original, September 2024 snapshot)](https://github.com/yoheinakajima/babyagi_archive)
+- [GitHub (newest BabyAGI)](https://github.com/yoheinakajima/babyagi)
 - Paper: [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
 - [Discord](https://discord.com/invite/TMUw26XUcg)
 - [Founder's Twitter](https://twitter.com/yoheinakajima)
@@ -749,7 +757,7 @@ Data analysis
 
 
 ## [BeeBot](https://github.com/erik-megarad/beebot)
-Early-stage project for wide range of tasks
+(Development on hold) Early-stage project for wide range of tasks
 
 <details>
 
@@ -757,6 +765,7 @@ Early-stage project for wide range of tasks
 General purpose, Productivity
 
 ### Description
+- Development is on hold, according to its README: the author decided that LLMs as of late 2023 were not up to generalized autonomous AI
 - "BeeBot is currently a work in progress and should be treated as an early stage research project. Its focus is not on production usage at this time."
 
 	
@@ -918,7 +927,7 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 </details>
 
 ## [ChatArena](https://github.com/Farama-Foundation/chatarena)
-A chat tool for multi agent interaction
+(Deprecated) A chat tool for multi agent interaction
 
 <details>
 
@@ -928,6 +937,7 @@ A chat tool for multi agent interaction
 Design, Build-your-own, SDK for AI apps, Multi-agent
 
 ### Description
+- Deprecated on August 11, 2025 because of a lack of widespread community use; no further updates or support are planned
 - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
 ChatArena provides:
 - A general framework for building interactive environments for multiple large language models (LLMs). 
@@ -942,7 +952,7 @@ ChatArena provides:
 </details>
 
 ## [ChatDev](https://github.com/OpenBMB/ChatDev)
-Communicative agents for software development
+(Now ChatDev 2.0, a zero-code multi-agent platform) Communicative agents for software development
 
 <details>
 
@@ -952,6 +962,8 @@ Communicative agents for software development
 Coding, Multi-agent
 
 ### Description
+- ChatDev 2.0 (DevAll), released in January 2026, turned the project into a zero-code multi-agent platform where users define agents, workflows and tasks through configuration
+- The classic ChatDev 1.0 described below moved to the chatdev1.0 branch, where it is maintained
 - ChatDev is a virtual software company driven by a multitude of intelligent agents assuming different roles such as CEO, CPO, CTO, programmer, reviewer, tester, and art designer, each represented by unique icons.
 - These agents collaborate in a structured organizational environment, fulfilling the company's mission to "revolutionize the digital world through programming." They engage in functional seminars focusing on design, coding, testing, and documentation.
 - ChatDev aims to provide an accessible, modular, and extensible platform based on large language models, facilitating the study of collective intelligence in a controlled setting.
@@ -962,6 +974,7 @@ Coding, Multi-agent
 - [Paper - ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924)
 - [Quick start](https://github.com/OpenBMB/ChatDev#-quick-start)
 - [GitHub](https://github.com/OpenBMB/ChatDev)
+- [ChatDev 1.0 (legacy branch)](https://github.com/OpenBMB/ChatDev/tree/chatdev1.0)
 
 </details>
 
@@ -1047,7 +1060,7 @@ Coding
 </details>
 
 ## [Continue](https://continue.dev/)
-Open-source autopilot for software development
+(No longer actively maintained) Open-source autopilot for software development
 
 <details>
 
@@ -1057,6 +1070,7 @@ Open-source autopilot for software development
 Coding
 
 ### Description
+- The team shipped a final 2.0.0 release of the VS Code extension, CLI and JetBrains plugin; the GitHub repository is now read-only and, according to its README, no longer actively maintained
 - An open-source autopilot for software development—bring the power of ChatGPT to VS Code
 - Features:
 	- Answer coding questions
@@ -1318,7 +1332,7 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 </details>
 
 ## [English Compiler](https://github.com/uilicious/english-compiler)
-Converting markdown specs into functional code
+(Succeeded by smol-dev-js) Converting markdown specs into functional code
 
 <details>
 
@@ -1334,6 +1348,7 @@ Coding
 - Into a future, where we replace nearly everything, with just written text."
 
 ### Links
+- [Successor: smol-dev-js](https://github.com/PicoCreator/smol-dev-js)
 - [Creator's Twitter](https://twitter.com/picocreator)
 
 </details>
@@ -1842,7 +1857,7 @@ into simplifying the developer experience; it does not use `Langchain`.
 </details>
 
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
-Plan-Validate-Solve agent for workflow automation
+(Not under active maintenance) Plan-Validate-Solve agent for workflow automation
 
 <details>
 
@@ -1853,6 +1868,7 @@ Productivity, Coding
 
 ### Description
 Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow automation
+- Its README warns that the repository is not under active maintenance and that things might break unexpectedly
 - A standalone supervised Plan and Solve Agent specialized on performing read and write operations on various tools like GitHub, HubSpot or Airtable _(ACL 2023 Paper "[Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091)")_
 - **Separation of tasks and human-in-the-loop interactions**: Lemon Agent is currently holding a Planner Agent and a Solver Agent to keep the agents focussed and increase accuracy. We are planning on adding additional agents real soon. In addition, Lemon Agent will ask for approval at relevant workflow steps to make sure the intended actions are executed.
 - **Unlimited configuration options**: Lemon Agent gives you unlimited configuration options (see example here) when defining your workflow. For instance, you can tell Lemon Agent to ask for permission before executing a workflow step or to drop a 🧔‍♀️ dad joke every time the model executes a workflow step.
@@ -2331,7 +2347,7 @@ Coding, general purpose
 
 
 ## [Open Interpreter](https://openinterpreter.com/)
-Code interpreter that lets LLMs execute code
+(Now a Rust coding agent for open models) Code interpreter that lets LLMs execute code
 
 <details>
 
@@ -2341,14 +2357,14 @@ Code interpreter that lets LLMs execute code
 Coding
 
 ### Description
-Open Interpreter is an open-source interpreter that lets LLMs run code on your computer to complete tasks
-- Runs locally
-- Can for example summarize PDFs, visualize datasets, control your browser
-- Works from a ChatGPT-like interface in your terminal.
+Open Interpreter is an open-source coding agent built for low-cost and open-weight models, with a Codex-like interface in your terminal
+- It is a rewrite in Rust that is based on Codex; the original Python project, an interpreter that lets LLMs run code on your computer, lives on as a community-maintained fork
+- The original Python version could, for example, summarize PDFs, visualize datasets and control your browser from a ChatGPT-like interface in your terminal
 
 ### Links
 - [Web](https://openinterpreter.com/)
 - [GitHub](https://github.com/openinterpreter/openinterpreter)
+- [Original Python version (community-maintained fork)](https://github.com/endolith/open-interpreter)
 - [Author's Twitter](https://twitter.com/hellokillian)
 
 </details>
@@ -2650,7 +2666,7 @@ General purpose
 
 
 ## [SWE Agent](https://github.com/SWE-agent/SWE-agent)
-Open-source Devin alternative
+(Superseded by mini-SWE-agent) Open-source Devin alternative
 
 <details>
 
@@ -2659,6 +2675,7 @@ Open-source Devin alternative
 Coding, general purpose
 
 ### Description
+- Most of the team's development effort now goes into mini-SWE-agent, which the SWE-agent README says has superseded it with matching performance and much simpler code, and which it recommends using instead
 - This Devin alternative scores 12.3% on the FULL swe benchmark
 - ["An open source Devin getting 12.29% on 100% of the SWE Bench test set vs Devin's 13.84% on 25% of the test set!"](https://x.com/danielhanchen/status/1775120334305607781)
 - SWE-agent works by interacting with a specialized terminal, which allows it to:
@@ -2679,6 +2696,7 @@ Coding, general purpose
 
 ### Links
 - [GitHub](https://github.com/SWE-agent/SWE-agent)
+- [mini-SWE-agent](https://github.com/SWE-agent/mini-swe-agent)
 - [Web](https://swe-agent.com/)
 - [Documentation](https://swe-agent.com/latest/)
 - [Discord](https://discord.com/invite/AVEFbBn2rH)
@@ -3010,7 +3028,7 @@ XAgent is an open-source experimental Large Language Model (LLM) driven autonomo
 </details>
 
 ## [yAgents](https://github.com/genlayerlabs/yeagerai-agent)
-Capable of designing, coding and debugging tools
+(Discontinued; see SubZeroClaw) Capable of designing, coding and debugging tools
 
 <details>
 
@@ -3021,6 +3039,7 @@ Coding, Build-your-own
 
 ### Description
 yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding and debugging its own tools.
+- The project is discontinued; its README says it has re-emerged as SubZeroClaw, a minimal agent runtime written in C
 - Designed to help build, prototype, and deploy AI-powered tools and agents easily and efficiently.
 - Built on the LangChain framework, allowing users of any technical background to create, improve, and deploy AI agents.
 - Equipped with an interactive command line interface for real-time feedback and ease of navigation.
@@ -3032,6 +3051,7 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 	- Not tested for Windows systems
 
 ### Links
+- [SubZeroClaw](https://github.com/genlayerlabs/subzeroclaw)
 - [GitHub Repository](https://github.com/genlayerlabs/yeagerai-agent/?utm_source=awesome-ai-agents)
 - [License: MIT](https://github.com/genlayerlabs/yeagerai-agent/blob/main/LICENSE/?utm_source=awesome-ai-agents)
 
