@@ -19,7 +19,6 @@ Add to readme list:
   Add <a href="https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents">Code Interpreter</a> to your AI App
 </h3>
 
-<h5 align="center">🌟 <a href="https://e2b.dev/ai-agents?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents">See this list in web UI</a></h5>
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
@@ -29,8 +28,6 @@ We structured the list into two parts:
 - [Open source projects](#open-source-projects)
 - [Closed-source projects and companies](#closed-source-projects-and-companies)
   
-To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents). 🌟
-
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-ai-sdks">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
 
