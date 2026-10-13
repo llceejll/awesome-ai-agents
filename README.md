@@ -2705,7 +2705,7 @@ Coding, general purpose
 
 
 ## [Sweep](https://github.com/sweepai/sweep)
-(Now a JetBrains plugin) Github assistant that fixes issues & writes code
+(Now a JetBrains plugin) AI coding assistant, previously a GitHub bot that fixed issues & wrote code
 
 <details>
 
@@ -2715,12 +2715,11 @@ Coding, general purpose
 Coding, GitHub
 
 ### Description
-Sweep is a Github assistant the helps fix small bugs and implement small features
-- To install, click the install button
-- Then add the repository you want, make a quick ticket (e.g. writing tests)
-- Prepend the ticket with "Sweep:" and let Sweep handle the rest
+- Sweep now builds an AI coding assistant for JetBrains IDEs, available as a plugin on the JetBrains Marketplace ("Sweep: AI Autocomplete & Coding Agent")
+- It began as a GitHub assistant that helped fix small bugs and implement small features from tickets prefixed with "Sweep:"
 
 ### Links
+- [JetBrains plugin](https://plugins.jetbrains.com/plugin/26860-sweep-ai)
 - [GitHub](https://github.com/sweepai)
 - [Interview: Sweep founders share learnings from building an AI coding assistant](https://e2b.dev/blog/sweep-founders-share-learnings-from-building-an-ai-coding-assistant?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 - [Tricks for prompting Sweep](https://sweep-ai.notion.site/Tricks-for-prompting-Sweep-3124d090f42e42a6a53618eaa88cdbf1)
@@ -3212,7 +3211,7 @@ Build-your-own
 </details>
 
 ## [Aomni](https://duet.so/)
-(Renamed to Duet) AI agent designed for business intelligence
+(Renamed to Duet) Cloud workspace for building and sharing AI agents
 
 <details>
 
@@ -3220,11 +3219,10 @@ Build-your-own
 Business intelligence
 
 ### Description
-- Breaks down a high level research question into a step-by-step plan, and executes it
-- Diverse tools, including a full web browser
-- Can access internet information without the need for an API
-- "We don't generate content using AI, as it can be unreliable. Instead, we extract relevant information from trusted sources, cluster and process it into a user-friendly format."
-- AI-powered query planner intelligently routes and executes requests, ensuring correctness and diverse source selection
+- Aomni, Inc. now does business as Duet, according to Duet's terms of service; Aomni was an AI research agent for sales and revenue teams
+- Duet is a cloud agent workspace: each user gets a persistent cloud server, durable AI sessions, integrations, code execution, file storage and hosting for the apps their agents build
+- Aimed at consultants and anyone with know-how worth passing on: you teach an agent how you work, then share it with clients and teams, each in a workspace of their own
+- Improving the shared agent updates every client's copy
 
 ### Links
 - [Discord](https://discord.com/invite/a367ncqEsm/?utm_source=awesome-ai-agents)
@@ -3994,7 +3992,7 @@ With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI dev
 </details>
 
 ## [Fixie](https://www.ultravox.ai/)
-(Pivoted to Ultravox) Platform for creating LLM-powered AI apps
+(Pivoted to Ultravox, acquired by Inworld) Speech-native voice AI agents
 
 <details>
 
@@ -4004,9 +4002,10 @@ With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI dev
 Build-your-own
 
 ### Description
-- Building and managing LLM powered applications
-- A cloud-based platform-as-a-service that allows developers to build smart agents that couple LLMs with back-end logic to interface to data, systems, and tools
-
+- Fixie pivoted to Ultravox, a research lab and product company building real-time voice AI agents; its site now says Ultravox has been acquired by Inworld
+- Ultravox's model is speech-native: it processes speech directly instead of transcribing it to text first, which it says avoids added latency and keeps tone, cadence and pitch
+- Developer APIs for building voice agents
+- Fixie was previously a cloud platform for building LLM-powered agents and apps that coupled LLMs with back-end logic
 
 ### Links
 - [GitHub](https://github.com/fixie-ai)
@@ -4016,7 +4015,7 @@ Build-your-own
 </details>
 
 ## [Floode](https://thelobby.ai/)
-(Renamed to Lobby) Executive agent automating communication busywork
+(Renamed to Lobby) Agent that predicts and coordinates your email workflows
 
 <details>
 
@@ -4026,13 +4025,9 @@ Build-your-own
 Productivity
 
 ### Description
-- Works across all your communication and work tools: emails, social media DMs, calendar, Notion, etc.
-- Adapted to your work habits.
-- Ask your assistant to:
-  - Craft messages
-  - Auto-sort
-  - Auto-schedule
-  - Summarize, extract tasks and information
+- Floode is now Lobby, which builds a behavioral model that learns and predicts how a person thinks and acts
+- Its first application coordinates email workflows across the tools you already use, without prompting
+- You connect your tools and the model predicts your email workflows end to end
 
 ### Links
 - [Web](https://thelobby.ai/)
