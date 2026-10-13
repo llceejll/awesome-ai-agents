@@ -3625,25 +3625,6 @@ Codegen is an agent that allows automatically solve tickets, write tests and lev
 - [Founder's X](https://twitter.com/mathemagic1an)
 </details>
 
-## [CodeWP](https://codewp.ai/)
-AI Agent for WordPress websites
-<details>
-
-### Category
-Coding
-
-### Description
-Faster WordPress Development with domain-specific AI modes, tools, and features.
-
-### Links
-- [Web](https://codewp.ai/)
-- [GitHub](https://github.com/wpai-inc/)
-- [X](https://twitter.com/codewp_ai)
-- [LinkedIn](https://www.linkedin.com/company/wpai-inc/)
-- [James LePage - founder of CodeWP](https://twitter.com/codewp_ai)
-  
-</details>
-
 ## [Codium AI](https://www.qodo.ai/)
 (Now Qodo) Coding multipurpose AI assistant for developers
 
@@ -4634,24 +4615,6 @@ Productivity, General purpose
 
 </details>
 
-## [Phind](https://www.phind.com/)
-Personal programming and research AI assistant
-
-<details>
-
-### Category
-Coding, research
-
-### Description
-- Phind is an AI search engine and pair programmer
-
-### Links
-- [Web](https://www.phind.com/)
-- [X (Twitter)](https://twitter.com/phindsearch)
-- CEO's Twitter: [Michael Royzen](https://twitter.com/MichaelRoyzen)
-
-</details>
-
 ## [Postman Agent Mode](https://www.postman.com/product/agent-mode/)
 AI agent built into Postman for automating API workflows
 
@@ -4840,30 +4803,6 @@ Productivity, Content creation
 - [Slack](https://sagacommunity.slack.com/join/shared_invite/zt-13m3lrrdt-1x6~l6sLuR8CX~4c3fWwHA#/shared-invite/email)
 - [Discord](https://discord.com/invite/cgz2mUEq7P)
 
-
-</details>
-
-## [Second](https://www.second.dev/)
-Automated migrations and upgrades for your code
-
-<details>
-
-![image](https://assets-global.website-files.com/63717dfd25366f06c3ed64cc/645dcdc2d70f00fded6f6c0b_second-logo-white.png)
-
-### Category
-Coding
-
-### Description
-- Migrate frameworks such as Angular to React, libraries such as Redux to React Context, or languages such as JavaScript to TypeScript
-- Perform major version upgrades on any number of applications, of any size
-- Upgrade frameworks such as Next.js 12 to 13, libraries such as MUI 4 to 5, or languages such as Python 2 to 3
-- Target users: enterprise codebases
-
-### Links
-- [YCombinator](https://www.ycombinator.com/companies/second)
-- [Twitter](https://twitter.com/SecondDevHQ)
-- [Linkedin](https://www.linkedin.com/company/secondhq/)
-- Founder: [Eric Rowell](https://twitter.com/ericdrowell)
 
 </details>
 
