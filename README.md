@@ -3098,7 +3098,7 @@ General purpose, Productivity, Business intelligence
 </details>
 
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
-ML research and product lab building intelligence
+(Founders joined Amazon in 2024; its site is now a blog) ML research and product lab building intelligence
 
 <details>
 
@@ -3106,15 +3106,17 @@ ML research and product lab building intelligence
 General purpose
 
 ### Description
+- In June 2024 Adept announced that its co-founders and part of the team were joining Amazon, which licensed its agent technology, models and some datasets; the remaining company, led by Zach Brock, said it would focus on solutions that enable agentic AI
+- The adept.ai website now opens on its blog, with no product or sign-up page
 - A ML research and product lab building general intelligence by enabling humans and computers to work together creatively
 - An AI teammate for everyone
 - "Adept is building an entirely new way to get things done. It takes your goals, in plain language, and turns them into actions on the software you use every day."
-- In early stage
 - "We’re building a machine learning model that can interact with everything on your computer."
 
 
 ### Links
-- [Twitter](https://www.adept.ai/?utm_source=awesome-ai-agents)
+- [Web](https://www.adept.ai/?utm_source=awesome-ai-agents)
+- [An update from Adept (June 2024)](https://www.adept.ai/blog/adept-update/)
 - [Linkedin](https://www.linkedin.com/company/adeptai/?utm_source=awesome-ai-agents)
 
 </details>
@@ -3309,8 +3311,8 @@ Productivity, Research, General purpose
 </details>
 
 
-## [AskToSell](https://asktosell.com/)
-Meet autonomous AI sales agents that close deals
+## [AskToSell](https://cust.co/)
+(Now Cust, an AI customer-retention platform) Meet autonomous AI sales agents that close deals
 
 <details>
 
@@ -3320,12 +3322,13 @@ Meet autonomous AI sales agents that close deals
 Sales, Build-your-own, Business intelligence, Marketing
 
 ### Description
+- AskToSell has become Cust, from the same founder: its Retention Agents research customer accounts for churn risks and expansion opportunities and draft actions such as renewal proposals
 - A web platform to deploy & manage autonomous AI sales agents that close small deals.
 - Autonomous agents will contact your leads, qualify, prepare offers, handle objections, negotiate, and close the deal with superhuman-like performance
 - AskToSell autonomously moves your leads through the pipeline. AI Sales Agents will learn about your product, contact your leads, qualify, prepare proposals, handle objections, negotiate, and close the deals. 
 
 ### Links
-- [Web](https://asktosell.com/)
+- [Web (Cust)](https://cust.co/)
 - [LinkedIn](https://www.linkedin.com/company/asktosell/)
 - [Founder's LinkedIn - Laimonas Noreika](https://www.linkedin.com/in/laimonasn/)
 
@@ -3352,8 +3355,8 @@ Business intelligence, Productivity, Data analysis
 
 </details>
 
-## [Athena Intelligence](https://www.athenaintelligence.ai/)
-24/7 Enterprise AI Data Analyst
+## [Athena Intelligence](https://athenaintel.com/)
+(Now an enterprise AI-agent platform) 24/7 Enterprise AI Data Analyst
 
 <details>
 
@@ -3363,12 +3366,13 @@ Business intelligence, Productivity, Data analysis
 Data analysis, Business intelligence
 
 ### Description
+- The company's site now describes Olympus as a platform for building and orchestrating AI agents for complex, highly regulated knowledge work, with Athena as its general-purpose agent, or "AI employee"
 -  Athena is an AI-native analytics platform designed to accelerate analytics workflows for enterprise teams.
 -  It offers both co-pilot and auto-pilot modes, learning users' workflows to allow for autonomous execution with confidence.
 -  Athena supports querying data, generating visualizations, analyzing enterprise data, and codifying workflows, making it a powerful tool for data-driven decision-making.
 
 ### Links
-- [Web](https://www.athenaintelligence.ai/)
+- [Web](https://athenaintel.com/)
 - [Founder's LinkedIn](https://www.linkedin.com/in/brendongeils/)
 
 </details>
@@ -4292,8 +4296,8 @@ Data analysis
 - "Jupyter Notebooks on steroids"
 
 ### Links
-- [Docs](https://julius.ai/docs/chat-start-guide)
-- [Use cases](https://julius.ai/use_cases)
+- [Docs](https://julius.ai/docs/get-started/quickstart)
+- [Use cases](https://julius.ai/use-cases)
 - [Twitter](https://twitter.com/JuliusAI)
 - Team Twitter profiles: [Matt Brockman](https://twitter.com/badphilosopher), [rahul](https://twitter.com/0interestrates)
 
