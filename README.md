@@ -866,6 +866,7 @@ AI agent that keeps npm dependencies up-to-date
 Coding
 
 ### Description
+- Its maker Xeol was acquired by HeroDevs in February 2025, and the repository's last commit was in August 2024
 - Put dependency management and upgrades on autopilot
 - bumpgen BUMPs an npm package's version up then GENerates the code fixes for breaking changes
 - Supports gpt-4-turbo
@@ -875,6 +876,7 @@ Coding
 ### Links
 - [Repo](https://github.com/xeol-io/bumpgen)
 - [Docs](https://docs.xeol.io/bumpgen/home)
+- [HeroDevs acquires Xeol](https://www.herodevs.com/blog-posts/herodevs-acquires-xeol-to-help-users-of-end-of-life-open-source-software-secure-their-applications-and-protect-their-data)
 
 </details>
 
@@ -1229,7 +1231,7 @@ Coding, Multi-agent
 </details>
 
 ## [Devika](https://github.com/stitionai/devika)
-Agentic AI Software Engineer
+(Succeeded by Opcode, per its README) Agentic AI Software Engineer
 
 <details>
 
@@ -1238,11 +1240,15 @@ Agentic AI Software Engineer
 Coding, general purpose
 
 ### Description
+- Its README now begins "Checkout Opcode, the second iteration of Devika. New version out soon!", and the repository's last commit was in September 2025
+- CVE-2026-51873, published October 1, 2026, describes a directory-traversal flaw in Devika v1.0 that lets code be written outside the project workspace; the related GitHub issue (#707) is still open
 - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective.
 - Devika aims to be a competitive open-source alternative to Devin by Cognition AI.
 
 ### Links
 - [GitHub](https://github.com/stitionai/devika)
+- [Opcode](https://opcode.sh/)
+- [CVE-2026-51873](https://nvd.nist.gov/vuln/detail/CVE-2026-51873)
 
 </details>
 
@@ -3618,8 +3624,8 @@ Coding, Multi-agent, GitHub
 </details>
 
 
-## [Codegen](https://www.codegen.com/)
-Solve tickets, write tests, level up your workflow
+## [Codegen](https://clickup.com/blog/clickup-codegen-acquisition/)
+(Acquired by ClickUp; the standalone service was deprecated on January 16, 2026) Solve tickets, write tests, level up your workflow
 
 <details>
 
@@ -3630,13 +3636,14 @@ Coding
 
 ### Description
 Codegen is an agent that allows automatically solve tickets, write tests and level up user's development workflow with the power of GPT-4.
+- ClickUp announced in December 2025 that it had acquired Codegen and would build its coding agents into ClickUp; Codegen's CEO Jay Hack became ClickUp's Head of AI. ClickUp's announcement says the Codegen service "will be officially deprecated on January 16, 2026"; codegen.com now carries a "Codegen has joined ClickUp" notice and an AI-tool directory
 - Use-case: Coding, debugging, code migration etc.
 - Models used: GPT-4
 
 
 
 ### Links
-- [Web](https://www.codegen.com/)
+- [Announcement: ClickUp acquires Codegen](https://clickup.com/blog/clickup-codegen-acquisition/)
 - [X ](https://twitter.com/Codegen)
 - [Founder's X](https://twitter.com/mathemagic1an)
 </details>
@@ -4041,7 +4048,7 @@ Productivity
 </details>
 
 ## [GitHub Copilot X](https://github.com/features/copilot)
-AI-powered software developer
+(Now simply GitHub Copilot) AI-powered software developer
 
 <details>
 
@@ -4051,6 +4058,7 @@ AI-powered software developer
 Coding, GitHub
 
 ### Description
+- GitHub's Copilot page now calls it "your AI coding agent", with the GitHub Copilot app for directing agents from issue to merge, a CLI and an MCP registry
 - AI pair programmer
 - Chat and terminal interfaces
 - Support for pull requests
@@ -4116,7 +4124,7 @@ Coding
 </details>
 
 ## [Grit](https://www.grit.io/)
-Automating code migrations and dependency upgrades
+(Acquired by Honeycomb in April 2025; the standalone product was sunset) Automating code migrations and dependency upgrades
 
 <details>
 
@@ -4126,10 +4134,12 @@ Automating code migrations and dependency upgrades
 Coding
 
 ### Description
+- Honeycomb announced on April 10, 2025 that it had acquired Grit, said it would sunset the Grit product and fold its AI agents into Honeycomb, and said GritQL, the query engine for codebase analysis and transformation, remains open source
 - Grit uses machine learning and static analysis to auto-generate pull requests for cleaning up technical debt
 - Users can declare how they want their code to be structured and let Grit rewrite it for them
 
 ### Links
+- [Honeycomb acquires Grit](https://www.honeycomb.io/blog/honeycomb-acquires-grit)
 - [Linkedin](https://www.linkedin.com/company/getgrit/0)
 - [Twitter](https://twitter.com/gritdotio)
 
