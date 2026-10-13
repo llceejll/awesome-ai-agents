@@ -1251,7 +1251,6 @@ Open-source Devin alternative
 
 <details>
 
-![Image]()
 ### Category
 Coding, general purpose
 
@@ -2055,7 +2054,7 @@ Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Int
 </details>
 
 
-## [MemGPT](https://github.com/letta-ai/letta)
+## [MemGPT](https://github.com/letta-ai/letta-code)
 (Now Letta) Memory management system, providing context to LLM
 
 <details>
@@ -2066,11 +2065,14 @@ Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Int
 Memory management, Data analysis
 	
 ### Description
+- Letta (formerly MemGPT) is actively developed; its current source is letta-ai/letta-code, an agent harness with a terminal UI and an App Server that also powers the desktop and web apps. The older letta-ai/letta repository now points there and keeps the retired Letta V1 API server on its archive branch
 - A system that intelligently manages different memory tiers in LLMs to effectively provide the extended context within the LLM's limited context window. 
 - Chat with your data - talk to your local files or SQL database
 - Create perpetual chatbots with self-editing memory
 
 ### Links  
+- [GitHub: letta-code (current source)](https://github.com/letta-ai/letta-code)
+- [GitHub: letta (original MemGPT code and the retired V1 server)](https://github.com/letta-ai/letta)
 - [Paper](https://arxiv.org/abs/2310.08560)
 - [Documentation](https://docs.letta.com/)
 - [Discord](https://discord.gg/9GEQrxmVyE)
@@ -2801,11 +2803,12 @@ Multi-agent, GUI Agent
 
 ### Description
 - Agent by Microsoft
+- The repository now presents UFO³ Galaxy, which orchestrates tasks across multiple devices, as the recommended path; the UFO² Desktop AgentOS described here remains available for single Windows machines
 - UFO is a UI-Focused dual-agent framework to fulfill user requests on Windows OS by seamlessly navigating and operating within individual or spanning multiple applications.
 
 ### Links
 - [GitHub](https://github.com/microsoft/UFO)
-- [Web]()
+- [Documentation](https://microsoft.github.io/UFO/)
 - [Paper](https://arxiv.org/abs/2402.07939)
 
 </details>
