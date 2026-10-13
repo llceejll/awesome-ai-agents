@@ -232,7 +232,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [Aide by Codestory](https://github.com/codestoryai/aide)
-AI code interpreter, AI-powered mod of VSCode
+(No longer maintained) AI code interpreter, AI-powered mod of VSCode
 
 <details>
 
@@ -242,8 +242,7 @@ AI code interpreter, AI-powered mod of VSCode
 Coding
 
 ### Description
-- Still in early stage, new features coming soon
-- Now available for JS/TS
+- The project is no longer maintained, according to its README; the source stays on GitHub under AGPL-3.0
 - Can the codebase, identify the root cause, make the fix and auto-generate tests to evaluate whether the bug was resolved
 
 
@@ -411,7 +410,7 @@ General purpose, Coding
 </details>
 
 ## [Automata](https://github.com/emrgnt-cmplxty/automata)
-Generate code based on your project context
+(Archived) Generate code based on your project context
 
 <details>
 
@@ -497,7 +496,7 @@ Coding, Developer tools
 </details>
 
 ## [AutoPR](https://github.com/irgolic/AutoPR)
-AI-generated pull requests agent that fixes issues
+(Archived) AI-generated pull requests agent that fixes issues
 
 <details>
 
@@ -789,7 +788,7 @@ Coding, Debugging
 
 
 ## [Bloop](https://github.com/BloopAI/bloop)
-AI code search, works for Rust and Typescript
+(Archived) AI code search, works for Rust and Typescript
 
 <details>
 
@@ -1400,7 +1399,7 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 </details>
 
 ## [Flowise](https://flowiseai.com/)
-Low code Agent builder
+(Wound down in 2026, code archived) Low code Agent builder
 
 <details>
 
@@ -1410,9 +1409,11 @@ Low code Agent builder
 Build-your-own (agent-builing frameworks and platforms)
 
 ### Description
+- The team announced it is winding down Flowise: feature development stopped on July 29, 2026, the repository was archived on August 13, 2026 and end of life was set for August 31, 2026; the Apache 2.0 source stays on GitHub for anyone to fork
 - Flowise is an open source low-code tool for developers to build customized LLM orchestration flow & AI agents
 
 ### Links
+- [Announcement: The Future of Flowise](https://github.com/FlowiseAI/Flowise/discussions/6727)
 - [Web](https://flowiseai.com/)
 - [GitHub](https://github.com/FlowiseAI/Flowise)
 - [X (Twitter)](https://x.com/FlowiseAI)
@@ -1541,8 +1542,8 @@ Multi-agent, Research
 
 </details>
 
-## [GPT Engineer](https://gptengineer.app/)
-Generates entire codebase based on a prompt
+## [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+(Archived; the web app is now Lovable) Generates entire codebase based on a prompt
 
 <details>
 
@@ -1563,7 +1564,7 @@ GPT Engineer is an AI agent that generates an entire codebase based on a prompt.
 
 
 ### Links
-- [Web](https://gptengineer.app)
+- [Web (now Lovable)](https://lovable.dev)
 - [GitHub](https://github.com/AntonOsika/gpt-engineer)
 - Author: [Anton Osika](https://twitter.com/antonosika)
 - [Twitter review by @Attack](https://twitter.com/Attack/status/1671165869064609792)
@@ -2073,7 +2074,7 @@ Memory management, Data analysis
 </details>
 
 ## [Mentat](https://github.com/AbanteAI/archive-old-cli-mentat)
-Assists you with coding task from command line
+(No longer maintained) Assists you with coding task from command line
 
 <details>
 
