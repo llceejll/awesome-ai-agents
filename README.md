@@ -876,8 +876,8 @@ Coding
 
 </details>
 
-## [Cal.ai](https://cal.ai)
-Open-source scheduling assistant built on Cal.com
+## [Cal.ai](https://cal.com/ai)
+(Pivoted to an AI phone agent) Open-source scheduling assistant built on Cal.com
 
 <details>
 
@@ -887,11 +887,13 @@ Open-source scheduling assistant built on Cal.com
 Productivity
 
 ### Description
+- The email assistant described below was deprecated and removed in August 2024 because it was not accurate enough; Cal.ai is now an AI phone agent built into Cal.com workflows that calls participants to book, reschedule, cancel and confirm meetings, charged by usage
 - Cal.ai can book meetings, summarize your week, and find time with others based on natural language.
 - Responds flexibly to unseen tasks eg. "move my second-last meeting to tomorrow morning".
 - Uses GPT-4 and LangChain Agent Executor under the hood.
 
 ### Links
+- [Removal of the email assistant](https://github.com/calcom/cal.com/pull/16003)
 - Authors: [Cal.com core team](https://github.com/calcom/cal.diy/graphs/contributors), [Dexter Storey](https://github.com/dexterstorey), [Ted Spare](https://github.com/tedspare)
 
 </details>
@@ -1060,7 +1062,7 @@ Coding
 </details>
 
 ## [Continue](https://continue.dev/)
-(No longer actively maintained) Open-source autopilot for software development
+(Acquired by Cursor; no longer actively maintained) Open-source autopilot for software development
 
 <details>
 
@@ -1070,7 +1072,8 @@ Coding
 Coding
 
 ### Description
-- The team shipped a final 2.0.0 release of the VS Code extension, CLI and JetBrains plugin; the GitHub repository is now read-only and, according to its README, no longer actively maintained
+- Continue was acquired by Cursor; its site says the open-source codebase remains freely available as a foundation for others
+- The team shipped a final 2.0.0 release of the VS Code extension, CLI and JetBrains plugin, and the GitHub repository is now read-only and, according to its README, no longer actively maintained
 - An open-source autopilot for software development—bring the power of ChatGPT to VS Code
 - Features:
 	- Answer coding questions
@@ -2602,7 +2605,7 @@ Superagent is not a single agent, but a tool that allows creating agents without
 </details>
 
 
-## [SuperAGI](https://superagi.com/)
+## [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
 Framework to develop and deploy AI agents
 <details>
 
@@ -2613,6 +2616,7 @@ General purpose
 
 ### Description
 SuperAGI is an open-source autonomous AI framework to enable development and deployment autonomous agents
+- As of October 2026 the framework's latest release is v0.0.14 from January 2024 and its latest commit is from January 2025; the company's site now presents SuperAGI as a platform of 50+ AI-native business apps and agents, with sales tools such as a business phone and an enablement library
 - An AI agent framework
 - Open source, but infrastructure is -source
 - Features
@@ -2634,6 +2638,7 @@ SuperAGI is an open-source autonomous AI framework to enable development and dep
 
 ### Links
 - [GitHub](https://github.com/TransformerOptimus/SuperAGI)
+- [Web (company)](https://superagi.com/)
 - [YouTube](https://www.youtube.com/@_superagi)
 - [Discord](https://discord.com/invite/dXbRe5BHJC)
 - [Subreddit](https://www.reddit.com/r/Super_AGI/)
@@ -3817,8 +3822,8 @@ Design, Content creation
 
 </details>
 
-## [Docket AI](https://docketai.net/)
-AI Sales Engineer for somplex B2B sales
+## [Docket AI](https://www.docket.io/)
+(Now an AI marketing agent for B2B websites) AI Sales Engineer for complex B2B sales
 
 <details>
 
@@ -3828,12 +3833,13 @@ AI Sales Engineer for somplex B2B sales
 Sales
 
 ### Description
+- Docket's site now calls it an AI Demand Agent for B2B Marketing: an agent that chats with website visitors to turn them into qualified leads, alongside a Product Expert Agent that answers detailed product questions
 - Docket AI is your personal AI Sales Engineer, empowers AEs to win more.
 - It provides instant sales answers, automated RFP responses, and insights from top producers.
 - Powered by the Sales Knowledge Lake™, Docket unifies your company’s sales data with genAI. Transforming sales productivity and win rates.
 
 ### Links
-- [Web](https://docketai.net/)
+- [Web](https://www.docket.io/)
 
 </details>
 
