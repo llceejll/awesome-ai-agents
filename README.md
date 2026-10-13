@@ -3140,7 +3140,7 @@ General purpose
 </details>
 
 ## [AgentScale](https://agentscale.ai/)
-(Now an AI automation services company with its own products) Your assistant, email writer, calendar scheduler
+(Now an AI automation services company) Your assistant, email writer, calendar scheduler
 
 <details>
 
@@ -3503,7 +3503,7 @@ General purpose, Productivity, Data analysis, Multi-agent, Build-your-own
 </details>
 
 ## [broadn](https://www.broadn.io/?utm_source=awesome-ai-agents)
-(Pivoted to AI quoting and order automation for manufacturers) No-code copilot that allows users to build AI apps
+(Pivoted to AI quoting for manufacturers) No-code copilot that allows users to build AI apps
 
 <details>
 
@@ -3629,7 +3629,7 @@ Coding, Multi-agent, GitHub
 
 
 ## [Codegen](https://clickup.com/blog/clickup-codegen-acquisition/)
-(Acquired by ClickUp; the standalone service was deprecated on January 16, 2026) Solve tickets, write tests, level up your workflow
+(Acquired by ClickUp; service deprecated in January 2026) Solve tickets, write tests, level up your workflow
 
 <details>
 
@@ -4129,7 +4129,7 @@ Coding
 </details>
 
 ## [Grit](https://www.grit.io/)
-(Acquired by Honeycomb in April 2025; the standalone product was sunset) Automating code migrations and dependency upgrades
+(Acquired by Honeycomb in 2025; product sunset) Automating code migrations and dependency upgrades
 
 <details>
 
@@ -4325,7 +4325,7 @@ Coding, Data analysis
 </details>
 
 ## [Kompas AI](https://kompas.ai/)
-(kompas.ai now presents a different product, a local-first thinking workspace) Pick your LLM & build custom conversational agent
+(kompas.ai is now a different product, a thinking workspace) Pick your LLM & build custom conversational agent
 
 <details>
 
@@ -4687,7 +4687,7 @@ General purpose, Personal assistant, Business intelligence, Productivity
 
 
 ## [Questflow](https://questflow.ai)
-(Repositioned in August 2026 as an AI finance agent platform) Marketplace for autonomous AI workers with no-code
+(Repositioned in 2026 as an AI finance agent platform) Marketplace for autonomous AI workers with no-code
 
 <details>
 
