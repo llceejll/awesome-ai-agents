@@ -118,6 +118,7 @@ General purpose, Build your own, Multi-agent
 
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
+
 <details>
 
 ![Image](https://raw.githubusercontent.com/reworkd/AgentGPT/main/next/public/banner.png)
@@ -127,6 +128,7 @@ Browser-based no-code version of AutoGPT
 General purpose
 
 ### Description
+- The GitHub repository is archived and read-only; its last commit was in April 2025
 - A no-code platform
 - Process:
 	- Assigning a goal to the agent
@@ -1091,6 +1093,7 @@ Coding
 
 ## [CrewAI](https://github.com/crewAIInc/crewAI)
 Framework for orchestrating role-playing agents
+
 <details>
 
 ![Image](https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/images/crewai_logo.png)
@@ -1101,7 +1104,7 @@ Build-your-own, SDK for agents, Multi-agent
 ### Description
 - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 - By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- Crew AI is a multi-agent framework built on LangChain, aiming to empower engineers to harness the collective power of AI agents. In contrast to traditional automation methods, Crew AI introduces a new approach to collaborative decision-making, enhanced creativity, and solving complex problems.
+- Crew AI is a multi-agent framework, originally built on LangChain but no longer dependent on it, aiming to empower engineers to harness the collective power of AI agents. In contrast to traditional automation methods, Crew AI introduces a new approach to collaborative decision-making, enhanced creativity, and solving complex problems.
 - The design philosophy of Crew AI advocates simplicity through modularity. Its main components include agents, tools, tasks, processes, and crews. Each agent is akin to a team member, possessing specific roles, background stories, goals, and memories. Through modular design, we make the intricate world of AI agents accessible, manageable, and more engaging.
 
 
@@ -2818,6 +2821,7 @@ Coding, Debugging, Code migration, Data analysis
 
 ### Description
 Vanna is an Open-Source Python-based AI SQL agent trained on your schema that writes complex SQL in seconds
+- The GitHub repository is archived and read-only; its last commit was in February 2026
 - AI-driven business intelligence assistant
 - Vanna helps you generate and run accurate SQL for your database using LLMs via Retrieval-Augmented Generation
 - Vanna works in two easy steps - train a RAG "model" on your data, and then ask questions which will return SQL queries that can be set up to automatically run on your database
