@@ -3097,7 +3097,7 @@ General purpose
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
-Secure, People-Centric Autonomous AI Agents
+(Now an applied AI lab that builds Trinity) Secure, People-Centric Autonomous AI Agents
 
 <details>
 
@@ -3108,7 +3108,7 @@ General purpose, Productivity, Business intelligence
 
 ### Description
 - Empowering Businesses with Secure, People-Centric Autonomous AI Agents
-- Still in early version
+- The company's site now calls it an applied AI lab and presents Trinity, an operating system for compounding intelligence that customers own, offered as managed, open-source or partner deployments
 
 ### Links
 - [Web](https://ability.ai/)
@@ -3140,7 +3140,7 @@ General purpose
 </details>
 
 ## [AgentScale](https://agentscale.ai/)
-Your assistant, email writer, calendar scheduler
+(Now an AI automation services company with its own products) Your assistant, email writer, calendar scheduler
 
 <details>
 
@@ -3152,6 +3152,7 @@ General purpose, Productivity
 ### Description
 AgentScale is your very own personal assistant, email writer, calendar scheduler, and internet surfer
 - AgentScale is your very own AI personal assistant
+- The site now describes AgentScale AI as providing automation with RPA, LLMs and agents, and lists products such as Atlas, an AI workspace and web reader, and Deep Scraper, a browser extension that extracts data from websites
 
 
 ### Links
@@ -3276,7 +3277,7 @@ Productivity, Multi-agent, Coding
 
 </details>
 
-## [Artisian AI](https://github.com/Artisan-AI)
+## [Artisian AI](https://www.artisan.co/)
 Agents for sales, e-mails, book keeping & more
 
 <details>
@@ -3295,6 +3296,7 @@ Multi-agent, Build-your-own
 
 
 ### Links
+- [Web](https://www.artisan.co/)
 - [GitHub](https://github.com/Artisan-AI)
 - [X ](https://twitter.com/GetArtisanAI)
 - [LinkedIn](https://www.linkedin.com/company/artisanai/)
@@ -3437,7 +3439,7 @@ Data analysis, Productivity, Build-your-own (agent-builing frameworks and platfo
 </details>
 
 ## [Blackbox AI](https://www.blackbox.ai/)
-Software That Builds Software
+(Now positioned as an enterprise inference platform; coding agents remain) Software That Builds Software
 
 <details>
 
@@ -3447,6 +3449,7 @@ Software That Builds Software
 - General purpose, coding, data analysis
 
 ### Description
+- Blackbox's homepage now calls it "the high-trust platform for frontier inference": one endpoint for 300+ models and dedicated deployments of open-weight models, alongside its Agents API, CLI and VS Code extension for coding
 - BLACKBOX.AI is a coding LLM designed to transform the way we build software.
 
 By building BLACKBOX.AI, our goal is to:
@@ -3500,7 +3503,7 @@ General purpose, Productivity, Data analysis, Multi-agent, Build-your-own
 </details>
 
 ## [broadn](https://www.broadn.io/?utm_source=awesome-ai-agents)
-No-code copilot that allows users to build AI apps
+(Pivoted to AI quoting and order automation for manufacturers) No-code copilot that allows users to build AI apps
 
 <details>
 
@@ -3510,6 +3513,7 @@ No-code copilot that allows users to build AI apps
 Coding
 
 ### Description
+- The site now says broadn turns inbound RFQs and sales orders into quotes sent to the customer's CRM and orders sent to its ERP, for U.S. manufacturers
 - broadn is a no-code platform that helps non-technical people build AI products in minutes. We're faster and more flexible than traditional no-code tools through an LLM powered conversational interface and an agent architecture that automates complex backend/workflow operations
 - Features
 	- Conversational interface
@@ -3741,7 +3745,7 @@ Cursor is the AI-first Code Editor. Build software faster in an editor designed 
 </details>
 
 ## [Cykel](https://www.cykel.ai/)
-Interact with any UI, website or API
+(Now sells AI digital workers for recruitment, sales and research) Interact with any UI, website or API
 
 <details>
 
@@ -3754,6 +3758,7 @@ General purpose, Productivity
 ### Description
 Cykel is an AI co-pilot model that can interact with any UI, website or API in response to natural language commands
 - Use-case: General purpose, Personal assistant (helping with daily tasks)
+- The site now presents Cykel as a platform of digital workers: Eve, an AI sales agent, Lucy, an AI recruiter, and Samson, an AI research analyst
 
 
 ### Links
@@ -3905,7 +3910,7 @@ Data analysis, Business intelligence
 </details>
 
 ## [Duckie AI](https://duckie.ai/)
-Team of AI SW development companions (Ducklings)
+(Its site now describes AI support agents) Team of AI SW development companions (Ducklings)
 
 <details>
 
@@ -3915,6 +3920,7 @@ Coding, Multi-agent
 
 ### Description
 Duckie AI is a platform that lets engineers manage a team of AI software development companions (Ducklings) that get their dev work done
+- duckie.ai now describes Duckie as an agentic platform for support teams, whose agents resolve tickets, investigate issues and automate support workflows (Y Combinator W24)
 - Ducklings work with engineers to complete end-to-end feature development, from design to implementation
 - Ducklings chat with users to define their goals, come up with engineering designs, and generate code
 - Founded: 2023
@@ -3988,8 +3994,7 @@ Build-your-own, General purpose
 - With Fine-Tuner, you can build sophisticated, tailored AI agents at scale without any need for technical skills or coding. Just bring your data and ideas, and we'll provide the toolset you need to transform them into powerful AI solutions, capable of handling vast amounts of data and users. Take advantage of our scalable platform to meet your growing needs with ease and efficiency
 - Connecting Your Chatbot to Your App
 
-- FineTuner.ai is a no-code AI platform that enables users to create and deploy custom AI agents and components without any coding.
-With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI development, allowing users to focus on their unique use cases and ideas.
+- FineTuner.ai is a no-code AI platform that enables users to create and deploy custom AI agents and components without any coding. With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI development, allowing users to focus on their unique use cases and ideas.
 
 4.1. Access the API tab for an overview of the required tokens and parameters to connect your chatbot to your app using REST API endpoints.
 - The Fine-Tuner REST API provides API endpoints for Fine-Tuner data types that allow to interact with your AI models remotely by sending and receiving JSON
@@ -4222,7 +4227,7 @@ Coding, Data analysis
 </details>
 
 ## [iMean.AI](https://www.imean.ai/)
-AI personal assistant that automates browser task
+(Pivoted to an AI trip planner) AI personal assistant that automates browser task
 
 <details>
 
@@ -4230,6 +4235,7 @@ AI personal assistant that automates browser task
 Productivity, Daily life, Build-your-own (agent-builing frameworks and platforms)
 
 ### Description
+- iMean's site now presents a free AI trip planner for flights, hotels and itineraries; its LinkedIn page says its first product was a web agent
 - iMean is the first public product that automates browser task end to end deterministically.
 - Unlike existing solutions that either stuck at middle steps or output only text instructions, iMean can automate the task for you and get you real results.
 
@@ -4319,7 +4325,7 @@ Coding, Data analysis
 </details>
 
 ## [Kompas AI](https://kompas.ai/)
-Pick your LLM & build custom conversational agent
+(kompas.ai now presents a different product, a local-first thinking workspace) Pick your LLM & build custom conversational agent
 
 <details>
 
@@ -4329,6 +4335,7 @@ Pick your LLM & build custom conversational agent
 Productivity, Build-your-own, Business intelligence
 
 ### Description
+- The site at kompas.ai now describes Kompas as a local-first workspace for capturing, connecting and writing from your own notes and reading, not the team assistant described below
 - Kompas AI is an advanced AI assistant for your team.
 - It's designed to assist and enhance your productivity.
 - It processes multiple tasks simultaneously.
@@ -4483,7 +4490,7 @@ Coding, Productivity, Generating apps, Design, Content creation
 </details>
 
 ## [Manaflow](https://manaflow.com/)
-Automate technical business workflows
+(Now an open-source applied AI lab; its product is cmux) Automate technical business workflows
 
 <details>
 
@@ -4493,6 +4500,7 @@ Automate technical business workflows
 Productivity, Coding, Workflow automation
 
 ### Description
+- The site now describes Manaflow as an open-source applied AI lab building next-generation devtools, led by cmux, an open-source terminal built for coding agents
 - Manaflow empowers non-technical teams to automate recurring workflows that require analyzing data, connecting APIs, and taking actions.
 - Using English, you can train Manaflow agents to interface with multiple third-party apps concurrently, host custom-built APIs, conduct customer interviews, build persistent data dashboards, run custom ML models, and execute actions for your business.
 
@@ -4530,13 +4538,14 @@ General purpose
 
 
 ## [NexusGPT](https://gpt.nexus/)
-Build AI agents in minutes, without coding
+(Now Nexus, at agent.nexus) Build AI agents in minutes, without coding
 <details>
 
 ### Category
 Technical challenges of building AI products, Business/marketing challenges of building AI products
 
 ### Description
+- The company now operates as Nexus (agent.nexus), a no-code platform for building AI agents with 4000+ integrations and a published SDK, CLI and MCP server, which its NexusGPT GitHub organisation hosts
 - NexusGPT enables anyone to build, finetune, and integrate autonomous AI agents without touching a single line of code.
 - On Nexus, you can create agents able to perform about any task you can imagine and integrate them where it matters the most for you (from your website all the way to your internal Slack channel).
 - To do that, nexus provides an existing marketplace of over 1000 ready-made agents as well as over 1500 tools ready to add to your agent.
@@ -4546,6 +4555,8 @@ Technical challenges of building AI products, Business/marketing challenges of b
 
 ### Links
 - [Web](https://gpt.nexus/)
+- [Nexus](https://agent.nexus/)
+- [Nexus SDK, CLI and MCP server](https://github.com/NexusGPT/agent-nexus)
 - [X (Twitter)](https://twitter.com/nexus_gpt)
 - [LinkedIn](https://www.linkedin.com/company/nexusgpt/)
 
@@ -4676,7 +4687,7 @@ General purpose, Personal assistant, Business intelligence, Productivity
 
 
 ## [Questflow](https://questflow.ai)
-Marketplace for autonomous AI workers with no-code
+(Repositioned in August 2026 as an AI finance agent platform) Marketplace for autonomous AI workers with no-code
 
 <details>
 
@@ -4686,6 +4697,7 @@ Marketplace for autonomous AI workers with no-code
 Build-your-own
 
 ### Description
+- Questflow announced on August 18, 2026 that it is repositioning as a platform for AI Finance Agents, which let retail investors follow and invest alongside professional investors' strategies; its earlier developer platform for multi-agent swarms is still documented at questflow.ai/qdp
 - Questflow is a marketplace designed for SMBs to connect with autonomous AI workers.
 - Our platform enables digital workers to discover and deploy AI agents for seamless workflow automation.
 - With a no-code editor, we empower digital knowledge providers to create, distribute, and monetize AI workers.
@@ -4695,7 +4707,8 @@ Build-your-own
 ### Links
 - [Twitter](https://twitter.com/questflow)
 - [Telegram](https://t.me/+lAFNg26e5aA5NGNl)
-- [Discord](https://twitter.com/questflow)
+- [Web](https://questflow.ai)
+- [Announcement: AI Finance Agent](https://www.globenewswire.com/news-release/2026/08/18/3346897/0/en/questflow-unveils-brand-evolution-as-ai-finance-agent-advancing-financial-intelligence-for-all.html)
 
 </details>
 
@@ -4801,7 +4814,7 @@ General purpose, Multi-agent, Supports open-source models
 </details>
 
 ## [ShopPal](https://shoppal.ai)
-AI assistant, enhance shopping experience.
+(Now AI integration and go-to-market services for fashion brands) AI assistant, enhance shopping experience.
 
 <details>
 
@@ -4811,6 +4824,7 @@ AI assistant, enhance shopping experience.
 Productivity, Research, Ecommerce
 
 ### Description
+- The site now describes ShopPal AI as a U.S.-based company providing AI infrastructure integration, operational enablement and go-to-market execution services for fashion and apparel brands
 - "🛍️ShopPal: Your Curated AI Shopping Assistant🥂💰💳
 - Curated AI shopping assistant, aiming to enhance and accompany your shopping experience.
 - To enhance and accompany your shopping experience, ShopPal delivers summary insights, tailored recommendations, visual comparisons, and the best deals, which are all personalized just for you! "
@@ -4917,7 +4931,7 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 </details>
 
 ## [Wordware](https://www.wordware.ai/)
-Build better language model apps, fast.
+(Now an AI context lab; its main product is Sauna) Build better language model apps, fast.
 
 <details>
 
@@ -4925,6 +4939,7 @@ Build better language model apps, fast.
 Build-your-own, Supports open-source models
 
 ### Description
+- Wordware now describes itself as an AI context lab in San Francisco whose main product is Sauna, an AI assistant built for compounding context; its site lists the platform described below as Wordware v1
 - Wordware is your all-in-one platform for deploying LLM applications.
 - LLMs/model providers supported
   - GPT-3.5
