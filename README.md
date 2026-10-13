@@ -913,8 +913,8 @@ General purpose
 
 ### Description
 - CAMEL is an open-source library designed for the study of autonomous and communicative agents.
-1)AI user agent: give instructions to the AI assistant with the goal of completing the task.
-2) AI assistant agent: follow AI user’s instructions and respond with solutions to the task
+	1. AI user agent: give instructions to the AI assistant with the goal of completing the task.
+	2. AI assistant agent: follow AI user’s instructions and respond with solutions to the task
 - CAMEL also has an open-source community dedicated to the study of autonomous and communicative agents
 
 ### Links
@@ -943,10 +943,10 @@ Design, Build-your-own, SDK for AI apps, Multi-agent
 ### Description
 - Deprecated on August 11, 2025 because of a lack of widespread community use; no further updates or support are planned
 - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
-ChatArena provides:
-- A general framework for building interactive environments for multiple large language models (LLMs). 
-- A collection of pre-built or community-created  environments.
-- User-friendly interfaces with both Web UI and commandline interfaces.
+- ChatArena provides:
+	- A general framework for building interactive environments for multiple large language models (LLMs).
+	- A collection of pre-built or community-created environments.
+	- User-friendly interfaces with both Web UI and commandline interfaces.
 
 ### Links
 - [GitHub](https://github.com/Farama-Foundation/chatarena)
@@ -3909,7 +3909,7 @@ Coding, Multi-agent
 ### Description
 Duckie AI is a platform that lets engineers manage a team of AI software development companions (Ducklings) that get their dev work done
 - Ducklings work with engineers to complete end-to-end feature development, from design to implementation
-Ducklings chat with users to define their goals, come up with engineering designs, and generate code
+- Ducklings chat with users to define their goals, come up with engineering designs, and generate code
 - Founded: 2023
 - Location: San Francisco
 
