@@ -2419,7 +2419,7 @@ Private GPT is A tool for private interaction with documents, without a need for
 </details>
 
 ## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
-AI agent that helps with nutrition and other goals
+(Succeeded by cognee) AI agent that helps with nutrition and other goals
 
 <details>
 
@@ -2442,7 +2442,7 @@ Productivity, General purpose
 
 ### Links
 - [GitHub](https://github.com/topoteretes/)
-- [Website](https://prometh.ai)
+- [cognee, the successor project](https://www.cognee.ai/)
 - Author: [Vasilije M](https://twitter.com/tricalt)
 </details>
 
