@@ -1137,8 +1137,6 @@ Build-your-own
 	- Load data from anywhere
 	- No-code: User-friendly interface to manage your datastores and chat with your data
 	- Secured API endpoint for querying your data
-	- Auto sync data sources (coming soon)
-	- Auto generates a ChatGPT Plugin for each datastore
 
 ### Links
 - [GitHub](https://github.com/gmpetrov/databerry)
@@ -4233,8 +4231,8 @@ Productivity
 </details>
 
 
-## [Hex Magic](https://hex.tech/product/magic-ai/)
-AI tools for doing amazing things with data
+## [Hex Magic](https://hex.tech/capability/ai/)
+(Now called Hex AI) AI tools for doing amazing things with data
 
 <details>
 
@@ -4247,10 +4245,10 @@ Coding, Data analysis
 - "A suite of powerful AI features meant to augment data people"
 - Hex can explain and document your code
 - Hex Magic features know about database schemas, past operations, and the project’s execution graph, so they can make deeper, more insightful recommendations
-
-You can see more – and sign up for the waitlist – over here.
+- Magic entered public beta in May 2023; Hex's docs now call these features Hex AI and say they were formerly referred to as Hex Magic
 
 ### Links
+- [Docs: AI in Hex](https://learn.hex.tech/docs/getting-started/ai-overview)
 - [Launch post](https://hex.tech/blog/magic-private-beta/)
 
 </details>
@@ -4511,7 +4509,7 @@ Coding, Content creation, Productivity, Build-your-own (agent-builing frameworks
 </details>
 
 ## [Makedraft](https://makedraft.com/)
-Generate + edit HTML components with text prompts
+(Pivoted to a repo-based builder for React and Next.js) Generate + edit HTML components with text prompts
 
 <details>
 
@@ -4521,14 +4519,12 @@ Generate + edit HTML components with text prompts
 Coding, Productivity, Generating apps, Design, Content creation
 
 ### Description
-- Makedraft is an AI that generates frontend code based on your instructions. You can then copy the HTML to any project
-- You can generate HTML templates with text prompts or highlight the code you want changed and instruct the AI on what to change
-- Makedraft also generates Javascript, as well as Alpine.js. Vue.js is coming soon
-- Makedraft will be introducing a Showcase for people to see Showcase projects. Makedraft is currently in open beta and is free to use. A Pro plan will be available soon. Users who subscribe to the Pro plan will have have their generated projects set to private by default
+- Makedraft started as an AI that generates frontend code from your instructions: HTML templates, JavaScript and Alpine.js that you copy into any project, and edits to code you highlight
+- It now works on real projects: every chat opens a branch in a real GitHub repository, every commit is deployed automatically, and React and Next.js projects are supported
+- Plans are Free, Starter, Pro and Business; the paid plans remove the Makedraft branding, and Pro and Business let you choose the AI model
 
 ### Links
 - [Web](https://makedraft.com/)
-- [Docs](https://docs.makedraft.com/)
 - [X](https://twitter.com/makedraft)
 - [YouTube](https://www.youtube.com/@makedraft)
 - [Founder's X: David Ma](https://twitter.com/realdavidma)
@@ -4561,7 +4557,8 @@ Productivity, Coding, Workflow automation
 </details>
 
 ## [Minion AI](https://minion.ai/)
-By creator of GitHub Copilot, in waitlist stage
+Web agent founded by the creator of GitHub Copilot
+
 <details>
 
 ![image](https://minion.ai/img/minion-1.png)
@@ -4570,12 +4567,16 @@ By creator of GitHub Copilot, in waitlist stage
 General purpose
 
 ### Description
-By creator of GitHub Copilot, in waitlist stage
-
+- An AI assistant that controls a web browser to perform tasks, founded by Alex Graveley, formerly chief architect of GitHub Copilot
+- Graveley's résumé lists his time as Minion's founder and CEO as December 2022 to October 2024, when he joined Perplexity
+- The website now links to a web playground
 
 ### Links
+- [Web](https://minion.ai/)
+- [Playground](https://play.minion.ai/)
 - [Twitter](https://twitter.com/ai_minion)
 - Author: [Alex Graveley](https://twitter.com/alexgraveley)
+- [Alex Graveley's résumé](https://alexgraveley.com/resume.html)
 </details>
 
 
@@ -4981,7 +4982,7 @@ Coding, Productivity, Debugging, Testing
 </details>
 
 ## [ThinkChain AI](https://www.thinkchain.ai/)
-Financial AI agent platform
+(Pivoted to AI interviews and MCP bundles) Financial AI agent platform
 
 <details>
 
@@ -4991,12 +4992,12 @@ Financial AI agent platform
 Finance, Data analysis
 
 ### Description
-- ThinkChain provides a large and growing set of advanced AI agents, e.g.
+- ThinkChain originally offered a set of advanced AI agents for finance, e.g.
   	- Discover agent - can access search and your Knowledge base for informed answers
   	- Chain of Thought agent - breaks questions into parts to be addressed independently
   	- Analyst agent - creates realtime financial analysis, from DCF to LBO and everything in between
   	- Auto Agent - can create an entire workflow from scratch
-- Currently in an early access version
+- The ThinkChain.ai site now lists two products, Agent Interviews (an AI-powered platform for qualitative interviews and surveys) and MCP Bundles (cloud-hosted MCP server bundles for AI assistants), and no longer mentions the finance agents
 
 ### Links
 - [Web](https://www.thinkchain.ai/)
@@ -5042,7 +5043,6 @@ Coding
 
 ### Description
 v0 is a generative user interface system by Vercel Labs powered by AI. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS.
-- Currently in waitlist stage
 - v0 generates custom components on the fly that you can copy and paste into your existing codebase
 - Built on NextJS App Router
 - AI by the Vercel `ai` SDK
