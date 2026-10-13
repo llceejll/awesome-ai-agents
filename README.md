@@ -1594,7 +1594,7 @@ GOT Migrate easily migrates your codebase from one framework or language to anot
 </details>
 
 ## [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)
-Code the entire scalable app from scratch
+(No longer maintained; security warning) Code the entire scalable app from scratch
 
 <details>
 
@@ -1605,12 +1605,16 @@ Coding
 
 ### Description
 GPT Pilot is an AI agent that codes the entire app as you oversee the code being written
+- Security warning: a credential-stealing worm was found hidden in the repository's `core/telemetry/` code and was removed on June 11, 2026; if you ran GPT Pilot from source, read the repository's security notice and rotate your credentials as it advises
+- The repository is no longer actively maintained, according to its README
 - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - A research project to see how can GPT-4 be utilized to generate fully working, production-ready, apps
 - The main idea is that AI can write most of the code for an app (maybe 95%) but for the rest 5%, a developer is and will be needed until we get full AGI
 
 ### Links
 - [GitHub](https://github.com/Pythagora-io/gpt-pilot)
+- [Security notice](https://github.com/Pythagora-io/gpt-pilot#-security-notice)
+- [StepSecurity analysis of the compromise](https://www.stepsecurity.io/blog/pythagora-io-gpt-pilot-compromised-on-github-shai-hulud-credential-stealer-blocked-by-python-linter)
 - [Discord](https://discord.com/invite/HaqXugmxr9)
 
 
