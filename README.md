@@ -1,7 +1,7 @@
 <!--
 TBD:
 Add to readme list:
-- Semantix AI Agents - add when they have english version (checked Oct 2026: the product docs are still Portuguese only)
+- Semantix AI Agents - add when the product documentation is in English (checked Oct 2026: semantix.ai/en has English marketing pages, but semantix.ai/documentacoes is still Portuguese)
 	-->
 
 <h1 align="center">
